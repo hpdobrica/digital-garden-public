@@ -1,10 +1,10 @@
 ---
-title : Public note
+title : DNS
 notetype : feed
 date : 31-10-2021
 ---
 
-DNS provides us a way to give names to ip addresses. For example, if you have a database running on a host in your local network behind the ip 192.168.1.6 (Host B), you can name it "db" by adding a line in the hosts file on your host (Host A):
+DNS ([[Domain Name]] System) provides us a way to give names to ip addresses. For example, if you have a database running on a host in your local network behind the ip 192.168.1.6 (Host B), you can name it "db" by adding a line in the hosts file on your host (Host A):
 
 ```bash
 # appends to a file every line you make (icluding \n) until you interrupt
