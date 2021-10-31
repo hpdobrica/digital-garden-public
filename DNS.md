@@ -46,3 +46,4 @@ cat /etc/resolv.conf
 
 `8.8.8.8` is a public DNS Server hosted by Google. You can have multiple entries in your resolv.conf file to overcome this, but this means that you'd have to edit all the hosts in your network to make youtube work everywhere. If we had a local DNS Server, what we can could do instead is configure it to forward all unknown host names to the public nameserver on the internet.
 
+Page Status: #🌲
