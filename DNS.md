@@ -50,4 +50,4 @@ cat /etc/resolv.conf
 
 Status: #🌲 
 References:
-- 
+-
