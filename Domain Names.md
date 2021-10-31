@@ -22,3 +22,9 @@ From here multiple DNS Servers help resolve your request:
     
 
 So if you have a domain dobrica.sh, and you want to resolve db.dobrica.sh to your db - if you wrote a record like this, you wouldn't be able to reach your db in local network as just `db` anymore. How do you say "when i say `db`, i mean `db.dobrica.sh`"? You can add another line to your `/etc/resolv.conf` file: `search dobrica.sh`. Next time you try to ping `db`, you will see it tries to reach `db.dobrica.sh`.
+
+-----
+
+Status: #🌲 
+References:
+- 
