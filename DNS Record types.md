@@ -11,3 +11,9 @@ There are multiple record types that can be stored in a [[DNS]] server:
 -   `IPv6 -> Hostname` is known as **AAAA Record**
     
 -   `Hostname -> Hostname` is known as **C Record**
+
+-----
+
+Status: #🌲 
+References:
+- 
