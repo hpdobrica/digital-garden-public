@@ -4,7 +4,7 @@ notetype : feed
 date : 31-10-2021
 ---
 
-DNS ([[Domain Name]]s System) provides us a way to give names to ip addresses. For example, if you have a database running on a host in your local network behind the ip 192.168.1.6 (Host B), you can name it "db" by adding a line in the hosts file on your host (Host A):
+DNS ([[Domain Names]] System) provides us a way to give names to ip addresses. For example, if you have a database running on a host in your local network behind the ip 192.168.1.6 (Host B), you can name it "db" by adding a line in the hosts file on your host (Host A):
 
 ```bash
 # appends to a file every line you make (icluding \n) until you interrupt
@@ -17,7 +17,7 @@ Whatever we put inside `/etc/hosts` file will be taken for granted, and is the s
 
 Whenever you try to reach db, the host A will look at its hosts file, find the record that says db points to 192.168.1.6, and reach to that IP address. This process is known as [[DNS Resolution]].
 
-Within a small network, you can get away with specifying the names and the ip addresses of other hosts in the hosts file - in fact this is how it was done in the past, until the environments grew and these files became too big to maintain. If one of the server's IP changes, you'd have to modify its IP on all other hosts. The solution to this was to move all of these entries to a separate server that will manage them centrally - this is called a **DNS Server**.
+Within a small network, you can get away with specifying the names and the ip addresses of other hosts in the hosts file. As the system grows, this will grow harder to maintain as the files will grow bigger, and as one of the server IPs changes, you'd have to update all of the hosts. The solution to this is to centrally manage DNS entries in a [[DNS Server]].
 
 After we moved all of our entries to the DNS Server, we need a way to point all of our towards it for name resolution. We can do this by specifying the IP of the DNS Server inside of `/etc/resolv.conf` file.
 
