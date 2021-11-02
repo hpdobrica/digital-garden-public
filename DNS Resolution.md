@@ -4,7 +4,7 @@ notetype : feed
 date : 02-11-2021
 ---
 
-DNS Resolution is a process in which [[Domain Names]] are converted to IP addresses of the hosts they point to.
+[[DNS]] Resolution is a process in which [[Domain Names]] are converted to IP addresses of the hosts they point to.
 
 The process of resolution is handled by multiple DNS servers which forward the requests to each other in order to find the server with the actual IP address. In the example of `maps.google.com`:
 - Your local machine doesn't know what `maps.google.com` is, so it forwards the request to the DNS Servers on the internet
