@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-[[K8S Scheduler]] is making sure that every [[K8s Pod]] is assigned to a node. Every pod tht gets created has a property `NodeName` which is not set by default. kube-scheduler looks for pods with these fields unset and assigns them a node by setting the `NodeName` property.
+[[K8S Scheduler]] is making sure that every [[K8s Pod]] is assigned to a node. Every [[Kubernetes]] Pod that gets created has a property `NodeName` which is not set by default. kube-scheduler looks for pods with these fields unset and assigns them a node by setting the `NodeName` property.
 
 The Pods are created before they are scheduled, and since the `NodeName` field is immutable, Scheduler can't just edit the pod. It has to create a [[K8S Binding Object]] and create a post request to the [[K8S Apiserver]].
 

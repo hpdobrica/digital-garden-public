@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-Once you run `kubectl run busybox --image busybox`, what has to happen before your [[K8S Pod]] is running successfully?
+Once you run `kubectl run busybox --image busybox` on your [[Kubernetes]] cluster, what has to happen before your [[K8S Pod]] is running successfully?
 
 The [[K8S Apiserver]] is the component which recieves your request, authenticates you, validates the request and writes your action into [[etcd cluster]]. At this point, the pod resource is created, but is in Pending state.
 
@@ -16,7 +16,7 @@ The kubelet will then:
 
 - create the pod on the node
 - instruct the container runtime engine ([[K8S CRI]]) to deploy the application image
-- invoke the CNI plugin to add the new pod to the pod network
+- invoke the [[K8S CNI]] plugin to add the new pod to the pod network
 - configure DNS resolution in that pod so it can reach the services and pods by their domain names ([[DNS Resolution in Kubernetes]])
 - update the status back to the Apiserver, who lastly updates the data again into the etcd cluster
 
