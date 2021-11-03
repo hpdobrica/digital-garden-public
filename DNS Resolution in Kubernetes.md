@@ -18,9 +18,11 @@ Your pod's dnsPolicy is set to `ClusterFirst`, which makes your pod use CoreDNS 
 
 CoreDNS pod's policy is set to `Default`, so when Kubelet creates CoreDNS pods, it will make CoreDNS inherit the DNS resolution rules of the host node. This makes sure that CoreDNS will forward any non-cluster-dns requests to be resolved by the node itself - and Viola, you can resolve both `mysvc.default.svc.cluster.local` and `www.google.com` from your pod!
 
+Instead of CoreDNS, it's possible to use anything that conforms with the [Kubernetes DNS Specification](https://github.com/kubernetes/dns/blob/master/docs/specification.md)
+
 -----
 
 Status: #🌱 
 
 References:
-- 
+- https://coredns.io/plugins/kubernetes/
