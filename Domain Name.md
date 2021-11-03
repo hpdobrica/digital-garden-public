@@ -1,5 +1,5 @@
 ---
-title : Domain Names
+title : Domain Name
 notetype : feed
 date : 31-10-2021
 ---
