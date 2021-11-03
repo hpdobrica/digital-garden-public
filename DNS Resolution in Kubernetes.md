@@ -5,7 +5,7 @@ date : 02-11-2021
 ---
 
 To figure out how [[DNS Resolution]] works in [[Kubernetes]], there are a few important components to consider:
-- k8s DNS server running on the cluster (e.g. CoreDNS)
+- k8s DNS server running on the cluster (e.g. [[CoreDNS]])
 - Node's local DNS resolution (e.g. `/etc/resolv.conf`)
 - [[Kubelet]] which creates pods and prepares them for DNS resolution
 - [[Kubernetes Services]] which get cluster domain names in the k8s DNS server (e.g. `mysvc.default.svc.cluster.local`)
