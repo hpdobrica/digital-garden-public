@@ -22,7 +22,7 @@ Instead of CoreDNS, it's possible to use anything that conforms with the [Kubern
 
 -----
 
-Status: #🌱 
+Status: #🌲 
 
 References:
 - https://coredns.io/plugins/kubernetes/
