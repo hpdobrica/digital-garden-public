@@ -25,4 +25,4 @@ At this point, your Pod is successfully running on a Node.
 
 -----
 
-Status: #🌱 
+Status: #🌲 

@@ -42,5 +42,5 @@ Once this is set up, every time container is created with `--network bridge`, Do
 
 -----
 
-Status: #🌱 
+Status: #
 

@@ -35,7 +35,7 @@ cat /etc/resolv.conf
 
 -----
 
-Status: #📥
+Status: #🌲 
 
 References:
 - 
