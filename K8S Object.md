@@ -1,5 +1,5 @@
 ---
-title : Kubernetes Object
+title : K8S Object
 notetype : feed
 date : 07-11-2021
 ---

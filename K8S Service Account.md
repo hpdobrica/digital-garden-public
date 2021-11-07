@@ -4,7 +4,7 @@ notetype : feed
 date : 07-11-2021
 ---
 
-Service Accounts are [[Kubernetes Object]]s used to help pods with [[K8S Authentication]].
+Service Accounts are [[K8S Object]]s used to help pods with [[K8S Authentication]].
 
 The ServiceAccount object is namespace-scoped. It's used to allow a process in a pod to access Kubernetes API Server. There exists a default service account object, but it has no permissions attached to it.
 
