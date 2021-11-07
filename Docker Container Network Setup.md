@@ -49,6 +49,8 @@ ip -n somenamespaceid link
 
 The two interfaces can be identified as paired by the same virtual cable bacause they have sequential odd-even `if` numbers in their names (`@if17` is pair with `@if18`, `@if1` is pair with `@if2`).
 
+In case you requested a port mapping while running a container, Docker executes some aditional steps to enable this, as described in [[Docker Port Mapping]].
+
 -----
 
 Status: #🌱 
