@@ -18,5 +18,5 @@ Kubernetes comes with a set of CNI plugins supported by default (`BRIDGE`, `VLAN
 
 -----
 
-Status: #🌱 
+Status: #💡 
 

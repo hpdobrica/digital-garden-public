@@ -14,5 +14,5 @@ Kubernetes is a container orchestration platform. This note serves as a Map of C
 
 -----
 
-Status: #🌱 
+Status: #🌲 
 Tags: #🗺️

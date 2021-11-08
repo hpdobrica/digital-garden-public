@@ -17,7 +17,7 @@ The service account can be imperatively created with `kubectl create serviceacco
 
 -----
 
-Status: #🌱 
+Status: #💡 
 
 References:
 - 

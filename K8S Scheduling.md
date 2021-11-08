@@ -18,5 +18,5 @@ If there were no kube-scheduler on the cluster, you could create the pod with th
 
 -----
 
-Status: #🌱 
+Status: #💡 
 

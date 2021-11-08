@@ -13,7 +13,7 @@ These are the main components of the worker node:
 
 -----
 
-Status: #📥
+Status: #💡 
 
 References:
 - 

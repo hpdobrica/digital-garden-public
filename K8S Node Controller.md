@@ -15,7 +15,7 @@ This is the workflow by which Node Controller works:
 
 -----
 
-Status: #🌱 
+Status: #💡 
 
 References:
 - https://kubernetes.io/docs/concepts/architecture/nodes/#node-controller

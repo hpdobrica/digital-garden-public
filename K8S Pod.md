@@ -12,7 +12,7 @@ A pod can have a specific [[K8S Service Account]] attached to it, otherwise it u
 
 -----
 
-Status: #📥
+Status: #💡 
 
 References:
 - 

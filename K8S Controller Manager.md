@@ -24,7 +24,7 @@ All of the controllers are packaged together into a process called `kube-control
 
 -----
 
-Status: #🌱 
+Status: #💡 
 
 References:
 - 

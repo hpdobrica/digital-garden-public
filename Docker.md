@@ -10,5 +10,5 @@ This note serves as a link to connect Docker-related notes.
 
 -----
 
-Status: #📥
+Status: #🌲 
 Tags: #🗺️ 

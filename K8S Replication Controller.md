@@ -8,7 +8,7 @@ Replication Controller is part of [[K8S Controller Manager]] in [[Kubernetes]]. 
 
 -----
 
-Status: #📥
+Status: #🌱 
 
 References:
 - 

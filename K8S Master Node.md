@@ -14,7 +14,7 @@ These are the main components of the k8s controlplane:
 
 -----
 
-Status: #📥
+Status: #💡 
 
 References:
 - 

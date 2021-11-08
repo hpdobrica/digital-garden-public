@@ -18,7 +18,7 @@ ps -aux | grep kubelet
 
 -----
 
-Status: #🌱 
+Status: #💡 
 
 References:
 - 
