@@ -1,0 +1,14 @@
+---
+title : K8S Scheduler
+notetype : feed
+date : 08-11-2021
+---
+
+Scheduler is a [[K8S Master Node]] component in charge of [[K8S Scheduling]].
+
+-----
+
+Status: #🌱 
+
+References:
+- 
