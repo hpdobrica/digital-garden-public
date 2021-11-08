@@ -10,6 +10,8 @@ ReplicaSet uses the labels defined in the selector property to find all the pods
 
 If the number of pods is less than specified, it uses the provided template to create a new pod. If this pod has the labels that match the ones specified in selector, it will take this new pod into consideration when counting again.
 
+The actu
+
 > ReplicaSet doesn't just manage pods that it creates, it manages all pods with a given label, no matter the source.
 
 ReplicaSet can be a target of [[K8S Horizontal Pod Autoscalers]].
