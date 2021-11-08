@@ -4,7 +4,7 @@ notetype : feed
 date : 07-11-2021
 ---
 
-Node Controller is responsible for monitoring the status of the nodes in [[Kubernetes]] cluster and keeping them in the desired state. It does this through the [[K8S Apiserver]]. 
+Node Controller is responsible for monitoring the status of the nodes in [[Kubernetes MOC]] cluster and keeping them in the desired state. It does this through the [[K8S Apiserver]]. 
 
 This is the workflow by which Node Controller works:
 - If a new node is created, Node Controller will assign it a [[CIDR]] block.

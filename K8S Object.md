@@ -4,7 +4,7 @@ notetype : feed
 date : 07-11-2021
 ---
 
-To see a list of available [[Kubernetes]] objects on your cluster, you can run:
+To see a list of available [[Kubernetes MOC]] objects on your cluster, you can run:
 
 ```bash
 

@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-When [[Docker]] is installed, it creates an internal private network which is by default called `bridge` . You can see this network like this:
+When [[Docke]] is installed, it creates an internal private network which is by default called `bridge` . You can see this network like this:
 
 ```bash
 docker network ls
