@@ -1,5 +1,5 @@
 ---
-title : Kubernetes MOC
+title : Kubernetes
 notetype : feed
 date : 03-11-2021
 ---

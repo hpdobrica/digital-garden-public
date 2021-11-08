@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-When running a [[Docke]] container, there are several networking options to chose from:
+When running a [[Docker]] container, there are several networking options to chose from:
 
 ## None
 Runs a container in a completely isolated network. Container can't reach anything outside of it, and nothing can reach the container.

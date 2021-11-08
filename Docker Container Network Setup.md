@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-Whenever a container is created, [[Docke]] creates a [[Network Namespaces]] for it. 
+Whenever a container is created, [[Docker]] creates a [[Network Namespaces]] for it. 
 
 You wont be able to see it when running `ip netns` because [Docker doesn't create a symlink for it](https://stackoverflow.com/questions/31265993/docker-networking-namespace-not-visible-in-ip-netns-list). Let's assume you created the symlink as described in the link.
 

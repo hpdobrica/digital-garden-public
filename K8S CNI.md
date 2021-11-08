@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-[[Kubernetes MOC]] implements CNI(Container Network Interface) to allow third-party networking solutions to integrate with it.
+[[Kubernetes]] implements CNI(Container Network Interface) to allow third-party networking solutions to integrate with it.
 
 Each CNI solution needs to implement a set of things including, but not limited to:
 - creating bridge networks

@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-Once you run `kubectl run busybox --image busybox` on your [[Kubernetes MOC]] cluster, what has to happen before your [[K8S Pod]] is running successfully?
+Once you run `kubectl run busybox --image busybox` on your [[Kubernetes]] cluster, what has to happen before your [[K8S Pod]] is running successfully?
 
 The [[K8S Apiserver]] is the component which recieves your request, authenticates you, validates the request and writes your action into [[etcd cluster]]. At this point, the pod resource is created, but is in Pending state.
 
