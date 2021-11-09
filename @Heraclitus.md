@@ -1,10 +1,8 @@
 ---
-title : @Heraclitus
+title : Heraclitus
 notetype : feed
 date : 08-11-2021
 ---
-
-## Heraclitus
 
 
 Grumpy guy going around the street insulting everyone. Due to his behavior, he didn't have many followers to tell about gim, and his notes aren't that revealing as well as he was purposfully cryptic to "hide his thoughts".

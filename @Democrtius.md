@@ -1,10 +1,9 @@
 ---
-title : @Democrtius
+title : Democrtius
 notetype : feed
 date : 09-11-2021
 ---
 
-## Democrtius
 
 Godfather of the idea that everything is made of atoms and empty space. The guy who turned Monism into a taboo doctrine.
 

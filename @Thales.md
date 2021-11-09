@@ -1,11 +1,8 @@
 ---
-title : @Thales
+title : Thales
 notetype : feed
 date : 08-11-2021
 ---
-
-## Thales
-
 
 OG philosopher, genious businessman, and an overall smart guy.
 

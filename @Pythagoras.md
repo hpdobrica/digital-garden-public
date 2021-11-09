@@ -1,10 +1,9 @@
 ---
-title : @Pythagoras
+title : Pythagoras
 notetype : feed
 date : 09-11-2021
 ---
 
-## Pythagoras
 
 Not many facts were known about Pythagoras, and most stuff. we know today is full of speculation. He was sort of a self-proclaimed math-loving cult-running messiah who loved math and Astronomy.
 
