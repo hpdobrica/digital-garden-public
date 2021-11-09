@@ -22,5 +22,3 @@ Following the same pattern, suffix `/0` will always mean any ip address regardle
 
 Status: #🌲 
 
-References:
-- 
