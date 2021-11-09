@@ -4,6 +4,8 @@ notetype : feed
 date : 09-11-2021
 ---
 
+## Democrtius
+
 Godfather of the idea that everything is made of atoms and empty space. The guy who turned Monism into a taboo doctrine.
 
 It is said that he came up the idea of atoms by searching for a solution to the Arrow Paradox. He recognized that the paradox is unsolvable because the half-distance can be divided infinitely. If there was a particle small enough to be non-divisible, the paradox is solved. He believed that there were different types of atoms, and that "the type of atom determines the taste of thing".

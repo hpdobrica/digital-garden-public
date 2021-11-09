@@ -4,7 +4,8 @@ notetype : feed
 date : 08-11-2021
 ---
 
-[[Pre-Socratic Philosophers]]
+## Heraclitus
+
 
 Grumpy guy going around the street insulting everyone. Due to his behavior, he didn't have many followers to tell about gim, and his notes aren't that revealing as well as he was purposfully cryptic to "hide his thoughts".
 
@@ -19,9 +20,9 @@ He wasn't really popular amongst philosophers, Plato and Aristotle completely wr
 
 He spent a fair share of his life playing dice for money. There is a story that he died covered in manure while trying to cure edema on his own, as he was intelectually superior to medical doctors.
 
+[[Pre-Socratic Philosophers]]
+
 -----
 
 Status: #💡 
-
-
 
