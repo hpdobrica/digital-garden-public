@@ -10,7 +10,7 @@ Secrets are very similar to ConfigMaps, the biggest difference being that they a
 
 Secret can come in one of several types, depending on it's usage and the type of data it holds (e.g. Opaque, docker config, basic auth, ssh auth..)
 
-Secrets are stored unencrypted in [[etcd cluster]] by default - it needs to be enabled in . Anyone who can create a pod in a namespace can read secrets in that namespace - you need to configure [[K8S RBAC]] rules to counter this.
+Secrets are stored unencrypted in [[etcd cluster]] by default - See [[K8S Encryption]] . Anyone who can create a pod in a namespace can read secrets in that namespace - you need to configure [[K8S RBAC]] rules to counter this.
 
 -----
 
