@@ -4,7 +4,7 @@ notetype : feed
 date : 28-11-2021
 ---
 
-Liskov Substitution Principle is the third of the [[SOLID Principles]] in [[OOP]]. It states this:
+Liskov Substitution Principle is the third of the [[Software Design]] [[SOLID Principles]] in [[OOP]]. It states this:
 
 If `S` is a subtype of `T`, then objects of type `T` may be replaced with objects of type `S` without breaking the program.
 
