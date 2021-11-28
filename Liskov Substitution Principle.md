@@ -17,6 +17,8 @@ To do this, we need to make sure we follow a couple of guidelines when overridin
 - Dog can't have any additional output checks on inherited methods (cant weaken postconditions)
 - Dog can't throw any new exceptions in inherited methods
 
+If our `Dog` can't fulfil these rules, we should probably not make it inherit from `Animal`. See [[Should I be inheriting from this type?]].
+
 -----
 
 Status: #💡

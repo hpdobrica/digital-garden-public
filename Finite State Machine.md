@@ -4,7 +4,7 @@ notetype : feed
 date : 20-11-2021
 ---
 
-One of the most well-known [[Design Pattern]] in computer science. It's useful when we see a system having a number of different states it can be in, with specific rules of which states can be accessed from which states. It's called a finite state machine, because it defines a finite number of possible states the machine can be in.
+One of the most well-known [[Design Pattern]]s in [[Software Design]]. It's useful when we see a system having a number of different states it can be in, with specific rules of which states can be accessed from which states. It's called a finite state machine, because it defines a finite number of possible states the machine can be in.
 
 A good example of a state machine is ATM:
 - when you approach it, it's in sort of a "pending" state, showing some adverts and waiting for a user to insert a card
@@ -33,7 +33,6 @@ One of the problems with state machines is that they don't remember previous sta
 
 -----
 
-Status: #🌱 
+Status: #🌲 
 
 References:
-- 
