@@ -8,7 +8,7 @@ Composition is a method of writing code in object-oriented programming. It attem
 
 While designing with Inheritance in mind, we are constantly trying to answer the question `what objects are?`. Composition on the other hand focuses on a different question - `What objects do?`. 
 
-It's important to note that `Composition over inheritance` is a principle that says that Composition should be favored over Inheritance, not that it should replace inheritance alltogether.
+It's important to note that `Composition over inheritance` is a principle that says that Composition should be favored over Inheritance, not that it should replace inheritance alltogether. See [[Should I be inheriting from this type?]].
 
 Let's look at a simple problem and how we'd first solve it with Inheritance. We want to represent some animals and robots in our application. 
 
