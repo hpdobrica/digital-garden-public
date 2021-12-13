@@ -4,7 +4,7 @@ notetype : feed
 date : 13-12-2021
 ---
 
-In case you are running a [[Kubernetes]] cluster in a HA setup with say, 3 [[K8S Master Node]]s, loss of majority of the nodes will stop the cluster from functioning. 
+In case you are running a [[Kubernetes]] cluster in a HA setup with say, 3 [[K8S Master Node]]s, loss of majority of the nodes will stop the cluster from reaching [[Consensus]] and thus, from functoning. 
 
 The main reason this breaks tha HA cluster is that [[etcd cluster]] loses ability to establish quorum between its members. Even though 2/3 members are dead, if they are not explicitly removed by `etcdctl member remove`, the remaining node will still try to reach them. 
 
