@@ -8,11 +8,17 @@ To completely delete a commit from a [[Git]] branch you can use the following co
 
 ```bash
 
-# on linux
-git rebase --rebase-merges --onto $1^ $1
+CURRENT_OS=$(uname -s)
 
-# on osx
-git rebase --rebase-merges --onto $1~ $1
+
+if [ "$CURRENT_OS" = "Linux" ]; then
+  git rebase --rebase-merges --onto $1^ $1
+fi
+
+if [ "$CURRENT_OS" = "Darwin" ]; then
+  git rebase --rebase-merges --onto $1~ $1
+fi
+
 
 
 ```
