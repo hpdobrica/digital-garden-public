@@ -105,4 +105,4 @@ Just dont forget to do `config pull` on your other machines to sync back your ch
 Status: #🌲 
 
 References:
-- https://www.atlassian.com/git/tutorials/dotfiles
+- [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
