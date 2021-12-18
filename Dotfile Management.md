@@ -83,13 +83,13 @@ A neat script to automatically back up your current files if they are conflictin
 BACKUP_DIR="~/.config-backup"
 
 if config checkout; then  
-   echo "No conflicts, checkout succesful.";  
+	echo "No conflicts, checkout succesful.";  
 else  
-   echo "Backing up pre-existing config files to $BACKUP_DIR";  
-   mkdir $BACKUP_DIR 
-   config checkout 2>&1 | egrep "\s+\." | awk {'print $1'} | xargs -I{} mv {} $BACKUP_DIR/{}  
-   echo "Repeating checkout now that pre-existing files are moved."
-   config checkout
+	echo "Backing up pre-existing config files to $BACKUP_DIR";  
+	mkdir $BACKUP_DIR 
+	config checkout 2>&1 | egrep "\s+\." | awk {'print $1'} | xargs -I{} mv {} $BACKUP_DIR/{}  
+	echo "Repeating checkout now that pre-existing files are moved."
+	config checkout
 fi
 
 
