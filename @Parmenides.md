@@ -1,5 +1,5 @@
 ---
-title : @Parmenides
+title : Parmenides
 notetype : feed
 date : 24-12-2021
 ---
@@ -32,7 +32,7 @@ Many philosophers that came after him agreed with him on many things, but couldn
 
 -----
 
-Status: #📥
+Status: #💡 
 
 References:
 - [[%Philozophize This 002]]
