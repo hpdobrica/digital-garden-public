@@ -5,7 +5,7 @@ date : 09-11-2021
 ---
 
 
-Not many facts were known about Pythagoras, and most stuff. we know today is full of speculation. He was sort of a self-proclaimed math-loving cult-running messiah who loved math and Astronomy.
+Not many facts were known about Pythagoras, and most stuff we know today is full of speculation. He was sort of a self-proclaimed math-loving cult-running messiah who loved math and Astronomy.
 
 He set up a commune in italy where around 300 philosophers joined to live the life of restriction with him as their leader. The people living there were investing all of their time into studying Math, Astronomy and Music, as they believed that understanding these equals to understanding the universe. The members of the commune believed in reincarnation, so they didn't eat meat (this chicken could be your passed relative, why'd you want to eat that?).
 
