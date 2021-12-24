@@ -14,7 +14,7 @@ His teachings talk about a universal cosmic law which governs everything. Some o
 - [[Everything is in permanent state of flux]]
 - since everything is changing, you can never precisely define what something is (standing in the same river twice)
 
-He wasn't really popular amongst philosophers, Plato and Aristotle completely wrote him off baaased on the work of one of his few students.
+He wasn't really popular amongst philosophers, Plato and Aristotle completely wrote him off based on the work of one of his few students.
 
 He spent a fair share of his life playing dice for money. There is a story that he died covered in manure while trying to cure edema on his own, as he was intelectually superior to medical doctors.
 
