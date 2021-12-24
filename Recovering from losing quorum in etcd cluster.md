@@ -18,6 +18,6 @@ After this is done, you just need to add the rest of the nodes to this new clust
 
 -----
 
-Status: #🌱 
+Status: #🌲 
 
 

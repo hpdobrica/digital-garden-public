@@ -27,7 +27,7 @@ Next, make sure that apiserver pod can access the file. For example, create `/et
 
 -----
 
-Status: #🌱 
+Status: #💡 
 
 References:
 - https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/

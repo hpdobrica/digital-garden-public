@@ -14,7 +14,7 @@ Secrets are stored unencrypted in [[etcd cluster]] by default - See [[K8S Encryp
 
 -----
 
-Status: #🌱 
+Status: #💡 
 
 References:
 - https://kubernetes.io/docs/concepts/configuration/secret/

@@ -15,5 +15,4 @@ There are multiple record types that can be stored in a [[DNS]] server:
 -----
 
 Status: #🌱 
-References:
-- 
+

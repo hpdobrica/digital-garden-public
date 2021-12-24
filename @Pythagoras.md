@@ -21,7 +21,7 @@ He was also big on the idea that Reason > Senses ([[Senses are deceptive]]), and
 
 -----
 
-Status: #🌱 
+Status: #💡 
 
 References:
 - [[%Philozophize This 002]]
