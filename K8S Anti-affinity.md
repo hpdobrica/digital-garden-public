@@ -75,7 +75,7 @@ spec:
 
 -----
 
-Status: #
+Status: #🌲 
 
 References:
-- 
+- [K8S Docs](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/#affinity-and-anti-affinity)
