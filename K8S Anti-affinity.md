@@ -75,7 +75,7 @@ spec:
 
 -----
 
-Status: #📥
+Status: #
 
 References:
 - 
