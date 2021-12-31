@@ -16,11 +16,8 @@ In essence: if there's some heritable variation in the population, and if that v
 
 
 
-
-
-
 -----
 
-Status: #🌱 
+Status: #💡 
 
 
