@@ -3,7 +3,7 @@ title : Social Darwinism
 notetype : feed
 date : 31-12-2021
 ---
-
+[Stake](https://traderjoexyz.com/#/stake)
 
 Social darwinists were (mostly) a group of sociologists who tried to apply [[Darwinism]] to social issues, and mostly to answer the question of how the idea of evolution could explain the social world around them.
 
