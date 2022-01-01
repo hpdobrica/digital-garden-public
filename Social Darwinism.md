@@ -17,7 +17,7 @@ Endangered species are often found to have little gene variations in their gene 
 
 Even though Social Darwinism carries Darwin's name, its logic relies on Lamarckian evolutionary model, which says that traits acquired through life can be inherited by the offsprings.
 
-In summary, Social Darwinism is taking a good idea from biology and turning it into a bad idea by trying to apply it to sociology by ascribing cultural differences to biological superiority.
+In summary, Social Darwinism is taking a good idea from biology and turning it into a bad idea in sociology by ascribing cultural differences to biological superiority.
 
 
 
