@@ -13,7 +13,7 @@ From there, his thinking went in the lines of "if the government helps the poor,
 
 This has followed into the idea that letting the "inferior" part of the population die out would make the human race "more evolved", completely ignoring the that reducing variation hinders the effects of [[Natural Selection]].
 
-Endangered species are often found to have little gene variations in their gene pools - the less variation you have between species the closer you are to "inbreeding effect" leading to unhealthy population - high-variation population is generally a more healthy population.
+Endangered species are often found to have little gene variations in their gene pools - the less variation you have between species the closer you are to "inbreeding effect" leading to unhealthy population - high-variation population is generally a more healthy population, making eugenics totally nonsensical from biological standpoint.
 
 Even though Social Darwinism carries Darwin's name, its logic relies on Lamarckian evolutionary model, which says that traits acquired through life can be inherited by the offsprings.
 
