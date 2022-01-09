@@ -27,6 +27,9 @@ mode(x) // 1
 
 ```
 
+
+Also see [[Median]] and [[Mean]].
+
 -----
 
 Status: #🌲 

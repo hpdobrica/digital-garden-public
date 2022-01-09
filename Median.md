@@ -18,6 +18,8 @@ median(x) // 3
 
 ```
 
+Also see [[Mean]] and [[Mode]].
+
 -----
 
 Status: #🌲 

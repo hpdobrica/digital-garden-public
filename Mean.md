@@ -16,7 +16,7 @@ mean(x) // 3
 
 ```
 
-
+Also see [[Median]] and [[Mode]].
 
 -----
 
