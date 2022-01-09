@@ -16,7 +16,7 @@ Having too many SLIs defined is guaranteed to cause problems, as you can't possi
 
 When deciding which indicators to choose, its better to start from desired [[SLO]]s and work your way back to indicators. See [[Defining Service Level Objectives]].
 
-When aggregating metrics for SLIs its much better to use percentiles than averages, as averages can hide many things we'd be interested in - if most requests complete within 50ms, but 5% of requests are 20x slower, it'd be hard to notice such a thing on average chart.
+When aggregating metrics for SLIs its much better to use percentiles than the [[Mean]], as mean can hide many things we'd be interested in - if most requests complete within 50ms, but 5% of requests are 20x slower, it'd be hard to notice such a thing on mean chart.
 
 
 
