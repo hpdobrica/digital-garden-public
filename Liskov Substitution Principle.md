@@ -21,8 +21,8 @@ If our `Dog` can't fulfil these rules, we should probably not make it inherit fr
 
 -----
 
-Status: #💡
+Status: #🌲 
 
 References:
-- [[+Liskov Substitution Principle Explained]] - https://www.youtube.com/watch?v=-3UXq2krhyw
-- https://en.wikipedia.org/wiki/Liskov_substitution_principle
+- [[+Liskov Substitution Principle Explained]] - [Youtube](https://www.youtube.com/watch?v=-3UXq2krhyw)
+- [Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
