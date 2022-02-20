@@ -28,6 +28,10 @@ func modify(s []string) {
 
 ```
 
+While go is a pass-by-value language and copies anything you pass into a function, these types hold references (pointers) to other types within them, which allows you to modify the underlying types.
+
+E.g. in the example above, go is copying the value of the slice, which holds a pointer to an underlying array, but it doesn't copy the array itself. Therefore, modifying the copied slice still affects the original slice, as both point to the same array.
+
 
 Types that behave like this are:
 - **slices**
