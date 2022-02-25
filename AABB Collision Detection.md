@@ -10,7 +10,7 @@ AABB works by checking if sides of rectangle A are outside of the opposite sides
 
 Given rectangles `A` and `B` with sides `top`, `bottom`, `left` and `right`, the formula we can use to check for collision would look something like this:
 
-Collision is detected if all of these statements are true:
+Collision is detected if all of these statements are true (just draw two rectangles and follow along):
 - `A.left`  is to the left of `B.right`  
 - `A.right` is to the right of `B.left` 
 - `A.top` is above `B.bottom` 
