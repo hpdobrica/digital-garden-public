@@ -6,7 +6,7 @@ date : 25-02-2022
 
 Axis-Aligned Bounding Box is one of the simplest collision detection methods, which only works on 2d rectangles that aren't rotated (their sides are parallel/perpendicular).
 
-AABB works by checking that if sides of rectangle A are outside of the opposite sides of rectangle B. For example, if top side of rectangle A is below bottom side of rectangle B, we know the two rectangles aren't colliding no matter what.
+AABB works by checking if sides of rectangle A are outside of the opposite sides of rectangle B. For example, if top side of rectangle A is below bottom side of rectangle B, we know the two rectangles aren't colliding no matter what.
 
 Given rectangles `A` and `B` with sides `top`, `bottom`, `left` and `right`, the formula we can use to check for collision would look something like this:
 
