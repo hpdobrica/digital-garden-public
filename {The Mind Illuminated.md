@@ -66,7 +66,7 @@ graph TD;
 - Five most important `vipassana` insights are insights into:
 	- impermanence
 	- emptiness
-	- nature of suffering
+	- nature of [[Suffering]]
 	- interdependence
 	- illusion of separate self
 - First four of these insights can be achieved by `samadhi` and `sati` alone
