@@ -23,5 +23,3 @@ His ideas were largely dismissed until 17th century. [[@Plato]] was against them
 
 Status: #💡 
 
-References:
-- 
