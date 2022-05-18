@@ -26,7 +26,7 @@ Docker accomplishes this by creating a [[Linux Bridge]] like so:
 ip link add docker0 type bridge
 ```
 
-Linux Bridge, while acting like a switch to the [[Network Namespaces]], it acts as an interface to the host. Therefore the interface `docker0` on the host is assigned an IP address.
+Linux Bridge, while acting like a [[Network Switch]] to the [[Network Namespaces]], it acts as an interface to the host. Therefore the interface `docker0` on the host is assigned an IP address.
 
 ```bash
 ip addr
