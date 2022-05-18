@@ -31,7 +31,7 @@ cat /proc/sys/net/ipv4/ip_forward
 #> 0
 ```
 
-Having `0` in there means forwarding is not enabled. you can enable it by simply doing `echo 1 > /proc/sys/net/ipv4/ip_forward`. From this point on, host `A` will be able to ping host `C` by using host `B` as a router.
+Having `0` in there means forwarding is not enabled. you can enable it by simply doing `echo 1 > /proc/sys/net/ipv4/ip_forward`. From this point on, host `A` will be able to ping host `C` by using host `B` as a [[Network Router]].
 
 Last thing to note is that the change above won't persist across restarts. In order to persist it, you need to set the value `net.ipv4.ip_forward` in `/etc/sysctl.conf` to `1`.
 
