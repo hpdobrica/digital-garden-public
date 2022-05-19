@@ -8,7 +8,7 @@ Our consciousness consists of whatever we are experiencing in the moment. It's b
 
 -----
 
-Status: #📥
+Status: #🌱 
 
 References:
 - 
