@@ -12,13 +12,13 @@ It works by training our minds to enable us to live more conciously than we norm
 
 There are many types of meditation which come from different sources,  have different techniques, goals, benefits. When I talk about meditation, I mostly refer to Buddhist practices - while there are many different "branches" of buddhism, i'm not focusing on any one in particular, but trying to learn as much as possible from any of them.
 
-Meditation has helped shape my life for the better, and I haven't even properly scratched the surface yet. While its final goal is Awakening, my opinion is that its more than worth practicing even for the low-hanging fruits it offers.
+Meditation has helped shape my life for the better, and I haven't even properly scratched the surface yet. While its final goal is [[Awakening]], my opinion is that its more than worth practicing even for the low-hanging fruits it offers.
 
 
 
 -----
 
-Status: #🌱 
+Status: #💡 
 
 References:
 - 

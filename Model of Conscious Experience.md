@@ -45,7 +45,7 @@ This pattern is in the heart of [[Meditation]] practice - we set clear intention
 
 -----
 
-Status: #🌱 
+Status: #💡 
 
 References:
 - [[{The Mind Illuminated]]
