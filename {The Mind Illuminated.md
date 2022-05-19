@@ -273,6 +273,6 @@ second objective of meditation - mindfulness:
 
 -----
 
-Status: #📥/📖/🔄 
+Status: #🛈/📖/🔄 
 
 
