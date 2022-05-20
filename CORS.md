@@ -4,7 +4,7 @@ notetype : feed
 date : 25-02-2022
 ---
 
-CORS (Cross-Origin Resource Sharing) is a mechanism that allows the server to dictate from which other origins a browser should be allowed to load resources.
+CORS (Cross-Origin Resource Sharing) is a mechanism that allows the server to dictate from which other origins a browser should be allowed to load its resources.
 
 For example, if i serve a website from `my-domain.com`, and use javascript to try to fetch a resource like `someone-elses-domain.com/cool.json`, `someone-elses-domain.com` would need to use a CORS header to explicitly allow me to request this from a domain other than its own.
 
