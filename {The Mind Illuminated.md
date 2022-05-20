@@ -12,7 +12,7 @@ date : 02-04-2022
 - Meditation works by teaching our minds that we can live more conciously than we do by default. Then, through appropriately directed concious activity, it allows us to get a better understanding of our minds, world aroud us and relaity.
 - The knowledge granted by practicing meditation is intuitive in nature, and simply knowing it intelectually is not enough to unlock it's benefits - it must be gained directly through observation and experience. 
 - This is important because actual happiness can only come from within - unless our mind is in order, nothing outside of it will make much impact on our happiness for a significant period of time (https://www.youtube.com/watch?v=6Y4fE1tmy6Y)
-- Final goal of meditation is attaining Awakening - the attainment of genuine wisdom - removal of ignorance through direct experience.
+- Final goal of meditation is attaining [[Awakening]] - the attainment of genuine wisdom - removal of ignorance through direct experience.
 - This book is aimed to be a comprehensive guide for meditation.
 
 Modern road map for meditation:
