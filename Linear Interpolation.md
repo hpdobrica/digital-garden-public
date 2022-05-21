@@ -34,5 +34,4 @@ Lerp(100, 10, 0) // returns 100, the interpolation can go in reverse too!
 
 Status: #🌲 
 
-References:
-- 
+

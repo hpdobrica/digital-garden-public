@@ -4,7 +4,7 @@ notetype : feed
 date : 20-11-2021
 ---
 
-Pushdown Automata is an implementation of a [[Finite State Machine]] which uses a [[Stack]] [[Data Structure]] to store it's states.
+Pushdown Automata is an implementation of a [[Finite State Machine]] [[Design Pattern]] which uses a [[Stack]] [[Data Structure]] to store it's states.
 
 The top of the stack represents the currently active state, while the one below it is the state that we just transitioned from. While with the default FSM setup transitioning to previous state would be impossible, with Pushdown Automata it's a matter of popping the currently active state.
 
