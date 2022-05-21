@@ -8,7 +8,7 @@ Service Level Indicators are quantitative measures of provided level of service,
 
 Common SLIs are availability, error rate, latency, throughput, durability of data.
 
-We have a lot of metrics available for our systems, but not all of them should be defined as SLIs.  Good SLIs are metrics that our users care about. When we don't have the metrics our users care about the most (e.g. frontend latency), we should find the next best thing that we have available (e.g. backend latency).
+We have a lot of metrics we are [[Monitoring]] in our systems, but not all of them should be defined as SLIs.  Good SLIs are metrics that our users care about. When we don't have the metrics our users care about the most (e.g. frontend latency), we should find the next best thing that we have available (e.g. backend latency).
 
 If in some cases server-side metrics (e.g. gathered via Prometheus or log processing) are not good enough, measuring frontend metrics (e.g. time to a full page load) can give us much more information and cover some potential blind spots (e.g. slow js on frontend).
 
