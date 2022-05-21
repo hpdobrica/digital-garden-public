@@ -1,5 +1,5 @@
 ---
-title : Source - Site Reliability Engineering
+title : Site Reliability Engineering
 notetype : feed
 date : 22-11-2021
 ---
