@@ -22,4 +22,4 @@ Five most important Vipassanas are insights into:
 Status: #💡 
 
 References:
-- [[Source - The Mind Illuminated]]
+- [[Book - The Mind Illuminated]]

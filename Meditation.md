@@ -4,7 +4,7 @@ notetype : feed
 date : 05-04-2022
 ---
 
-"The beauty and significance of life well lived consists not in the works we leave behind, or in what history has to say about us. It comes from the quality of concious experience that infuses our every waking moment, and from the impact we have on others." - Culadasa, [[Source - The Mind Illuminated]]
+"The beauty and significance of life well lived consists not in the works we leave behind, or in what history has to say about us. It comes from the quality of concious experience that infuses our every waking moment, and from the impact we have on others." - Culadasa, [[Book - The Mind Illuminated]]
 
 Meditation is a mental exercise which gives us tools to examine and better understand our minds, our [[Model of Conscious Experience]] and the world around us.
 

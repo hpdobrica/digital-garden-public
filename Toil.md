@@ -28,4 +28,4 @@ While we should always strive to reduce toil, it's important to note that some a
 Status: #💡 
 
 References:
-- [[Source - Site Reliability Engineering]]
+- [[Book - Site Reliability Engineering]]
