@@ -48,4 +48,4 @@ This pattern is in the heart of [[Meditation]] practice - we set clear intention
 Status: #💡 
 
 References:
-- [[{The Mind Illuminated]]
+- [[The Mind Illuminated]]

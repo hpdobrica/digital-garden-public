@@ -26,4 +26,4 @@ Take note that some SLOs might be forced upon us, and some might be dependent on
 Status: #💡 
 
 References:
-- [[{Site Reliability Engineering]]
+- [[Site Reliability Engineering]]
