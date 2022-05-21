@@ -1,5 +1,5 @@
 ---
-title : The Mind Illuminated
+title : !The Mind Illuminated
 notetype : feed
 date : 02-04-2022
 ---
