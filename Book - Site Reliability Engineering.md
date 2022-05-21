@@ -1,5 +1,5 @@
 ---
-title : Site Reliability Engineering (Book)
+title : Book - Site Reliability Engineering
 notetype : feed
 date : 22-11-2021
 ---
