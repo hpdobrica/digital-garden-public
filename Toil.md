@@ -10,7 +10,7 @@ If some of these conditions are met, you are likely looking at toil. Any one of 
 - `manual`  - either doing something completely manually, or manually running an automation script
 - `repetitive` - if you are doing something for the first or second time, it can't be called toil. Toil is when you do something over and over again
 - `automatable` - if a machine could perform the task as well as human could, it's probably toil. Human judgement required == not toil
-- `reactive` - toil is work that appears as a reaction to various interrupts (e.g. firefighting, monitoring alarms), and is not strategy-driven
+- `reactive` - toil is work that appears as a reaction to various interrupts (e.g. firefighting, [[Monitoring]] alarms), and is not strategy-driven
 - `not providing value` - if the work has created any sort of permanent improvement to the system, it's likely not toil, however boring and manual it might be
 - `scales linearily with service` means that as the service grows, the time dedicated to soliving this problem will grow as well
 
