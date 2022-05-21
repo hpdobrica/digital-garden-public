@@ -1,7 +1,13 @@
 ---
-title : The Mind Illuminated
+title : _The Mind Illuminated
 notetype : feed
 date : 02-04-2022
+---
+
+Source: 
+Status: #🛈/📖/🚧
+
+
 ---
 
 ## Introduction
@@ -269,10 +275,5 @@ second objective of meditation - mindfulness:
 	- 
 
 
-
-
------
-
-Status: #🛈/📖/🚧
 
 

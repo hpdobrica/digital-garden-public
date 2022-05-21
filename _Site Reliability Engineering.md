@@ -1,7 +1,12 @@
 ---
-title : Site Reliability Engineering
-notetype : feed
+title : _Site Reliability Engineering
+notetype : unfeed
 date : 22-11-2021
+---
+
+Source: [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
+Status: #🛈/📖/🚧
+
 ---
 
 ### 1 - Introduction
@@ -193,7 +198,3 @@ date : 22-11-2021
 
 -----
 
-Status: #🛈/📖/🚧
-
-References:
-- https://sre.google/sre-book/table-of-contents/
