@@ -36,4 +36,4 @@ Don't shy off from recording "the same metric" in different places – if you do
 Status: #💡 
 
 References:
-- [[Book - Site Reliability Engineering]]
+- [[{Site Reliability Engineering]]

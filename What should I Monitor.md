@@ -18,4 +18,4 @@ Some general tips:
 Status: #💡 
 
 References:
-- [[Book - Site Reliability Engineering]]
+- [[{Site Reliability Engineering]]

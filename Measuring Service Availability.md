@@ -26,4 +26,4 @@ Measuring service availability is one of the most common [[SLI]]s.
 Status: #💡 
 
 References:
-- [[Book - Site Reliability Engineering]]
+- [[{Site Reliability Engineering]]
