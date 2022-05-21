@@ -11,7 +11,7 @@ Some notes on this topic to check out:
 - [[Service Availability Target]]
 - [[Error Budgets]]
 - [[Toil]]
-- [[Defining Service Level Objectives]]
+- [[SLA]] / [[SLO]] / [[SLI]]
 
 -----
 
