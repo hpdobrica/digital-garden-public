@@ -1,10 +1,10 @@
 ---
-title : _The Mind Illuminated
+title : The Mind Illuminated
 notetype : feed
 date : 02-04-2022
 ---
 
-Source: 
+Source: [The Mind Illuminated](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated)
 Status: #🛈/📖/🚧
 
 
