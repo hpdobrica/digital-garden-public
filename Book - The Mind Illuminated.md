@@ -1,6 +1,6 @@
 ---
 title : Book - The Mind Illuminated
-notetype : feed
+notetype : unfeed
 date : 02-04-2022
 ---
 

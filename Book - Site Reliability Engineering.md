@@ -1,6 +1,6 @@
 ---
 title : Book - Site Reliability Engineering
-notetype : feed
+notetype : unfeed
 date : 22-11-2021
 ---
 
@@ -14,7 +14,7 @@ Status: #🛈/📖/🚧
 
 ### 1 - Introduction
 
-- appolo 8, understanding of system does not prevent human error  
+- Apollo 8, understanding of system does not prevent human error  
 - hope is not a strategy  
 - important skills Unix system internals and l1-l3 networking  
 - do work of ops, with skills of software engineers, automate everything  
