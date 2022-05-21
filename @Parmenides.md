@@ -35,4 +35,4 @@ Many philosophers that came after him agreed with him on many things, but couldn
 Status: #💡 
 
 References:
-- [[%Philozophize This 002]]
+- [[_Philozophize This 002]]

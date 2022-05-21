@@ -27,5 +27,5 @@ In summary, Social Darwinism is taking a good idea from biology and turning it i
 Status: #🌲 
 
 References:
-- [[+Darwinism vs Social Darwinism]]
+- [[_Darwinism vs Social Darwinism]]
 

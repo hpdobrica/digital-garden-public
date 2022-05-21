@@ -24,4 +24,4 @@ He was also big on the idea that Reason > Senses ([[Senses are deceptive]]), and
 Status: #💡 
 
 References:
-- [[%Philozophize This 002]]
+- [[_Philozophize This 002]]
