@@ -19,4 +19,4 @@ Status: #💡
 Tags: #🗺️ 
 
 References:
-- [[{Site Reliability Engineering]]
+- [[Book - Site Reliability Engineering]]

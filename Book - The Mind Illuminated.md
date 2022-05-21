@@ -1,5 +1,5 @@
 ---
-title : The Mind Illuminated (Book)
+title : Book - The Mind Illuminated
 notetype : feed
 date : 02-04-2022
 ---

@@ -25,4 +25,4 @@ When aggregating metrics for SLIs its much better to use percentiles than the [[
 
 Status: #💡 
 References:
-- [[{Site Reliability Engineering]]
+- [[Book - Site Reliability Engineering]]
