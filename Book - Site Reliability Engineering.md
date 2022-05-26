@@ -147,6 +147,7 @@ Status: #🛈/📖/🚧
 	- simple and fast is prefered for monitoring
 	- avoid hiararchical dependencies (e.g. if db is slow alert for it, otherwise alert for slow website in general)
 - its important to be able to tell what from why e.g. what is 500 errors, why is db refusing connections
+	- do i care directly of this or is it useful where i debug?
 - heavy use of white box monitoring with a bit of black box monitoring
 	- white box = internal metrics, logs... (can show iminent problems, not yet visible to the user)
 	- black box = monitoring exteranlly visible behavior (shows only active problems)
