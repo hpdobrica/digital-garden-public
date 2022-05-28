@@ -16,4 +16,4 @@ Status: #💡
 
 References:
 - [[Book - Site Reliability Engineering]]
-- [[Video - Stop Talking & Listen; Practices for Creating Effective Customer SLOs]]
+- [[Video - Practices for Creating Effective Customer SLOs]]

@@ -24,4 +24,4 @@ In addition to this, there are also some [[Cause Based Monitoring]] metrics that
 Status: #💡 
 
 References:
-- [[Video - Stop Talking & Listen; Practices for Creating Effective Customer SLOs]]
+- [[Video - Practices for Creating Effective Customer SLOs]]

@@ -19,4 +19,4 @@ Since these metrics directly represent user's experience, they are a perfect mat
 Status: #💡 
 
 References:
-- [[Video - Stop Talking & Listen; Practices for Creating Effective Customer SLOs]]
+- [[Video - Practices for Creating Effective Customer SLOs]]

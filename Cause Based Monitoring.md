@@ -19,4 +19,4 @@ On the other hand, Cause Metrics are only in rare cases useful in [[Alerting]]. 
 Status: #🌱 
 
 References:
-- [[Video - Stop Talking & Listen; Practices for Creating Effective Customer SLOs]]
+- [[Video - Practices for Creating Effective Customer SLOs]]

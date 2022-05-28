@@ -1,5 +1,5 @@
 ---
-title : Video - Stop Talking & Listen; Practices for Creating Effective Customer SLOs
+title : Video - Practices for Creating Effective Customer SLOs
 notetype : unfeed
 date : 28-05-2022
 ---
