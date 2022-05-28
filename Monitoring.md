@@ -17,15 +17,13 @@ Providing visibility is in the center of monitoring, but speaking more broadly, 
 - perform long-term trend analysis
 
 
-When monitoring our system, we can look at what our user perceives which can show us currently active problems (e.g., high error rate, slow response times) – this is called **Black Box Monitoring**.
+
 
 On the other hand, we can also look at internal metrics which are not directly visible to the user, which can give us insight into issues that are yet to come. For example, a user doesn't see that a disk is getting fuller, but they will get feel it once it's completely full. This is called **White Box Monitoring**.
 
-Efficient monitoring systems are best achieved with heavy use of white box monitoring with a bit of black box monitoring. 
+Efficient monitoring systems are best achieved with heavy use of [[White Box Monitoring]] with a bit of [[Black Box Monitoring]]. 
 
-To have an efficient monitoring system, it's very important to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]). 
-
-It's important to use both [[White Box Monitoring]] and [[Black Box Monitoring]]
+In addition to this, it's very important to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]). 
 
 
 Don't shy off from recording "the same metric" in different places – if you don't track both how slow your database server is, and how slow your application perceives it to be, you will not be able to tell a database issue from a network issue.
