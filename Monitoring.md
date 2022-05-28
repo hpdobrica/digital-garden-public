@@ -21,9 +21,9 @@ When monitoring our system, we can look at what our user perceives which can sho
 
 On the other hand, we can also look at internal metrics which are not directly visible to the user, which can give us insight into issues that are yet to come. For example, a user doesn't see that a disk is getting fuller, but they will get feel it once it's completely full. This is called **White Box Monitoring**.
 
-To have an efficient monitoring system, it's very important to be able to tell what from why (what being 500 errors, why being database is refusing connections). 
-This is best achieved with heavy use of white box monitoring with a bit of black box monitoring. 
+Efficient monitoring systems are best achieved with heavy use of white box monitoring with a bit of black box monitoring. 
 
+To have an efficient monitoring system, it's very important to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]). 
 
 
 Don't shy off from recording "the same metric" in different places – if you don't track both how slow your database server is, and how slow your application perceives it to be, you will not be able to tell a database issue from a network issue.
@@ -37,3 +37,5 @@ Status: #💡
 
 References:
 - [[Book - Site Reliability Engineering]]
+- [[Video - Stop Talking & Listen; Practices for Creating Effective Customer SLOs]]
+- 
