@@ -17,9 +17,7 @@ Providing visibility is in the center of monitoring, but speaking more broadly, 
 - perform long-term trend analysis
 
 
-Efficient monitoring systems are best achieved with heavy use of [[White Box Monitoring]] with a bit of [[Black Box Monitoring]]. 
-
-In addition to this, it's very important to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]). 
+Efficient monitoring systems are best achieved with heavy use of [[White Box Monitoring]] with a bit of [[Black Box Monitoring]].  In addition to this, it's very important to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]). 
 
 
 Don't shy off from recording "the same metric" in different places – if you don't track both how slow your database server is, and how slow your application perceives it to be, you will not be able to tell a database issue from a network issue.
