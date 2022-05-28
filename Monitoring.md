@@ -17,10 +17,6 @@ Providing visibility is in the center of monitoring, but speaking more broadly, 
 - perform long-term trend analysis
 
 
-
-
-On the other hand, we can also look at internal metrics which are not directly visible to the user, which can give us insight into issues that are yet to come. For example, a user doesn't see that a disk is getting fuller, but they will get feel it once it's completely full. This is called **White Box Monitoring**.
-
 Efficient monitoring systems are best achieved with heavy use of [[White Box Monitoring]] with a bit of [[Black Box Monitoring]]. 
 
 In addition to this, it's very important to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]). 
