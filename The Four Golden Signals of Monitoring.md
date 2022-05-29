@@ -13,7 +13,7 @@ The four golden signals of [[Monitoring]] are:
 
 -----
 
-Status: #🌱 
+Status: #🌲 
 
 References:
 -  [[Book - Site Reliability Engineering]]

@@ -19,6 +19,7 @@ Providing visibility is in the center of monitoring, but speaking more broadly, 
 
 Efficient monitoring systems are best achieved with heavy use of [[White Box Monitoring]] with a bit of [[Black Box Monitoring]].  In addition to this, it's very important for efficient monitoring systems to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]). 
 
+A good place to start figuring out what to monitor 
 
 Don't shy off from recording "the same metric" in different places – see [[Where to Measure Metrics]].
 
