@@ -17,9 +17,9 @@ Providing visibility is in the center of monitoring, but speaking more broadly, 
 - perform long-term trend analysis
 
 
-Efficient monitoring systems are best achieved with heavy use of [[White Box Monitoring]] with a bit of [[Black Box Monitoring]].  In addition to this, it's very important for efficient monitoring systems to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]). 
+Efficient monitoring systems are best achieved with heavy use of [[White Box Monitoring]] with a bit of [[Black Box Monitoring]].  It's very important for efficient monitoring systems to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]), as this will have a large impact on how we actually use the metrics we collect. 
 
-A good place to start figuring out what to monitor 
+[[The Four Golden Signals of Monitoring]] good place to start figuring out what to have on your service dashboard.
 
 Don't shy off from recording "the same metric" in different places – see [[Where to Measure Metrics]].
 
