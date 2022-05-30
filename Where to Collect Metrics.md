@@ -1,5 +1,5 @@
 ---
-title : Where to Measure Metrics
+title : Where to Collect Metrics
 notetype : feed
 date : 29-05-2022
 ---

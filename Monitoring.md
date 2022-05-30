@@ -21,7 +21,7 @@ Efficient monitoring systems are best achieved with heavy use of [[White Box Mon
 
 [[The Four Golden Signals of Monitoring]] is a good place to start figuring out what to have on your service dashboards.
 
-Don't shy off from recording "the same metric" in different places – see [[Where to Measure Metrics]].
+Don't shy off from recording "the same metric" in different places – see [[Where to Collect Metrics]].
 
 
 -----
