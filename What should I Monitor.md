@@ -9,8 +9,8 @@ When setting up [[Monitoring]] for a system that is able to output A LOT of metr
 If not sure where to start, covering [[The Four Golden Signals of Monitoring]] is typically a good place to start.
 
 Some general tips:
-- Don't shy off from recording "the same metric" in different places – if you don't track both how slow your database server is, and how slow your application perceives it to be, you will not be able to tell a database issue from a network issue.
-- Collecting metrics like latency in buckets (e.g., 10-30ms, 30-100ms) is a good way to easily see that metric's distribution.
+- Don't shy off from recording "the same metric" in different places – if you don't track both how slow your database server is, and how slow your application perceives it to be, you will not be able to tell a database issue from a network issue. See [[Where to Collect Metrics]].
+- [[Measuring Request Latency]] and similar metrics in buckets (e.g., 10-30ms, 30-100ms) is a good way to easily see that metric's distribution.
 - Some metrics need higher resolution than others – when looking at a fast-changing metric like CPU usage, it's useful to have higher resolution, while things like hard disk fullness can be done with a much lower resolution.
 
 -----
