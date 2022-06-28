@@ -16,6 +16,7 @@ Providing visibility is in the center of monitoring, but speaking more broadly, 
 - implement [[Alerting]] that something is broken or will break soon
 - perform long-term trend analysis
 
+Monitoring boils down to collecting events with their contexts. I
 
 Efficient monitoring systems are best achieved with heavy use of [[White Box Monitoring]] with a bit of [[Black Box Monitoring]].  It's very important for efficient monitoring systems to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]), as this will have a large impact on how we actually use the metrics we collect. 
 
