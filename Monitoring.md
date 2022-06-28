@@ -10,14 +10,21 @@ I was routinely checking the logs for errors, when I noticed that something is o
 
 Monitoring is an integral part of running services in production. Without it, we are blind to what's going on, and thus unable to act according to our best interest.
 
+Monitoring boils down to collecting events and their contexts (e.g., HTTP request is an event, its full context holds all details about it: url, body, status code...). Ideally, we'd have all events together with their whole contexts. In reality, that's a lot of data, so we need to divide monitoring into four categories:
+- profiling
+- tracing
+- logging
+- metrics
+
+While all of the above fall under broad term "Monitoring", 
+
 Providing visibility is in the center of monitoring, but speaking more broadly, monitoring allows us to:
 - easily debug our systems
 - see how a change impacts our system
 - implement [[Alerting]] that something is broken or will break soon
 - perform long-term trend analysis
 
-Monitoring boils down to collecting events and their contexts (e.g., HTTP request is an event, its full context holds all details about it: url, body, status code...). Ideally, we'd have all events together with their whole contexts. In reality, that's a lot of data, so we need to divide monitoring into four categories:
-- 
+
 
 Efficient monitoring systems are best achieved with heavy use of [[White Box Monitoring]] with a bit of [[Black Box Monitoring]].  It's very important for efficient monitoring systems to be able to tell what ([[Symptom Based Monitoring]]) from why ([[Cause Based Monitoring]]), as this will have a large impact on how we actually use the metrics we collect. 
 
