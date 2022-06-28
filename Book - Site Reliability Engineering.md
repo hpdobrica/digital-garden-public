@@ -77,7 +77,7 @@ Status: #🛈/📖/🚧
 - don't use every metric you have, use those that users care about  
 - too much SLIs and you can't pay attention to everything, too little and you have holes in the examined behaviors of your application  
 
-- indicator metrics can be collected on server side e.g. with prometheus, via periodic log analysis (how many 5XX responses?)
+- indicator metrics can be collected on server side e.g. with [[Prometheus]], via periodic log analysis (how many 5XX responses?)
 - in some cases server side indicators aren't good enough and a better metric would be a time to full page load (which could also catch bad js on frontend for example)
 
 - when aggregating metrics, its much better to use percentiles than averages, as averages can often hide many things (most of the requests are completed in 50ms, but 5% are 20x slower, it would hardly be noticed on an average graph)
