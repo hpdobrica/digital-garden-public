@@ -6,7 +6,7 @@ date : 21-05-2022
 
 When setting up [[Monitoring]] for a system that is able to output A LOT of metrics, it's often hard to determine which of these we should be monitoring.
 
-If not sure where to start, covering [[The Four Golden Signals of Monitoring]] is typically a good place to start.
+If not sure where to start, covering [[The Four Golden Signals of Metric Monitoring]] is typically a good place to start.
 
 Some general tips:
 - Don't shy off from recording "the same metric" in different places – if you don't track both how slow your database server is, and how slow your application perceives it to be, you will not be able to tell a database issue from a network issue. See [[Where to Collect Metrics]].

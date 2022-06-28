@@ -4,7 +4,7 @@ notetype : feed
 date : 29-05-2022
 ---
 
-Traffic shows us how much demand is placed on the system, and is one of the [[The Four Golden Signals of Monitoring]].
+Traffic shows us how much demand is placed on the system, and is one of the [[The Four Golden Signals of Metric Monitoring]].
 
 How you track traffic, largely depends on what type of service you are running.
 

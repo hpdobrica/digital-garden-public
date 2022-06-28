@@ -4,7 +4,7 @@ notetype : feed
 date : 29-05-2022
 ---
 
-Saturation is a representation of how full your service is, and is one of [[The Four Golden Signals of Monitoring]]. 
+Saturation is a representation of how full your service is, and is one of [[The Four Golden Signals of Metric Monitoring]]. 
 
 When thinking about saturation, it's useful to put the emphasis on the most constrained resource for your application – If memory is our biggest constraint, our dashboards should show our service's memory usage.
 

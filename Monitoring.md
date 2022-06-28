@@ -23,8 +23,7 @@ In essence, monitoring is collection of events and their contexts (e.g., HTTP re
 - [[Logging]]
 - [[Metric Monitoring]]
 
-Most people think of **metrics** when they hear monitoring, so the rest of this page primarily talks about metrics.
-
+Somewhat confusingly, its often refered to metric monitoring as just Monitoring
 
 
 

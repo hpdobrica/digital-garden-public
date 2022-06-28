@@ -5,7 +5,7 @@ date : 29-05-2022
 ---
 
 
-Latency is the time taken to serve a request, and is one of [[The Four Golden Signals of Monitoring]].
+Latency is the time taken to serve a request, and is one of [[The Four Golden Signals of Metric Monitoring]].
 
 The most common metric looked at here is usually the [[Mean]] latency, but this can easily become misleading – imagine serving 99 requests in 10ms and serving one in 20000ms gives you an average latency of ~210ms which is not a good representative of what's actually happening.
 
