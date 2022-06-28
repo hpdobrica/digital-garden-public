@@ -20,7 +20,7 @@ However, the downside of this approach is coupling logs and metrics, as well as 
 
 #### Application-exported Metrics
 
-Using a tool like Prometheus, we can export our request latency as a metric. 
+Using a tool like [[Prometheus]], we can export our request latency as a metric. 
 
 The good side of this approach it's very fast and cheap to add metrics in this fashion, and it gives us good flexibility of what our metrics will look like.
 
