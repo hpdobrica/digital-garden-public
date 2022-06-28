@@ -19,7 +19,7 @@ Providing visibility is in the center of monitoring, but speaking more broadly, 
 
 In essence, monitoring is collection of events and their contexts (e.g., HTTP request is an event, its full context holds all details about it: url, body, status code...). Ideally, we'd have all events together with their whole contexts. In reality, that's a lot of data, so we need to divide monitoring into four categories based on how we collect the data:
 - [[Profiling]]
-- tracing
+- [[Tracing]]
 - logging
 - metrics
 
