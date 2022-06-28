@@ -152,7 +152,7 @@ Status: #🛈/📖/🚧
 	- white box = internal metrics, logs... (can show iminent problems, not yet visible to the user)
 	- black box = monitoring exteranlly visible behavior (shows only active problems)
 - its important to know both how slow database server is, and how slow a service percieves the database to be, otherwise you can't know a database problem from a network problem
-- [[The Four Golden Signals of Metric Monitoring]] are latency, traffic, errors and saturation
+- [[The Four Golden Signals of Monitoring]] are latency, traffic, errors and saturation
 	- latency is the time taken to serve a request. distinguish between latency of failed and successful requests. separate the successful latency because errors can skew the image, but also track error latency to see how slow your error responses are
 	- traffic shows how much demand is placed on the system. For web services it could be number of http requests. it can be broken down to request type (e.g. static content vs dynamic content requests). For a realtime service we could track network io rate and concurrent sessions
 	- errors show a rate of failed requests either directly (500 error), indirectly (200 code but wrong response) or by policy (any request served over 1s is treated as error). 500 errors and LB level does a decent job of getting direct failed requests, only e2e tests can detect wrong content being served
