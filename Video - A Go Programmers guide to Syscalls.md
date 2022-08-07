@@ -5,7 +5,9 @@ date : 07-08-2022
 ---
 
 Source: [GopherCon 2017: Liz Rice - A Go Programmer's Guide to Syscalls](https://www.youtube.com/watch?v=01w7viEZzXQ)
+
 Status: #🛈/📹/✅ 
+
 POC: https://github.com/hpdobrica/go-playground/tree/main/strace
 
 ------
