@@ -8,7 +8,7 @@ Source: [GopherCon 2017: Liz Rice - A Go Programmer's Guide to Syscalls](https:/
 
 Status: #🛈/📹/✅ 
 
-POC: https://github.com/hpdobrica/go-playground/tree/main/strace
+POC: [github.com/hpdobrica/go-playground/strace](https://github.com/hpdobrica/go-playground/tree/main/strace)
 
 ------
 
