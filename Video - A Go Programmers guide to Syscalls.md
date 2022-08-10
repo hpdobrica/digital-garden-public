@@ -1,6 +1,6 @@
 ---
 title : Video - A Go Programmers guide to Syscalls
-notetype : feed
+notetype : unfeed
 date : 07-08-2022
 ---
 
