@@ -4,7 +4,7 @@ notetype : feed
 date : 29-05-2022
 ---
 
-Different layers of infrastructure and application are exposing the same [[Monitoring]] metrics. For example, your database reports the query duration, and so does your application. These two are sure to have similar results – on application side, add a couple of milliseconds for latency and that's it.
+Different layers of infrastructure and application are exposing the same [[Monitoring]] metrics. For example, your [[Database]] reports the query duration, and so does your application. These two are sure to have similar results – on application side, add a couple of milliseconds for latency and that's it.
 
 Why the hell then would anyone want to collect some metric on application side if it's already provided by the database? The simplest answer is – if we don't have both, there is no way for us to tell if we are having a database issue, or a network issue.
 
