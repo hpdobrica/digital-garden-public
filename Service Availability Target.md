@@ -6,6 +6,8 @@ date : 08-01-2022
 
 When deciding the level of availability we want for our services, the target that we want to achieve is often described as a percentage of time the service is available.
 
+It's worth noting that 100% availability, while it sounds like a nice thing to have, is immensely expensive to achieve, and also pointless to a big extent - what's the point of having 100% available service which is used on a below-100% available device, through a below-100% available network?
+
 This number is famous as a "number of nines". A system that's 99% available is said to have "two nines" service availability target, while 99.999% available system has "five nines".
 
 The table below represents availability targets, together with how much downtime they allow per year/quarter/month/week/day:
