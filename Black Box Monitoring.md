@@ -16,4 +16,4 @@ Status: #💡
 
 References:
 - [[Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
-- [InfoQ: Stop Talking & Listen; Practices for Creating Effective Customer SLOs](https://www.infoq.com/presentations/slo-pitfalls-2019/) ([[Video - Practices for Creating Effective Customer SLOs]])
+- [[Video - Practices for Creating Effective Customer SLOs]] ([Source](https://www.infoq.com/presentations/slo-pitfalls-2019/))

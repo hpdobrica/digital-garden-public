@@ -15,5 +15,6 @@ When we look at internal metrics which are not directly visible to the user, we 
 Status: #💡 
 
 References:
-- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) ([[Book - Site Reliability Engineering]])
-- [InfoQ: Stop Talking & Listen; Practices for Creating Effective Customer SLOs](https://www.infoq.com/presentations/slo-pitfalls-2019/) ([[Video - Practices for Creating Effective Customer SLOs]])
+- [[Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
+- [[Video - Practices for Creating Effective Customer SLOs]] ([Source](https://www.infoq.com/presentations/slo-pitfalls-2019/))
+
