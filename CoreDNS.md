@@ -40,5 +40,5 @@ The `hosts` section that we specified in Corefile is actually a [plugin](https:/
 Status: #💡 
 
 References:
-- https://coredns.io/manual/toc/#configuration
+- [CoreDNS Configuration](https://coredns.io/manual/toc/#configuration)
 - https://coredns.io/plugins/hosts/
