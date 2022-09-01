@@ -26,5 +26,5 @@ On the other hand, you should also track error latency itself to see how slow yo
 Status: #💡 
 
 References:
-- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) ([[Book - Site Reliability Engineering|My Book Notes]])
+- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) ([[Book - Site Reliability Engineering]])
 - [Prometheus Docs – Histograms and Summaries](https://prometheus.io/docs/practices/histograms/)
