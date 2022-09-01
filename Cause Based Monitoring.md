@@ -19,4 +19,4 @@ On the other hand, Cause Metrics are only in rare cases useful in [[Alerting]]. 
 Status: #🌱 
 
 References:
-- [[Video - Practices for Creating Effective Customer SLOs]]
+- [InfoQ: Stop Talking & Listen; Practices for Creating Effective Customer SLOs](https://www.infoq.com/presentations/slo-pitfalls-2019/) ([[Video - Practices for Creating Effective Customer SLOs|My Video Notes]])

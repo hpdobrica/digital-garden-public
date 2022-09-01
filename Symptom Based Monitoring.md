@@ -19,4 +19,4 @@ Since these metrics directly represent user's experience, they are a perfect mat
 Status: #💡 
 
 References:
-- [[Video - Practices for Creating Effective Customer SLOs]]
+- [InfoQ: Stop Talking & Listen; Practices for Creating Effective Customer SLOs](https://www.infoq.com/presentations/slo-pitfalls-2019/) ([[Video - Practices for Creating Effective Customer SLOs|My Video Notes]])

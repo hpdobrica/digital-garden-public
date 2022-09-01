@@ -20,6 +20,6 @@ While meeting SLOs is important, over-achieving them is a bad idea, as people wi
 Status: #💡 
 
 References:
-- [[Book - Site Reliability Engineering]]
+- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) ([[Book - Site Reliability Engineering|My Book Notes]])
 - [Service Level Objectives](https://sre.google/sre-book/service-level-objectives/)
 - [Implementing SLOs](https://sre.google/workbook/implementing-slos/)

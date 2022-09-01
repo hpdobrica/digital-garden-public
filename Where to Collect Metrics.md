@@ -57,4 +57,4 @@ Downside of this approach is that the measures taken on the client will take int
 Status: #💡 
 
 References:
-- [[Video - Practices for Creating Effective Customer SLOs]]
+- [InfoQ: Stop Talking & Listen; Practices for Creating Effective Customer SLOs](https://www.infoq.com/presentations/slo-pitfalls-2019/) ([[Video - Practices for Creating Effective Customer SLOs|My Video Notes]])
