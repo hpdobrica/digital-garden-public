@@ -34,4 +34,4 @@ At Google they have a rule that every SRE should try to spend at least 50% time 
 Status: #💡 
 
 References:
-- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) ([[Book - Site Reliability Engineering|My Book Notes]])
+- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) ([[Book - Site Reliability Engineering]])

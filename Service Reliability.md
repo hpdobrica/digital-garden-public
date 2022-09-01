@@ -23,4 +23,4 @@ Since we never want (except for some extreme cases) to have 100% available syste
 Status: #💡 
 
 References:
-- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) ([[Book - Site Reliability Engineering|My Book Notes]])
+- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) ([[Book - Site Reliability Engineering]])
