@@ -1,5 +1,5 @@
 ---
-title : DNS Records
+title : DNS Record Types
 notetype : feed
 date : 31-10-2021
 ---
