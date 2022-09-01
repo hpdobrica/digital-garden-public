@@ -76,5 +76,5 @@ Here we define `PermissionsProvider` interface which allows us to extend our aut
 Status: #💡 
 
 References:
-- [Golang UK Conference 2016 - Dave Cheney - SOLID Go Design](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK) ([[Video - SOLID Go Design|My Video Notes]])
+- [[Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK))
 - [[Blog - Golang SOLID - Open Closed Principle]]

@@ -16,4 +16,4 @@ With each integration, you can configure the rules by which Prometheus will scra
 Status: #🌱 
 
 References:
-- [[Book - Prometheus Up And Running]]
+- [[Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))

@@ -16,4 +16,4 @@ Alertmanager can aggregate related alerts, throttle alerts to reduce pager storm
 Status: #🌱  
 
 References:
-- [[Book - Prometheus Up And Running]]
+- [[Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))
