@@ -77,4 +77,4 @@ Status: #💡
 
 References:
 - [[Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK))
-- [[Blog - Golang SOLID - Open Closed Principle]]
+- [[Blog - Golang SOLID - Open Closed Principle]] ([Source](https://levelup.gitconnected.com/practical-solid-in-golang-open-closed-principle-1dd361565452))
