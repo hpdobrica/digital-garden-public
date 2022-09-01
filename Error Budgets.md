@@ -24,5 +24,5 @@ In a concrete example, having [[Service Availability Target]] of two nines allow
 Status: #💡 
 
 References:
-- [[Book - Site Reliability Engineering]]
+- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/) ([[Book - Site Reliability Engineering|My Book Notes]])
 - [Motivation for error budgets](https://sre.google/sre-book/embracing-risk/#xref_risk-management_unreliability-budgets)
