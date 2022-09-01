@@ -23,4 +23,4 @@ The example above might sound like we just moved the problem one abstraction up 
 Status: #💡 
 
 References:
-- [[Video - SOLID Go Design]]
+- Golang UK Conference 2016 - Dave Cheney - SOLID Go Design](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK) ([[Video - SOLID Go Design|My Video Notes]])
