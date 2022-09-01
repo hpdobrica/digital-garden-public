@@ -41,4 +41,4 @@ Status: #💡
 
 References:
 - [CoreDNS Configuration](https://coredns.io/manual/toc/#configuration)
-- https://coredns.io/plugins/hosts/
+- [CoreDNS Hosts Plugin](https://coredns.io/plugins/hosts/)
