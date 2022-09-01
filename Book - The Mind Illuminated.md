@@ -44,6 +44,7 @@ Putting this practice into context:
 - This climax of progress of insight only occurs when the mind is in a unique mental state called `samatha`. `Samatha` and `vipassana` are both generated using `samadhi` (stable attention) and `sati` (mindfulness).
 - Although its possible to cultivate `samatha` and `vipassana`  separately, both are necessary for awakening
 
+
 ```mermaid
 graph TD;
 	subgraph Samatha
