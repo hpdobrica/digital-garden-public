@@ -48,10 +48,5 @@ func main() {
 
 Status: #🌲 
 
-[[Status -Evergreen]]
-
-[[Progress - Integrated]]
-
-
 
 
