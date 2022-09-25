@@ -196,9 +196,41 @@ Status: #🛈/📖/♻️
 	- aim is to have everything expose an API, or to write their own api where public one is not available - first overcome the obstacles of automatic system management, and then work on the automation itself
 	- create platforms wherever you can, or at least position yourself to be able to create platforms, as platform-based approach is necessary for manageability and scalability (?clarification of what this means?)
 -  Use cases for automation
-	- 
-	  
+  - account creation
+  - version upgrades
+  - runtime config changes
+  - fail over
+
+- it's good to have external automation "glue logic", it's better to have software that doesn't need it at all
+- automations outside of the system run a risk of becoming stale
+- evolution of automation:
+  - no automation
+  - externally maintained system specific automation (script on someone's computer)
+  - externally maintained generic automation (script is now part of a suite of scripts that everyone uses)
+  - internally maintained system specific automation (system ships with its own script for automating the issue)
+  - system that doesn't need automation 
+
+- automate yourself out of a job
+- the more time you save, the more time you have to automate other parts of the process, so the automation gains compound
+- automation needs to be cautious of using implicit safety signals (e.g. if this file is missing it's safe to assume that disk is safe to wipe)
+- python unit tests altered to look for cluster misconfigurations, and later extended with (idempotent) scripts to actually fix the misconfigurations automatically
+- problem in above was that flaky tests might sometimes fail for no reason, and fix scripts could put the system in an inconsistent state
+- automation processes can be evaluated in three respects: 
+  - competence - how accurate they are
+  - latency - how quickly they execute
+  - relevance - how big part of a real world process is covered by automation
+- making different people responsible for the service, and the automations tied to it, leads to different sorts of problems:
+  - team taksed with speedy deployments has no incentive to fix technical debt of running the service in production
+  - team not running the automation has no incentive to make the system easy to automate
+  - management that doesn't care about automation will always prioritize new features
+- better solution was to make service owners develop an admin server to handle cluster provisioning RPC requests. the teams provided both the automation code as well as apis that the automation needed
+- highly effective automations have a downside of making human operators forget how to operate the system, so when automations fails, it becomes really hard or impossible to manually operate it
+- in some cases, automation can be harmful to the system, but having the system scale makes automation non-optional
+- automation is more useful than the simple time-invested/time-saved tradeoff
+- in big systems, automation is required - in smaller systems, it's important to think of automation and build the systems with automation in mind
 
 
------
+## 8 - Release Engineering
+
+- 
 
