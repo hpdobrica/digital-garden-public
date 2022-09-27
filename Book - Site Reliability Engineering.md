@@ -233,5 +233,13 @@ Status: #🛈/📖/♻️
 ## 8 - Release Engineering
 
 - release engineers as a role at Google
+- teams should be self sufficient to allow scaling up
+- release process is automated, and releases happen in small chunks to reduce differences between versions
+- some projects push on green, others test a couple of versions and deploy the one that best passes the test
+- builds must be hermetic and reproducible
+- rebuilding old release for cherry pick should use the same build tools as the initial version used
+- all code to main branch
+- most projects don't deploy main branch directly, but split into a separate branch for releases and then never merge it back into main
+- bug fixes always master first and then cherry pick into release branch (similar to gitlab flow?)
 - 
 
