@@ -241,5 +241,9 @@ Status: #🛈/📖/♻️
 - all code to main branch
 - most projects don't deploy main branch directly, but split into a separate branch for releases and then never merge it back into main
 - bug fixes always master first and then cherry pick into release branch (similar to gitlab flow?)
+- investing into release engineering early on in the project is much cheaper than retrofitting the system for it later on
+
+# 9 - Simplicity
+
 - 
 
