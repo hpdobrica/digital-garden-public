@@ -244,6 +244,3 @@ Status: #🛈/📖/♻️
 - investing into release engineering early on in the project is much cheaper than retrofitting the system for it later on
 
 # 9 - Simplicity
-
-- 
-
