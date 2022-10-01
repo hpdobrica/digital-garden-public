@@ -244,3 +244,12 @@ Status: #🛈/📖/♻️
 - investing into release engineering early on in the project is much cheaper than retrofitting the system for it later on
 
 # 9 - Simplicity
+
+- goal of sre is to keep agility and stability in balance in the system
+- reliable processes tend to increase developer agility, allowing developers to focus on things that matter (functionality and performance)
+- essential complexity vs accidental complexity
+	- essential complexity cannot be removed from a problem definition
+	- accidental complexity is added with concrete implementation
+- sre should push back when accidental complexity is introduced into a system for which they are responsible
+- strive to eliminate complexity in systems they onboard and for which they assume operational responsibility
+- 
