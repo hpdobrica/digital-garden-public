@@ -257,3 +257,4 @@ Status: #🛈/📖/♻️
 - all software should strive for minimalism, especially apis - the smaller and simpler the API, the easier it's to use and understand
 - less methods == more time to make them work better
 - conscious decision not to take on an additional problem makes it easier for us to make a better solution to the problem we initially started solving
+- 
