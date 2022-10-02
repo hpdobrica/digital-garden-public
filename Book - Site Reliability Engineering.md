@@ -246,6 +246,7 @@ Status: #🛈/📖/♻️
 # 9 - Simplicity
 
 - goal of sre is to keep agility and stability in balance in the system
+- software simplicity is a prerequisite to reliability
 - reliable processes tend to increase developer agility, allowing developers to focus on things that matter (functionality and performance)
 - essential complexity vs accidental complexity
 	- essential complexity cannot be removed from a problem definition
@@ -257,4 +258,8 @@ Status: #🛈/📖/♻️
 - all software should strive for minimalism, especially apis - the smaller and simpler the API, the easier it's to use and understand
 - less methods == more time to make them work better
 - conscious decision not to take on an additional problem makes it easier for us to make a better solution to the problem we initially started solving
-- 
+- simpler deployments of smaller batches make it easier to pinpoint a problem
+
+
+# III - Practices
+
