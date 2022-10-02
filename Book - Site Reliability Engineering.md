@@ -252,4 +252,8 @@ Status: #🛈/📖/♻️
 	- accidental complexity is added with concrete implementation
 - sre should push back when accidental complexity is introduced into a system for which they are responsible
 - strive to eliminate complexity in systems they onboard and for which they assume operational responsibility
-- 
+- dead code should be removed instead of feature flagged or commented out - it adds to confusion and is a disaster waiting to happen
+- "negative lines of code as a metric" - smaller projects are easier to run and understand, software bloat is intuitively undesirable, but from sre point of view even more - every line of code is a potential for defect or bug
+- all software should strive for minimalism, especially apis - the smaller and simpler the API, the easier it's to use and understand
+- less methods == more time to make them work better
+- conscious decision not to take on an additional problem makes it easier for us to make a better solution to the problem we initially started solving
