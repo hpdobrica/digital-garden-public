@@ -157,6 +157,7 @@ func main(){
 - in the example above, nothing guarantees that the line will be printed. this is because the main routine might exit before the goroutine has started executing.go sayHello only schedules the go routine - there is no join point
 - sleep would be a way to make the line print, but that's not a valid option - we need a join point to guarantee applications logical correctness
 - one way to create a join point is to synchronize main goroutine with sayHello goroutine using sync.WaitGroup
+
 ```go
 
 func main(){
