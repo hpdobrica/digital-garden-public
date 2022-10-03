@@ -17,7 +17,7 @@ Status: #🛈/📖/🟢
 ## 1  - The surprising power of [[Atomic Habits]]
 - 1% improvement goes a long way: moving trajectory of a plane for 2 degrees initially doesn't sound like a lot, but adds over time to bring you far away from initial goals - UK cycling team story  
 - goals and systems - what you want and how you are going to achieve it - systems without goals work, not true in opposite direction - score keeps itself you just have to focus on playing well  
-- good habits provide latent benefits, not allowing you to see how useful they are upfront  
+- good [[Habit]]s provide latent benefits, not allowing you to see how useful they are upfront  
 - bad habits provide latent problems, not allowing you to see how destructive they are upfront 
 
 | Location      | Quote                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
