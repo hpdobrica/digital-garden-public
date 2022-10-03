@@ -161,9 +161,9 @@ func main(){
 ```go
 
 func main(){
-  var wg sync.WaitGroup 
-  sayHello := func() { 
-    defer wg. Done () 
+  var wg sync.WaitGroup
+  sayHello := func() {
+    defer wg.Done()
     fmt.Println("hello")
   }
 
