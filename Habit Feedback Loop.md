@@ -30,10 +30,11 @@ If any of the four stages are insufficient, the habit will not happen:
 - if response is too difficult, you will not do it
 - if the reward fails to satisfy the craving, the loop will be less likely to start on the next cue
 
+The rule above is in the essence of [[The Four Laws of Behavior Change]].
 
 ## Examples
 
-A simplest habit most of us have probably formed over time is turning on a light when coming into a dark room. It's not something you think about or pay attention to, you just hit your hand against the wall on the spot where you expect the switch to be. Let's break down this example to see what exactly happens:
+The simplest habit most of us have probably formed over time is turning on a light when coming into a dark room. It's not something you think about or pay attention to, you just hit your hand against the wall on the spot where you expect the switch to be. Let's break down this example to see what exactly happens:
 - you open the door of a dark room and notice that you cannot see anything (cue)
 - you get a desire to see what's in the room (craving)
 - you reach your hand to the expected place where switch should be, feel the switch and press it (response)
@@ -51,7 +52,7 @@ The same is true for stress-induced social-media-scrolling:
 - open social media and start scrolling (response)
 - stress is temporarily relieved (reward)
 
-Any habit - good,
+Any habit - good, neutral, or bad follows these four stages. Think of some habits you have and try to divide them into the four stages. 
 
 
 
