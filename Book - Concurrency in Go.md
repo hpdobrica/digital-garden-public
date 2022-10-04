@@ -191,5 +191,5 @@ func main(){
 		- a way to guard critical sections of your program
 		- you use it to make sure only one concurrent process is accessing some piece of memory (e.g. variable) at a time
 		- to gain exclusive access, use Lock method, to release it use Unlock method (usually right after locking, using defer statement to make sure we don't miss the unlock by accident)
-		- rwmutex gives us a bit more freedom by allowing us to lock piece of memory for reading or for writing. Multiple concurrent processes can hold read lock at the same time, as long as nothing is holding a write lock at that m
+		- rwmutex gives us a bit more freedom by allowing us to lock piece of memory for reading or for writing. Multiple concurrent processes can hold read lock at the same time, as long as nothing is holding a write lock at that moment
 	- 
