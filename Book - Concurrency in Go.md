@@ -187,5 +187,6 @@ func main(){
 		- is useful when you want to wait for some concurrent operations to complete, but you either don't care about the results, or you have some other means of getting them
 		- calls to add increment the counter, calls to done decrement it, wait blocks until counter is zero
 	- mutex and rwmutex
+		- mutex == mutual exclusion
 		- 
 	- 
