@@ -182,15 +182,61 @@ func main(){
 - goroutines are pretty lightweight
 - they won't be garbage collected if they block
 - context switching in os threads is pretty expensive - using software scheduler makes this much cheaper in go
-- the sync package
-	- waitgroup 
-		- is useful when you want to wait for some concurrent operations to complete, but you either don't care about the results, or you have some other means of getting them
-		- calls to add increment the counter, calls to done decrement it, wait blocks until counter is zero
-	- mutex and rwmutex
-		- mutex == mutual exclusion
-		- a way to guard critical sections of your program
-		- you use it to make sure only one concurrent process is accessing some piece of memory (e.g. variable) at a time
-		- to gain exclusive access, use Lock method, to release it use Unlock method (usually right after locking, using defer statement to make sure we don't miss the unlock by accident)
-		- rwmutex gives us a bit more freedom by allowing us to lock piece of memory for reading or for writing. Multiple concurrent processes can hold read lock at the same time, as long as nothing is holding a write lock at that moment
-		- 
+
+### the sync package
+
+- waitgroup 
+	- is useful when you want to wait for some concurrent operations to complete, but you either don't care about the results, or you have some other means of getting them
+	- calls to add increment the counter, calls to done decrement it, wait blocks until counter is zero
+- mutex and rwmutex
+	- mutex == mutual exclusion
+	- a way to guard critical sections of your program
+	- you use it to make sure only one concurrent process is accessing some piece of memory (e.g. variable) at a time
+	- to gain exclusive access, use Lock method, to release it use Unlock method (usually right after locking, using defer statement to make sure we don't miss the unlock by accident)
+	- rwmutex gives us a bit more freedom by allowing us to lock piece of memory for reading or for writing. Multiple concurrent processes can hold read lock at the same time, as long as nothing is holding a write lock at that moment
+
+- cond
+	- used when a goroutine needs to wait for a condition before continuing
+	- worst alternative would be creating a for loop that hangs until condition is true - worst because it completely hangs a CPU core 
+	- better option would be to add sleep in the for loop to unblock CPU while waiting - still not good because we are either consuming too much CPU, or degrading performance, depending on how small or big our sleep timeout is
+	- sync.NewCond takes in a sync.Locker interface, and provides Wait method which suspends the goroutine until Signal method is called
+	- each call to Wait calls Unlock on lock object, and each exit from Wait (triggered by Signal) calls Lock again - because of this, we want to lock before entering wait
+	- cond with Signal behavior can be reproduced with channels, but cond is more performant
+	- if multiple goroutines are waiting on a cond, signal will wake up the one that's been waiting the longest (FIFO). We also have a Broadcast method which notifies them all at once - this is very difficult to pull off without cond, and can be considered one of its main use cases (e.g. when button is clicked, trigger 3 separate goroutines)
+```go
+
+// process a queue of 10 tasks, 2 at a time, using cond to wait for queue to free up
+
+c:= sync. NewCond (&sync. Mutex{}) 
+queue := make([]interface(), 0, 10) 
+
+ 
+
+removeFromQueue: func (delay time. Duration) {					   
+	time.Sleep(delay)				   
+    c.L.Lock()
+    queue = queue[1:] 
+    fmt.Println("Removed from queue")
+    c.L.Unlock()
+    c.Signal()
+}
+
+
+
+for i = 0; i < 10; i++{
+    c.L.Lock()
+
+    for len(queue) == 2 {
+        c.Wait() // think of this like unlock + wait + lock
+    }
+
+    fmt.Println("Adding to queue") 
+    queue = append(queue, struct{}{}) 
+    go removeFromQueue (1*time.Second) 
+    c.L.Unlock()
+}
+
+```
+
+- once
 	- 
