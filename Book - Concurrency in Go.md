@@ -243,4 +243,13 @@ for i = 0; i < 10; i++{
 	- note that calling to twice with two different functions will only invoke the first one - it doesn't care about the function you pass, it cares that Do will be executed once with anything passed in
 	- this means that sync.once and the actual function we want to call are tightly coupled, and we should wrap them in a small lexical scope to denote this
 - pool
+	- pool is a concurrent safe implementation of the object pool pattern
+	- Get is the primary method of pool, which either returns an item from a pool if available, or calls New method to create it
+	- when finished, caller can call Put to return the item to the pool
+	- best used when object creation is expensive or concurrent process quickly instantiates and disposes of objects
+	- can be used to either guard machine memory (from number of instances created) or client time (by pre-warming a pool of required objects for a needs-to-be-fast operation)
+	- New method given to pool needs to be thread safe
+	- never assume the state of an object you Get
+	- objects in the pool must be roughly uniform for a pool to make sense
+- channel
 	- 

@@ -263,3 +263,17 @@ Status: #🛈/📖/♻️
 
 # III - Practices
 
+service reliability hierarchy pyramid:
+- product
+- development 
+- capacity planning
+- testing+release procedures
+- postmortem/RCA
+- incident response
+- monitoring 
+
+
+## 10 - practical alerting from time-series data
+
+
+
