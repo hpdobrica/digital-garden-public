@@ -239,4 +239,8 @@ for i = 0; i < 10; i++{
 ```
 
 - once
-	- test
+	- sync.Once provides a guarantee that whatever function we run via Do method well be executed only once, even by different goroutines
+	- note that calling to twice with two different functions will only invoke the first one - it doesn't care about the function you pass, it cares that Do will be executed once with anything passed in
+	- this means that sync.once and the actual function we want to call are tightly coupled, and we should wrap them in a small lexical scope to denote this
+- pool
+	- 
