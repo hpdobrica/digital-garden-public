@@ -252,4 +252,7 @@ for i = 0; i < 10; i++{
 	- never assume the state of an object you Get
 	- objects in the pool must be roughly uniform for a pool to make sense
 - channel
+	- synchronization primitives that can be used to pass information between goroutines
+	- think of it as a river - information is passed in on one end, and can be read downstream
+	- channel can be created with make(chan interface{}) where empty interface (any value) is the data type that can be sent and read into channel - we say that this channel is of type interface{}
 	- 
