@@ -275,5 +275,8 @@ service reliability hierarchy pyramid:
 
 ## 10 - practical alerting from time-series data
 
+- monitoring is at the base of reliability pyramid and ....
+
+
 
 
