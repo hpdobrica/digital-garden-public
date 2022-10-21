@@ -52,7 +52,7 @@ The same is true for stress-induced social-media-scrolling:
 - open social media and start scrolling (response)
 - stress is temporarily relieved (reward)
 
-Any habit - good, neutral, or bad follows these four stages. Think of some habits you have and try to divide them into the four stages. 
+Any habit - good, neutral, or bad follows these four stages. Think of some habits you have and try to divide them into the four stages!
 
 
 
