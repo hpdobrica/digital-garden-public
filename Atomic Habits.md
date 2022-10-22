@@ -4,7 +4,7 @@ notetype : feed
 date : 03-10-2022
 ---
 
-Atomic Habits is a system for achieving goals by changing our everyday [[Habit]]s in small ways.
+Atomic Habits is a system for achieving goals by changing our everyday [[Habit]]s in small ways, leading to [[Continuous Improvement]].
 
 It's based on a [[Book - Atomic Habits]] which describes the practical implementation of the system, and talks about what habits are, how they are formed and broken, and how we can utilize this knowledge to help us achieve our goals.
 
