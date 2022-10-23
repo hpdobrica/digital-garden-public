@@ -1,5 +1,5 @@
 ---
-title : Continious Improvement
+title : Continuous Improvement
 notetype : feed
 date : 21-10-2022
 ---

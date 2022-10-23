@@ -1,5 +1,5 @@
 ---
-title : The Model of Conscious Experience
+title : Model of Conscious Experience
 notetype : feed
 date : 05-04-2022
 ---
