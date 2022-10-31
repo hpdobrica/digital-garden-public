@@ -8,7 +8,7 @@ To figure out how [[DNS Resolution]] works in [[Kubernetes]], there are a few im
 - k8s DNS server running on the cluster (e.g. [[CoreDNS]])
 - Node's local DNS resolution (e.g. `/etc/resolv.conf`)
 - [[Kubelet]] which creates pods and prepares them for DNS resolution
-- [[Kubernetes Services]] which get cluster domain names in the k8s DNS server (e.g. `mysvc.default.svc.cluster.local`)
+- [[Kubernetes Service]]s which get cluster domain names in the k8s DNS server (e.g. `mysvc.default.svc.cluster.local`)
 
 The question that we are interested in is how does a pod resolve a domain like `mysvc.default.svc.cluster.local` to the IP address that belongs to mysvc Service?
 
