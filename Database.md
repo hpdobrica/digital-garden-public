@@ -8,7 +8,7 @@ Databases are computer systems designed for storing data.
 
 This note serves as a link to connect database-related notes.
 
-- [[ACID Transactions]]
+- [[ACID]]
 - [[Optimistic Locking]]/[[Pessimistic Locking]]
 
 -----

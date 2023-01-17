@@ -12,7 +12,7 @@ For example:
 - user B updates the row remove 100, succeeds and updates the record to `amount: 0, version: 2`
 - user A tries to remove 10 more, but their update fails because they were trying to update based on version 1, which is not the current version anymore
 
-Optimistic locking is non-blocking - if the "locked" key was changed, the transaction will fail, will be reverted ([[ACID Transactions]]) and retried.
+Optimistic locking is non-blocking - if the "locked" key was changed, the transaction will fail, will be reverted ([[ACID]]) and retried.
 
 If the cost of retrying a transaction is too high, [[Pessimistic Locking]] should be preferred.
 
