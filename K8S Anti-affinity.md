@@ -4,7 +4,7 @@ notetype : feed
 date : 23-12-2021
 ---
 
-While [[K8S Node Affinity]] works like an extended [[K8S Node Selectors]], Inter-pod affinity and Anti-affinity focus on labels of the pods rather than labels of the nodes.
+While [[K8S Node Affinity]] works like an extended [[K8S Node Selectors]], Inter-pod affinity and Anti-affinity focus on labels of the pods rather than labels of the [[K8S Node]].
 
 This allows us to dictate which pods can or can't be deployed together on the same node.
 

@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-Kube Apiserver is the primary component of a [[Kubernetes]] cluster. It runs on a Master Node, and is the only component which is talking directly to the [[etcd cluster]]. It exposes a REST API through which all K8S components interact with the cluster / with each other.
+Kube Apiserver is the primary component of a [[Kubernetes]] cluster. It runs on a [[K8S Master Node]], and is the only component which is talking directly to the [[etcd cluster]]. It exposes a REST API through which all K8S components interact with the cluster / with each other.
 
 Whenever you execute a `kubectl` command, your client is sending a request to the Kube Apiserver.
 
