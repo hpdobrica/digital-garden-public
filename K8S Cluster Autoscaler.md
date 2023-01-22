@@ -1,5 +1,5 @@
 ---
-title : Cluster Autoscaler
+title : K8S Cluster Autoscaler
 notetype : feed
 date : 09-01-2023
 ---
