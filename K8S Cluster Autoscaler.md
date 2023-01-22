@@ -6,7 +6,7 @@ date : 09-01-2023
 
 [[Kubernetes]] Cluster Autoscaler represents one of the types of [[Kubernetes Autoscaling]].
 
-Its job is to add or remove [[node]] based on cluster usage. It works by checking for [[K8S Pod]]s that are `Pending` [[K8S Scheduling]], and creates new Nodes if this is due to insufficient cluster capacity. It also tries to pack existing pods onto fewer nodes in an effort to destroy nodes which can be destroyed.
+Its job is to add or remove [[K8S Node]] based on cluster usage. It works by checking for [[K8S Pod]]s that are `Pending` [[K8S Scheduling]], and creates new Nodes if this is due to insufficient cluster capacity. It also tries to pack existing pods onto fewer nodes in an effort to destroy nodes which can be destroyed.
 
 By default, Cluster Autoscaler checks for pending pods every 10 seconds, but this is configurable via `--scan-interval` flag.
 

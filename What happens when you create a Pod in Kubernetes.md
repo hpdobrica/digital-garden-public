@@ -8,7 +8,7 @@ Once you run `kubectl run busybox --image busybox` on your [[Kubernetes]] cluste
 
 The [[K8S Apiserver]] is the component which recieves your request, authenticates you, validates the request and writes your action into [[etcd cluster]]. At this point, the pod resource is created, but is in Pending state.
 
-[[K8S Scheduler]] is continuously monitoring the Apiserver for pods that require scheduling. Once it notices our pod is not assigned to a Node, it will identify the node where the pod will be placed, and will inform Apiserver about this decision. This process is described in more detail in [[K8S Scheduling]].
+[[K8S Scheduler]] is continuously monitoring the Apiserver for pods that require scheduling. Once it notices our pod is not assigned to a [[K8S Node]], it will identify the node where the pod will be placed, and will inform Apiserver about this decision. This process is described in more detail in [[K8S Scheduling]].
 
 Once Apiserver recieves the request from scheduler, it updates the etcd cluster and passes this information over to the [[Kubelet]] of the appropriate worker node.
 

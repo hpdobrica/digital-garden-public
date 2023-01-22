@@ -4,7 +4,7 @@ notetype : feed
 date : 13-12-2021
 ---
 
-Static pods are [[K8S Pod]]s run solely by [[Kubelet]] without any interference from kube-apiserver and other controlplane components.
+Static pods are [[K8S Pod]]s run solely by [[Kubelet]] on any [[K8S Node]] without any interference from kube-apiserver and other controlplane components.
 
 Kubelet uses `/etc/kubernetes/manifests` directory to host static pod manifests by default (directory is configurable in kubelet config). Any pod manifests that are put in this directory, wiill be started by kubelet on its node.
 
