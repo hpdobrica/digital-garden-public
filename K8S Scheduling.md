@@ -9,7 +9,7 @@ date : 03-11-2021
 The Pods are created before they are scheduled, and since the `NodeName` field is immutable, Scheduler can't just edit the pod. It has to create a [[K8S Binding Object]] and create a post request to the [[K8S Apiserver]].
 
 There are multiple constraints that scheduler needs to take into consideration while deciding where to place a pod:
-- [[K8S Resource requirements and Limits]]
+- [[K8S Resource Requests and Limits]]
 - [[K8S Node Selectors]]
 - [[K8S Node Affinity]]
 - [[K8S Taints and Tolerations]]
