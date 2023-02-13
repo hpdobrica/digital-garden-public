@@ -12,11 +12,8 @@ The process of behavior change needs to start with awareness of our current habi
 
 We can utilize the first law by implementing these solutions:
 - [[Designing Environments for Habits]]
-- 
-
-
-
-#TODO implementation intentions and habit stacking
+- [[Implementation Intentions]]
+- [[Habit Stacking]]
 
 -----
 
