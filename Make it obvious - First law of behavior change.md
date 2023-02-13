@@ -15,7 +15,7 @@ We can utilize the first law by implementing these solutions:
 - [[Implementation Intentions]]
 - [[Habit Stacking]]
 
-The inverse first law is Make it invisible
+The inverse first law talks about breaking bad habits and is titled "Make it Invisible". We can apply most of the ideas from normal first law, just this time with the goal of removing cues that lead to bad habits and thus creating friction between us and the bad habit.
 
 -----
 
