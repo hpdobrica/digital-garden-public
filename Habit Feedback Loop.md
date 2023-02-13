@@ -58,7 +58,7 @@ Any habit - good, neutral, or bad follows these four stages. Think of some habit
 
 -----
 
-Status: #🌱 
+Status: #💡 
 
 References:
 - [[Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
