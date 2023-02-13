@@ -10,7 +10,7 @@ Every [[Habit]] starts with a cue (see [[Habit Feedback Loop]]), so in order to 
 
 The process of behavior change needs to start with awareness of our current habits. While it may appear that the urge to act comes out of nowhere, every habit always starts with a cue. A good first step on the journey is to try writing down your current positive and negative habits, and analyzing them to identify their cues.
 
-*Note that positive and negative in terms of habits is dependent on the context - smoking is positive in that it calms your nerves, but has negative effect on your health. Exercise might be temporarily unpleasant, but has a positive long term impact. Seeing how [[Continuous Improvement]] has a direction you are heading at its core - we can agree to say that positive habits are generally the ones that bring us benefits in the long term.*
+
 
 Let's take one positive and one negative habit as an example:
 
