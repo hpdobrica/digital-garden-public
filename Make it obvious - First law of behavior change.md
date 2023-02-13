@@ -15,6 +15,8 @@ We can utilize the first law by implementing these solutions:
 - [[Implementation Intentions]]
 - [[Habit Stacking]]
 
+The inverse first law is Make it invisible
+
 -----
 
 Status: #💡 
