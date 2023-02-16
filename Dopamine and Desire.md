@@ -12,6 +12,7 @@ When we smell tasty, high-calorie food, our brain starts releasing dopamine and 
 
 Dopamine promotes reward-seeking behaviors and in the modern environment often creates behavioral loops which force people to constantly seek pleasure from various sources like social feed scrolling or taking drugs.
 
+The feeling of wanting the reward caused by dopamine can frequently be stronger than the reward we get after fulfilling our desire, making its effects pretty hard to resist.
 
 
 
