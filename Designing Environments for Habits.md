@@ -4,7 +4,7 @@ notetype : feed
 date : 13-02-2023
 ---
 
-Design of our environment is a key component in influencing things we do. Let's see how we can utilize this to form good habits an, using one positive and one negative habit as an example:
+Design of our environment is a key component in influencing things we do. Let's see how we can utilize this to form good [[Habit]]s and break bad ones, using one positive and one negative habit as an example:
 
 Let's use taking supplements as a positive habit. A cue for this habit might be randomly remembering or seeing the bottle with supplements. Negative habit can be scrolling the social media, cue here being a chain of boredom/anxiety, phone in hand, seeing the Reddit app icon.
 

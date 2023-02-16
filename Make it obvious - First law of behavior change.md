@@ -4,7 +4,7 @@ notetype : feed
 date : 02-11-2022
 ---
 
-The first law of behavior change is to make cues to your desired habits more obvious.
+The first of the [[The Four Laws of Behavior Change]] is to make cues to your desired habits more obvious.
 
 Every [[Habit]] starts with a cue (see [[Habit Feedback Loop]]), so in order to ensure we have control over our habits, it's essential that we raise awareness about our cues and gain some control over them.
 
