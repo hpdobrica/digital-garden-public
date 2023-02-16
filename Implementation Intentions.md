@@ -4,7 +4,7 @@ notetype : feed
 date : 13-02-2023
 ---
 
-Implementation Intention is a strategy that can be used in forming [[Habit]]s, and talks about having a concrete plan on how you will implement a certain habit into your life. It is a part of [[Make it obvious - First law of behavior change]].
+Implementation Intention is a strategy that can be used in forming [[Habit]]s, and talks about having a concrete plan on how you will implement a certain habit into your life. 
 
 Our habits always start with a cue, and the idea behind implementation intentions is to leverage common cues like time and location, in order to trigger some desired habits. Implementation intention is an agreement we write with ourselves, which we then try to follow.
 
@@ -45,3 +45,5 @@ Status: #💡
 
 References:
 - [[Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
+
+Part of [[Make it obvious - First law of behavior change]]
