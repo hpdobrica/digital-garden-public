@@ -10,7 +10,7 @@ From top to bottom:
 	- [[Hymenium]]
 		- [[Mushroom Spore]]
 - [[Stalk (Stipe)]]
-	- [[Annulus (partial veil)]]
-	- [[Volva (universal veil)]]
+	- [[Partial veil (Annulus)]]
+	- [[Universal Veil (Volva)]]
 
 

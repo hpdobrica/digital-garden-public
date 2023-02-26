@@ -1,5 +1,5 @@
 ---
-title : Annulus (partial veil)
+title : Partial veil (Annulus)
 notetype : unfeed
 date : 26-02-2023
 ---
