@@ -1,6 +1,6 @@
 ---
 title : Cap (Pileus)
-notetype : feed
+notetype : unfeed
 date : 26-02-2023
 ---
 
