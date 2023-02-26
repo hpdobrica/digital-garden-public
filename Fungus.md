@@ -4,7 +4,7 @@ notetype : feed
 date : 26-02-2023
 ---
 
-Fungus (plural Fungi) is any eukaryotic organism that belongs to:
+Fungus (plural [[Fungi]]) is any eukaryotic organism that belongs to:
 - Yeasts
 - Molds
 - [[Mushroom]]s
