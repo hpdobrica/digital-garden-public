@@ -16,4 +16,4 @@ See [[Morphology of a Mushroom]]
 Status: #🌱 
 
 References:
-- [[Video - Professor Dave Explains - Mycology]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
+- [[Video - Professor Dave Explains - Mycology]] ([source](https://www.youtube.com/watch?v=wqKNm_evkYA&list=PLybg94GvOJ9Hyyv_MD2Y7OPFxhnrKFsD6&ab_channel=ProfessorDaveExplains))
