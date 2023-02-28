@@ -1,5 +1,5 @@
 ---
-title : Anatomy of a Mushroom
+title : Morphology of a Mushroom
 notetype : feed
 date : 26-02-2023
 ---
