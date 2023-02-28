@@ -22,7 +22,7 @@ They are specified as a separate kingdom of life, distinct from plants and anima
 
 -----
 
-Status: #📥
+Status: #🌱 
 
 References:
 - 

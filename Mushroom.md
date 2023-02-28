@@ -13,7 +13,7 @@ See [[Anatomy of a Mushroom]]
 
 -----
 
-Status: #📥
+Status: #🌱 
 
 References:
 - 

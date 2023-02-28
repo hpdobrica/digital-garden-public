@@ -9,7 +9,7 @@ Mycology is a branch of Biology studying [[Fungus]].
 
 -----
 
-Status: #📥
+Status: #🌱 
 
 References:
 - 

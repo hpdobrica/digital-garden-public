@@ -16,7 +16,7 @@ It can also form parasitic relationships, where nutrients are extracted from liv
 
 -----
 
-Status: #📥
+Status: #🌱 
 
 References:
 - 
