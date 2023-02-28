@@ -9,8 +9,9 @@ From top to bottom:
 - [[Mushroom]]:
 	- [[Cap (Pileus)]]
 	- [[Gills (Lamellae)]]
-		- [[Hymenium]]
-			- [[Mushroom Spore]]
+		- [[Hymenophore]]
+			- [[Hymenium]]
+				- [[Mushroom Spore]]
 	- [[Stalk (Stipe)]]
 		- [[Partial veil (Annulus)]]
 		- [[Universal Veil (Volva)]]
