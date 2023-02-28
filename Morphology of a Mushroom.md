@@ -16,7 +16,7 @@ From top to bottom:
 		- [[Partial veil (Annulus)]]
 		- [[Universal Veil (Volva)]]
 - [[Mycelium]]
-	- Hyphae
+	- [[Hypha]]e
 
 
 
