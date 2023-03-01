@@ -4,12 +4,12 @@ notetype : feed
 date : 26-02-2023
 ---
 
-Fungus (plural Fungi) is any eukaryotic organism that belongs to:
+Fungus (plural Fungi) is any eukaryotic ([[Eukarya - Domain]]) organism that belongs to a group of:
 - Yeasts
 - Molds
 - [[Mushroom]]s
 
-They are specified as a separate kingdom of life, distinct from plants and animals. The main characteristic that sets them apart from other living organisms is that they have chitin in their cell walls.
+They are specified as a separate [[Kingdom - Taxonomy]] of life, distinct from plants and animals. The main characteristic that sets them apart from other living organisms is that they have chitin in their cell walls.
 
 [[Mycology]] is the study of fungi.
 
@@ -25,4 +25,4 @@ They are specified as a separate kingdom of life, distinct from plants and anima
 Status: #🌱 
 
 References:
-- 
+- [[Video - Professor Dave Explains - Mycology]]
