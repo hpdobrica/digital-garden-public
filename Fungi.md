@@ -25,4 +25,4 @@ They are specified as a separate [[Kingdom - Taxonomy]] of life, distinct from p
 Status: #🌱 
 
 References:
-- [[Video - Professor Dave Explains - Mycology]]
+- [[Video - Professor Dave Explains - Mycology]] ([source](https://www.youtube.com/watch?v=wqKNm_evkYA&list=PLybg94GvOJ9Hyyv_MD2Y7OPFxhnrKFsD6&ab_channel=ProfessorDaveExplains))
