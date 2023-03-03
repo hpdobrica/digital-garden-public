@@ -4,7 +4,7 @@ notetype : feed
 date : 01-03-2023
 ---
 
-Kingdom of [[Fungi]] has about 8 phyla ([[Phylum - Taxonomy]]). They can be divided into 3 groups based on their similarities. All phyla in the fungal kingdom have a name suffix `-mycota`.
+Kingdom of [[Fungi]] has about 8 phyla ([[Phylum - Taxonomy]]). They can be divided into 3 groups based on their similarities. All phyla in the fungal kingdom have a name suffix `-mycota` while subphyla have a suffix `-mycotina`.
 
 ### Fungi that are zoosporic, single-celled, flagellated
 

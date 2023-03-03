@@ -9,7 +9,7 @@ Phylum is the rank in [[Taxonomy of Living Organisms]], that comes after [[Kingd
 Each kingdom contains a number of phyla:
 - Animalia: ~31
 - Plantae: ~14
-- [[Fungi]]: ~8 (see [[Fungi phyla]])
+- [[Fungi]]: ~8 (see [[Fungi phylum]])
 
 -----
 

@@ -4,7 +4,7 @@ notetype : feed
 date : 01-03-2023
 ---
 
-Basidiomycota are one of the [[Fungi phyla]] ([[Phylum - Taxonomy]]) that belong to Dikarya subkingdom, as they have 2 nuclei per cell. They are considered "higher fungi" along with [[Ascomycota]].
+Basidiomycota are one of the [[Fungi phylum]] ([[Phylum - Taxonomy]]) that belong to Dikarya subkingdom, as they have 2 nuclei per cell. They are considered "higher fungi" along with [[Ascomycota]].
 
 The feature that tells them apart from [[Ascomycota]] is their [[Hymenium]], which is called Basidiocarp. Their [[Mushroom]]s produce club-like structures called Basidia, because of which they are also known as "club fungi".
 
