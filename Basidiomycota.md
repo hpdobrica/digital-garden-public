@@ -11,7 +11,7 @@ The feature that tells them apart from [[Ascomycota]] is their [[Hymenium]], whi
 Basidiomycota has 3 subphyla, each with numerous classes:
 - Ustilaginomycotina
 - Pucciniomycotina
-- Agaricomycotina
+- [[Agaricomycotina]]
 
 -----
 
