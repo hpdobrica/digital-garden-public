@@ -1,4 +1,4 @@
-If you have a [[K8S Pod]] with a privileged container running in [[Kubernetes]] cluster, you can use it to gain access to the underlying [[K8S Node]] it's running on by using `nsenter`.
+If you have a [[K8S Pod]] with a privileged container running in [[Kubernetes]] cluster, you can use it to gain access (like ssh) to the underlying [[K8S Node]] it's running on by using `nsenter`.
 
 {% raw %}
 ```bash
