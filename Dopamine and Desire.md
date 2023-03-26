@@ -4,7 +4,7 @@ notetype : feed
 date : 16-02-2023
 ---
 
-Dopamine plays a huge role in forming our desires, and can be described as a hormone that forces us to seek pleasure.
+Dopamine plays a huge role in forming our desires, and (in this context) can be described as a hormone that forces us to seek pleasure.
 
 It's often thought of as a feel-good chemical of the brain, but it's important to note that dopamine is not spiking up when we "get the reward", but actually prior to that, in the anticipation of the reward. More specifically, it's the thing that pushes us to do stuff we expect to be rewarded for.
 
