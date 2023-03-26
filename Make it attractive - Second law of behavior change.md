@@ -4,7 +4,7 @@ notetype : feed
 date : 16-02-2023
 ---
 
-The second of the [[The Four Laws of Behavior Change]] is to make [[Habit]]s more attractive. This law focuses on increasing the attractiveness of desired habits to increase the likelihood of them being completed.
+The second of [[The Four Laws of Behavior Change]] is to make [[Habit]]s more attractive. This law focuses on increasing the attractiveness of desired habits to increase the likelihood of them being completed.
 
 We all already have cues that force us toward certain behaviors. For example, high-calorie foods act as a cue that triggers a craving for food. Our ancestors experienced periods of food scarcity, and a high-calorie diet was a very attractive option. Today, even with a surplus of food, we still crave high-calorie foods because of the cues that have been hardwired into our brains.
 
