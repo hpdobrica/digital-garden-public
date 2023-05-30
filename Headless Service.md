@@ -10,6 +10,7 @@ This is where the concept of a headless service comes into play - when you do a 
 
 In Kubernetes, you can achieve this by setting service's `clusterIP` spec field to `None`.
 
+There is an option to also publish the addresses of pods which are not ready: `spec.publishNotReadyAddresses: true`
 
 -----
 
