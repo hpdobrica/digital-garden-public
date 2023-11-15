@@ -18,6 +18,8 @@ median(x) // 3
 
 ```
 
+Median ~= 50th [[Percentile]]
+
 Also see [[Mean]] and [[Mode]].
 
 -----
