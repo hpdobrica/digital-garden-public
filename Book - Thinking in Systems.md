@@ -116,5 +116,7 @@ Status: #🛈/📖/♻️
 	- one stock - one reinforcing and one balancing loop
 		- example of this is population and industrial economy - applies to any living population and any economy
 		- reinforcing loop causes population to rise through birth rate, and a balancing loop causes it to die off through death rate ![Reinforcing and balancing loops acting on population](/Public/assets/stock-reinforcing-balancing.png)
-		- if fertility and mortality rate are constant (which they'd rarely be in real-life systems), the system would either grow exponentially or die off
-		- 
+		- if fertility and mortality rate are constant (which they'd rarely be in real-life systems), the system would either grow exponentially or die off depending on which loop is stronger
+		- changing fertility and mortality change the behavior over time creating bends in the stock graph
+			- e.g. if fertility rate slowly falls down over time to equal mortality rate, the two would slowly come into balance and the stock would become constant
+			- this is an example of shifting dominance in feedba
