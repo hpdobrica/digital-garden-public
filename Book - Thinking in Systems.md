@@ -132,5 +132,12 @@ Status: #🛈/📖/♻️
 			- it can do a sequence of above things as relative strengths of the loops change over time
 		- there are some questions you can ask yourself when you want to determine how good is a model for representing reality:
 			- are driving factors likely to unfold this way (what are birth and death rate likely to do?)
+				- cant be answered factually, its a prediction of future
+				- you can have a strong feeling about it but there is no way to prove
+				- system analysis can make test about what happens when driving factors do different things
+				- dynamic system studies are not designed to predict what will happen, but what would happen if a number of driving factors unfold in a number of different ways
 			- if they did unfold that way, would the system react this way (would stock really exponentially grow/level out/die off)
-			- what is driving the driving factors (what affects b)
+			- what is driving the driving factors (what affects the birth rate? what affects the death rate?)
+			- 
+			
+				
