@@ -137,6 +137,8 @@ Status: #🛈/📖/♻️
 				- system analysis can make test about what happens when driving factors do different things
 				- dynamic system studies are not designed to predict what will happen, but what would happen if a number of driving factors unfold in a number of different ways
 			- if they did unfold that way, would the system react this way (would stock really exponentially grow/level out/die off)
+				- this is a more scientific question, about how good the model actually is
+				- this is regardless of whether the driving factors would likely do that, we are just concerned with whether the system would behave that way if they did
 			- what is driving the driving factors (what affects the birth rate? what affects the death rate?)
 			- 
 			
