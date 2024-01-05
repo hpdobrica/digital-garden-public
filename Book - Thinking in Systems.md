@@ -115,6 +115,5 @@ Status: #🛈/📖/♻️
 		- keep in mind that every balancing loop has its breakdown point, where other loops pull the stock away from its goal more strongly than it can pull back (e.g. too low power furnace and too cold outside)
 	- one stock - one reinforcing and one balancing loop
 		- example of this is population and industrial economy - applies to any living population and any economy
-		- ![test](/Public/assets/stock-reinforcing-balancing.png)
-		- reinforcing loop causes population to rise through birth rate, and a balancing loop causes it to die off through death rate ![Reinforcing and balancing loops acting on population](https://github.com/hpdobrica/digital-garden-public/blob/main/assets/stock-reinforcing-balancing.png?raw=true)
+		- reinforcing loop causes population to rise through birth rate, and a balancing loop causes it to die off through death rate ![Reinforcing and balancing loops acting on population](/Public/assets/stock-reinforcing-balancing.png)
 		- if fertility and mortality rate are constant
