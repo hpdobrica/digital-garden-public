@@ -118,4 +118,3 @@ Status: #🛈/📖/♻️
 		- ![test](/Public/assets/stock-reinforcing-balancing.png)
 		- reinforcing loop causes population to rise through birth rate, and a balancing loop causes it to die off through death rate ![Reinforcing and balancing loops acting on population](https://github.com/hpdobrica/digital-garden-public/blob/main/assets/stock-reinforcing-balancing.png?raw=true)
 		- if fertility and mortality rate are constant
-		- 
