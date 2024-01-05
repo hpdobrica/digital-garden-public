@@ -119,4 +119,10 @@ Status: #🛈/📖/♻️
 		- if fertility and mortality rate are constant (which they'd rarely be in real-life systems), the system would either grow exponentially or die off depending on which loop is stronger
 		- changing fertility and mortality change the behavior over time creating bends in the stock graph
 			- e.g. if fertility rate slowly falls down over time to equal mortality rate, the two would slowly come into balance and the stock would become constant
-			- this is an example of shifting dominance in feedba
+			- this is an example of **shifting dominance** in feedback loops
+				- when a loop dominates another, it has a stronger impact on behavior
+				- in systems that have multiple competing loops, the dominating loops will determine the behavior
+				- at first fertility is higher than mortailty, creating exponential growth as the reinforcing loop dominates
+				- the loop is gradually weakened as fertility falls, to the point when they are equal and neither loop dominates, which creates a dynamic equilibrium
+			- complex behaviors of systems often arise as the relative strengths of feedback loops shift, causing first one loop and then another to dominate the behavior
+			- 
