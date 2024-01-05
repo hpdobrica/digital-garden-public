@@ -96,56 +96,61 @@ Status: #🛈/📖/♻️
 - systems zoo is similar to normal zoo, we look at categorized, isolated systems and describe them to better understand their behavior and some of the mechanisms that make them tick, while acknowledging that they are still isolated from their normal environment where they would have many complex interactions
 - for now we care about systems on their own, and ignore ecosystems
 - there is a separate set of books describing different systems in this manner
-- one-stock systems
-	- one stock - two balancing loops
-		- example of this is thermostat controlling heating system
-			- based on thermostat setting, we have a balancing loop that adds heat if there is discrepancy between desired and actual room temperature (heat from furnace flows in)
-			- based on outside temperature, we have a balancing loop which removes heat to the outside based on discrepancy between room temperature and outside temperature
-		- important thing to notice is that changing the desired temperature doesn't instantly work, there is a period where we asked for a bigger temperature, but the temperature is still falling down until the furnace heats up
-			- another example of this is a shop having to order stuff up front before they run out, or they won't have stuff to sell because of the delay
-		- this gives us two behaviors, one general and one specific to thermostat
-			- general: the information delivered by feedback loop can only affect future behavior, it can't have fast enough impact to correct the behavior that drove the current feedback
-				- decision maker in the system that is making decision based on feedback can't change the behavior that drove the current feedback, the decision made can only affect the future behavior
-				- this means that there will always be delay in responding - this is because flow can't directly react to a flow, it can only react to change in the stock, and only after a slight delay it takes to register the incoming information
-				- this difference in time is a reason many economies don't behave like economic models that try to predict them
-			- specific: in thermostat like systems you must remember whatever draining/filling processes are going on:
-				- if you want to keep temperature at 25, you need to set it above 25 to account for the cooling until heating kicks in
-				- if you are hiring to hit the target, you need to hire more to account for people who leave while you are hiring
-				- 
-		- keep in mind that every balancing loop has its breakdown point, where other loops pull the stock away from its goal more strongly than it can pull back (e.g. too low power furnace and too cold outside)
-	- one stock - one reinforcing and one balancing loop
-		- example of this is population and industrial economy - applies to any living population and any economy
-		- reinforcing loop causes population to rise through birth rate, and a balancing loop causes it to die off through death rate ![Reinforcing and balancing loops acting on population](/Public/assets/stock-reinforcing-balancing.png)
-		- if fertility and mortality rate are constant (which they'd rarely be in real-life systems), the system would either grow exponentially or die off depending on which loop is stronger
-		- changing fertility and mortality change the behavior over time creating bends in the stock graph
-			- e.g. if fertility rate slowly falls down over time to equal mortality rate, the two would slowly come into balance and the stock would become constant
-			- this is an example of **shifting dominance** in feedback loops
-				- when a loop dominates another, it has a stronger impact on behavior
-				- in systems that have multiple competing loops, the dominating loops will determine the behavior
-				- at first fertility is higher than mortailty, creating exponential growth as the reinforcing loop dominates
-				- the loop is gradually weakened as fertility falls, to the point when they are equal and neither loop dominates, which creates a dynamic equilibrium
-			- complex behaviors of systems often arise as the relative strengths of feedback loops shift, causing first one loop and then another to dominate the behavior
-		- there are only a couple possible behaviors of such systems:
-			- reinforcing loop dominates, so the stock grows exponentially
-			- if the balancing loop dominates, the stock will die off
-			- if both loops are equal in strength, the stock will level off
-			- it can do a sequence of above things as relative strengths of the loops change over time
-		- there are some questions you can ask yourself when you want to determine how good is a model for representing reality:
-			- are driving factors likely to unfold this way (what are birth and death rate likely to do?)
-				- cant be answered factually, its a prediction of future
-				- you can have a strong feeling about it but there is no way to prove
-				- system analysis can make test about what happens when driving factors do different things
-				- dynamic system studies are not designed to predict what will happen, but what would happen if a number of driving factors unfold in a number of different ways
-			- if they did unfold that way, would the system react this way (would stock really exponentially grow/level out/die off)
-				- this is a more scientific question, about how good the model actually is
-				- this is regardless of whether the driving factors would likely do that, we are just concerned with whether the system would behave that way if they did
-				- in example above, its roughly true, but the model could be more detailed e.g. by including age groups
-			- what is driving the driving factors (what affects the birth rate? what affects the death rate?)
-				- this is a question about system boundaries
-				- are the driving factors independent or are they embedded into the system?
-				- does the size of the system feed into fertility and mortality in any way?
-				- do economic/social/environment factors affect fertility/mortality?
-				- does the size of population affect economic/social/environment factors?
-				- all of this is true, because this "animal"
+
+#### One stock systems
+
+##### One stock - two balancing loops
+
+- example of this is thermostat controlling heating system
+	- based on thermostat setting, we have a balancing loop that adds heat if there is discrepancy between desired and actual room temperature (heat from furnace flows in)
+	- based on outside temperature, we have a balancing loop which removes heat to the outside based on discrepancy between room temperature and outside temperature
+- important thing to notice is that changing the desired temperature doesn't instantly work, there is a period where we asked for a bigger temperature, but the temperature is still falling down until the furnace heats up
+	- another example of this is a shop having to order stuff up front before they run out, or they won't have stuff to sell because of the delay
+- this gives us two behaviors, one general and one specific to thermostat
+	- general: the information delivered by feedback loop can only affect future behavior, it can't have fast enough impact to correct the behavior that drove the current feedback
+		- decision maker in the system that is making decision based on feedback can't change the behavior that drove the current feedback, the decision made can only affect the future behavior
+		- this means that there will always be delay in responding - this is because flow can't directly react to a flow, it can only react to change in the stock, and only after a slight delay it takes to register the incoming information
+		- this difference in time is a reason many economies don't behave like economic models that try to predict them
+	- specific: in thermostat like systems you must remember whatever draining/filling processes are going on:
+		- if you want to keep temperature at 25, you need to set it above 25 to account for the cooling until heating kicks in
+		- if you are hiring to hit the target, you need to hire more to account for people who leave while you are hiring
+		- 
+- keep in mind that every balancing loop has its breakdown point, where other loops pull the stock away from its goal more strongly than it can pull back (e.g. too low power furnace and too cold outside)
+##### one stock - one reinforcing and one balancing loop
+
+- example of this is population and industrial economy - applies to any living population and any economy
+	- reinforcing loop causes population to rise through birth rate, and a balancing loop causes it to die off through death rate ![Reinforcing and balancing loops acting on population](/Public/assets/stock-reinforcing-balancing.png)
+	- if fertility and mortality rate are constant (which they'd rarely be in real-life systems), the system would either grow exponentially or die off depending on which loop is stronger
+	- changing fertility and mortality change the behavior over time creating bends in the stock graph
+		- e.g. if fertility rate slowly falls down over time to equal mortality rate, the two would slowly come into balance and the stock would become constant
+		- this is an example of **shifting dominance** in feedback loops
+			- when a loop dominates another, it has a stronger impact on behavior
+			- in systems that have multiple competing loops, the dominating loops will determine the behavior
+			- at first fertility is higher than mortailty, creating exponential growth as the reinforcing loop dominates
+			- the loop is gradually weakened as fertility falls, to the point when they are equal and neither loop dominates, which creates a dynamic equilibrium
+		- complex behaviors of systems often arise as the relative strengths of feedback loops shift, causing first one loop and then another to dominate the behavior
+	- there are only a couple possible behaviors of such systems:
+		- reinforcing loop dominates, so the stock grows exponentially
+		- if the balancing loop dominates, the stock will die off
+		- if both loops are equal in strength, the stock will level off
+		- it can do a sequence of above things as relative strengths of the loops change over time
+	- there are some questions you can ask yourself when you want to determine how good is a model for representing reality:
+		- are driving factors likely to unfold this way (what are birth and death rate likely to do?)
+			- cant be answered factually, its a prediction of future
+			- you can have a strong feeling about it but there is no way to prove
+			- system analysis can make test about what happens when driving factors do different things
+			- dynamic system studies are not designed to predict what will happen, but what would happen if a number of driving factors unfold in a number of different ways
+		- if they did unfold that way, would the system react this way (would stock really exponentially grow/level out/die off)
+			- this is a more scientific question, about how good the model actually is
+			- this is regardless of whether the driving factors would likely do that, we are just concerned with whether the system would behave that way if they did
+			- in example above, its roughly true, but the model could be more detailed e.g. by including age groups
+		- what is driving the driving factors (what affects the birth rate? what affects the death rate?)
+			- this is a question about system boundaries
+			- are the driving factors independent or are they embedded into the system?
+			- does the size of the system feed into fertility and mortality in any way?
+			- do economic/social/environment factors affect fertility/mortality?
+			- does the size of population affect economic/social/environment factors?
+			- all of this is true, because this "animal" is only a part of a larger system
+		- 
 			
 				
