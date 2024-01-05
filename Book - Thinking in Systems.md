@@ -125,4 +125,12 @@ Status: #🛈/📖/♻️
 				- at first fertility is higher than mortailty, creating exponential growth as the reinforcing loop dominates
 				- the loop is gradually weakened as fertility falls, to the point when they are equal and neither loop dominates, which creates a dynamic equilibrium
 			- complex behaviors of systems often arise as the relative strengths of feedback loops shift, causing first one loop and then another to dominate the behavior
-			- 
+		- there are only a couple possible behaviors of such systems:
+			- reinforcing loop dominates, so the stock grows exponentially
+			- if the balancing loop dominates, the stock will die off
+			- if both loops are equal in strength, the stock will level off
+			- it can do a sequence of above things as relative strengths of the loops change over time
+		- there are some questions you can ask yourself when you want to determine how good is a model for representing reality:
+			- are driving factors likely to unfold this way (what are birth and death rate likely to do?)
+			- if they did unfold that way, would the system react this way (would stock really exponentially grow/level out/die off)
+			- what is driving the driving factors (what affects b)
