@@ -139,7 +139,13 @@ Status: #🛈/📖/♻️
 			- if they did unfold that way, would the system react this way (would stock really exponentially grow/level out/die off)
 				- this is a more scientific question, about how good the model actually is
 				- this is regardless of whether the driving factors would likely do that, we are just concerned with whether the system would behave that way if they did
+				- in example above, its roughly true, but the model could be more detailed e.g. by including age groups
 			- what is driving the driving factors (what affects the birth rate? what affects the death rate?)
-			- 
+				- this is a question about system boundaries
+				- are the driving factors independent or are they embedded into the system?
+				- does the size of the system feed into fertility and mortality in any way?
+				- do economic/social/environment factors affect fertility/mortality?
+				- does the size of population affect economic/social/environment factors?
+				- all of this is true, because this "animal"
 			
 				
