@@ -99,7 +99,7 @@ Status: #🛈/📖/♻️
 
 #### One stock systems
 
-##### One stock - two balancing loops
+##### One stock, two balancing loops
 
 - example of this is thermostat controlling heating system
 	- based on thermostat setting, we have a balancing loop that adds heat if there is discrepancy between desired and actual room temperature (heat from furnace flows in)
@@ -116,10 +116,10 @@ Status: #🛈/📖/♻️
 		- if you are hiring to hit the target, you need to hire more to account for people who leave while you are hiring
 		- 
 - keep in mind that every balancing loop has its breakdown point, where other loops pull the stock away from its goal more strongly than it can pull back (e.g. too low power furnace and too cold outside)
-##### one stock - one reinforcing and one balancing loop
+##### one stock, one reinforcing and one balancing loop
 
 - example of this is population and industrial economy - applies to any living population and any economy
-	- reinforcing loop causes population to rise through birth rate, and a balancing loop causes it to die off through death rate ![Reinforcing and balancing loops acting on population](/Public/assets/stock-reinforcing-balancing.png)
+	- reinforcing loop causes population to rise through birth rate, and a balancing loop causes it to die off through death rate ![Reinforcing and balancing loops acting on population](Public/assets/systems-stock-reinforcing-balancing-population.png)
 	- if fertility and mortality rate are constant (which they'd rarely be in real-life systems), the system would either grow exponentially or die off depending on which loop is stronger
 	- changing fertility and mortality change the behavior over time creating bends in the stock graph
 		- e.g. if fertility rate slowly falls down over time to equal mortality rate, the two would slowly come into balance and the stock would become constant
@@ -151,6 +151,8 @@ Status: #🛈/📖/♻️
 			- do economic/social/environment factors affect fertility/mortality?
 			- does the size of population affect economic/social/environment factors?
 			- all of this is true, because this "animal" is only a part of a larger system
-		- 
+- the system above is influenced by economic system, which is similarily a stock with reinforcing and balancing loop as well
+	- the greater the stock of physical capital (machines and factories), the more output can be produced - the more output is produced, the more capital can be made
+		- similar to fertility, the greater fraction of output the society invests,
 			
 				
