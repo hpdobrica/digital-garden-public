@@ -152,7 +152,12 @@ Status: #🛈/📖/♻️
 			- does the size of population affect economic/social/environment factors?
 			- all of this is true, because this "animal" is only a part of a larger system
 - the system above is influenced by economic system, which is similarily a stock with reinforcing and balancing loop as well
-	- the greater the stock of physical capital (machines and factories), the more output can be produced - the more output is produced, the more capital can be made
-		- similar to fertility, the greater fraction of output the society invests,
+	- ![Reinforcing and balancing loops acting on population](Public/assets/systems-stock-reinforcing-balancing-population.png)
+		- the greater the stock of physical capital (machines and factories), the more output can be produced - the more output is produced, the more capital can be made
+			- similar to fertility, the greater fraction of output the society invests, the faster capital stock will grow
+		- the physical capital is drained by depreciation, obsolence and wearing out
+			- balancing loop controlling depreciation is similar to mortality balancing loop
+			- the "mortality" of capital depends on average capital lifetime - the longer the lifetime, the smaller fraction of capital needs to be retired each year
+	- since the structure is the same, we expect to also see the same behaviors as in the system above
 			
 				
