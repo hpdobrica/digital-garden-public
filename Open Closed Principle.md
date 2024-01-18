@@ -100,7 +100,34 @@ func main() {
 }
 ```
 
-Cat is a struct whi
+In the example above, `Cat` is a struct which has a name and two methods, `Legs` and `PrintLegs`. `OctoCat` embeds `Cat`, and defines it's own `Legs` method which returns a different number, effectively extending the behavior of `Cat` without modifying it. Note that above would work even if `Legs` was a property:
+
+```go
+package main
+
+type Cat struct {
+        Name string
+        Legs int
+}
+
+
+func (c Cat) PrintLegs() {
+        fmt.Printf("I have %d legs\n", c.Legs())
+}
+
+type OctoCat struct {
+        Cat
+}
+
+func (o OctoCat) Legs() int { return 5 }
+
+func main() {
+        var octo OctoCat
+        octo.Legs = 5;
+        fmt.Println(octo.Legs()) // 5
+        octo.PrintLegs()         // I have 4 legs
+}
+```
 
 -----
 
