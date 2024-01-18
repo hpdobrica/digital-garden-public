@@ -70,6 +70,37 @@ func (p *PermissionsChecker) checkPermissions(req) {
 
 Here we define `PermissionsProvider` interface which allows us to extend our authorization logic without having to modify it. Each time you add new authentication method, you'd add another provider to the `PermissionsChecker`. Another option would be to pass the used `PermissionsProvider` as an argument to `checkPermissions` and avoid loop-through-all-providers shenanigans.
 
+### Golang embedding
+
+In golang, we can use embedding to open our code for extension:
+
+```go
+package main
+
+type Cat struct {
+        Name string
+}
+
+func (c Cat) Legs() int { return 4 }
+
+func (c Cat) PrintLegs() {
+        fmt.Printf("I have %d legs\n", c.Legs())
+}
+
+type OctoCat struct {
+        Cat
+}
+
+func (o OctoCat) Legs() int { return 5 }
+
+func main() {
+        var octo OctoCat
+        fmt.Println(octo.Legs()) // 5
+        octo.PrintLegs()         // I have 4 legs
+}
+```
+
+Cat is a struct whi
 
 -----
 
