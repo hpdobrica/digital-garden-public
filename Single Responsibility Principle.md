@@ -16,6 +16,14 @@ Instead of having a function that sends an email **and** writes it to a [[Databa
 
 The example above might sound like we just moved the problem one abstraction up - we still have a module that's responsible for both sending a message and writing to database, right? Not quite - we have one module responsible only for **writing**, one responsible only for **sending**, and one responsible only for **delegating** work to underlying structures.
 
+### Naming things
+
+The name of the thing can have an impact on the responsibility of the code. Let's see a few examples with go package names:
+- Let's say you name your package `server`. What is its responsibility? It's pretty clear, to serve something, but we can do better than that:
+
+
+
+
 
 
 -----
@@ -23,4 +31,5 @@ The example above might sound like we just moved the problem one abstraction up 
 Status: #💡 
 
 References:
-- [[Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK))
+- [[Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK
+
