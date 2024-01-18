@@ -8,7 +8,7 @@ Single Responsibility Principle (OCP) is the first of [[SOLID Principles]] which
 
 "**A class should have one, and only one, reason to change**"
 
-In other words, if some code has to change, it should be for its own reasons, not as collateral damage of some other code change. To achieve this, we need to build modules/classes/functions/structs/modules which have a single responsibility.
+In other words, if some code has to change, it should be for its own reasons, not as collateral damage of some other code change. To achieve this, we need to build modules/classes/functions/structs which have a single responsibility.
 
 Sounds familiar? You might be thinking [[Unix Philosophy]].
 
