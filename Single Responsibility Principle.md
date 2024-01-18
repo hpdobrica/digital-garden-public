@@ -26,10 +26,6 @@ By naming our things properly, we ensure that we are sticking to the intended pu
 
 
 
-
-
-
-
 -----
 
 Status: #💡 
