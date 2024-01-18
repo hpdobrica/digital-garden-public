@@ -100,38 +100,11 @@ func main() {
         var octo OctoCat
         octo.Legs = 5;
         cat.PrintLegs()  // I have 4 legs
-        octo.PrintLegs() // I have 5 legs
+        octo.PrintLegs() // I have 5 legs, even though I'm called OctoCat
 }
 ```
 
-Here we embedded Cat into OctoCat, 
-
-```go
-package main
-
-type Cat struct {
-        Legs int
-}
-
-
-func (c Cat) PrintLegs() {
-        fmt.Printf("I have %d legs\n", c.Legs)
-}
-
-type OctoCat struct {
-        Cat
-}
-
-func main() {
-		var cat Cat
-		cat.Legs = 4;
-        var octo OctoCat
-        octo.Legs = 5;
-        cat.PrintLegs()  // I have 4 legs
-        octo.PrintLegs() // I have 5 legs
-}
-```
-
+Here we embedded Cat into OctoCat, which allowed us to reuse all of it's fields and methods, but then we defined our own PrintLegs method to extend the existing functionality.
 
 
 ```go
@@ -160,7 +133,7 @@ func main() {
 }
 ```
 
-In the example above, `Cat` is a struct which has a name and two methods, `Legs` and `PrintLegs`. `OctoCat` embeds `Cat`, and defines it's own `Legs` method which returns a different number. Even though Octo's legs are counted as 5, `PrintLegs` still calls `Cat`'s legs method instead.
+In a similar example, if `Legs` are instead a method (and not a property) which we have overriden, while `PrintLegs` stays not-overriden, even though Octo's Legs() say 5, it's PrintLegs is called directly from `Cat`, which has no idea where it has been embedded into, and can only call it's own method Legs, thus saying that OctoCat has only 4 legs!
 
 
 
