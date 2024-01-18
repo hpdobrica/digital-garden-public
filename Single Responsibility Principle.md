@@ -19,7 +19,11 @@ The example above might sound like we just moved the problem one abstraction up 
 ### Naming things
 
 The name of the thing can have an impact on the responsibility of the code. Let's see a few examples with go package names:
-- Let's say you name your package `server`. What is its responsibility? It's pretty clear, to serve something, but we can do better than that:
+- Let's say you name your package `server`. What is its responsibility? It's pretty clear, to serve something, right? But which protocol does it serve? See how go's package `net/http` did the right thing there?
+- Packages like `util` and `common` are breeding grounds for multi-responsibility code
+
+By naming our things properly, we ensure that we are sticking to the intended purpose of our code.
+
 
 
 
@@ -32,4 +36,5 @@ Status: #💡
 
 References:
 - [[Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK
+- [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 
