@@ -78,6 +78,34 @@ In golang, we can use embedding to open our code for extension:
 package main
 
 type Cat struct {
+        Legs int
+}
+
+
+func (c Cat) PrintLegs() {
+        fmt.Printf("I have %d legs\n", c.Legs)
+}
+
+type OctoCat struct {
+        Cat
+}
+
+func main() {
+		var cat Cat
+		cat.Legs = 4;
+        var octo OctoCat
+        octo.Legs = 5;
+        cat.PrintLegs()  // I have 4 legs
+        octo.PrintLegs() // I have 5 legs
+}
+```
+
+
+
+```go
+package main
+
+type Cat struct {
         Name string
 }
 
@@ -100,34 +128,9 @@ func main() {
 }
 ```
 
-In the example above, `Cat` is a struct which has a name and two methods, `Legs` and `PrintLegs`. `OctoCat` embeds `Cat`, and defines it's own `Legs` method which returns a different number, effectively extending the behavior of `Cat` without modifying it. Note that above would work even if `Legs` was a property:
-
-```go
-package main
-
-type Cat struct {
-        Name string
-        Legs int
-}
+In the example above, `Cat` is a struct which has a name and two methods, `Legs` and `PrintLegs`. `OctoCat` embeds `Cat`, and defines it's own `Legs` method which returns a different number. Even though Octo's legs are counted as 5, `PrintLegs` still calls `Cat`'s legs method instead.
 
 
-func (c Cat) PrintLegs() {
-        fmt.Printf("I have %d legs\n", c.Legs())
-}
-
-type OctoCat struct {
-        Cat
-}
-
-func (o OctoCat) Legs() int { return 5 }
-
-func main() {
-        var octo OctoCat
-        octo.Legs = 5;
-        fmt.Println(octo.Legs()) // 5
-        octo.PrintLegs()         // I have 4 legs
-}
-```
 
 -----
 
