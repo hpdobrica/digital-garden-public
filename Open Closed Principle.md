@@ -72,7 +72,39 @@ Here we define `PermissionsProvider` interface which allows us to extend our aut
 
 ### Golang embedding
 
-In golang, we can use embedding to open our code for extension:
+In golang, we can use embedding to open our code for extension, let's see a few examples:
+
+```go
+package main
+
+type Cat struct {
+        Legs int
+}
+
+
+func (c Cat) PrintLegs() {
+        fmt.Printf("I have %d legs\n", c.Legs)
+}
+
+type OctoCat struct {
+        Cat
+}
+
+func (o OctoCat) PrintLegs() {
+        fmt.Printf("I have %d legs, even though I'm called OctoCat\n", o.Legs)
+}
+
+func main() {
+		var cat Cat
+		cat.Legs = 4;
+        var octo OctoCat
+        octo.Legs = 5;
+        cat.PrintLegs()  // I have 4 legs
+        octo.PrintLegs() // I have 5 legs
+}
+```
+
+Here we embedded Cat into OctoCat, 
 
 ```go
 package main
