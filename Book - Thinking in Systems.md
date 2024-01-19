@@ -161,6 +161,10 @@ Status: #🛈/📖/♻️
 	- since the structure is the same, we expect to also see the same behaviors as in the system above
 		- as reinforcing loop dominated for population, so it did for economy as well, and over the last 10s of years it grew exponentially
 		- we also don't know which lop will dominate in the future, and whether capital will continue growing, stay the same or die off
-		- this depe
+		- this depends on
+			- investment fraction (how much of what's earned is invested)
+			- efficiency (how much capital is required per unit of output)
+			- capital lifetime (how long before capital stops producing output)
+		- if investment fraction and efficiency are constant, the value of capital lifetime will determine whether the stock grows exponentially (e.g. 20 year l)
 			
 				
