@@ -169,6 +169,8 @@ Status: #🛈/📖/♻️
 			- one more example of how we can increase stock not only by having more inputs, but of having less outputs!
 - as there are many things influencing the population system (economic system included), so do many things influence economic system (population system included)
 	- these two should always be portrayed together to give a better picture because
-	- the richer the country, the better the healthcare and the lower the death
+	- the richer the country, the better the healthcare and the lower the death rate
+	- but also, the richer the country, the lower the birth rate
+	- important thing for economic development is that reinforcing loop of capital grows more slowly than reinforcing loop of population growth, so that population is get
 			
 				
