@@ -181,5 +181,9 @@ Status: #🛈/📖/♻️
 
 ##### a system with delays - business inventory
 
-- lets picture a car dealership, a system with inflow of deliveries fro
+- lets picture a car dealership, a system with inflow of deliveries from factories, and outflow of car sales
+- the dealership tries to balance the amount of cars they have on the lot, because the amount of deliveries and sales can't match up every day - they need to have some cars in stock, and order again when they see the stock decreasing so that they don't run out of cars to sell
+	- they also need to be mindful of late deliveries and have some extra stock to compensate for that
+	- they also need to monitor sales (percieved sales)
+- this system would be similar to thermostat system, one balancing loop keeping enough cars on the lot, and another one draining the inventory stock
 
