@@ -3,10 +3,9 @@ title : Liskov Substitution Principle
 notetype : feed
 date : 28-11-2021
 ---
-[]()
 Liskov Substitution Principle is the third of the [[Software Design]] [[SOLID Principles]] in [[OOP]]. It states this:
 
-If `S` is a subtype of `T`, then objects of type `T` may be replaced with objects of type `S` without breaking the program.
+If `S` is a subtype of `T`, then objects of type `T` may be replaced with objects of type `S` without breaking the program.1
 
 Or in plain english - if we have a class `Animal` and a class `Dog`, `Dog` should inherit from `Animal` only if we could replace **any instance** of `Animal` with an instance of `Dog` without breaking our code.
 
