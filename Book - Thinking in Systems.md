@@ -173,10 +173,13 @@ Status: #🛈/📖/♻️
 	- but also, the richer the country, the lower the birth rate
 	- important thing for economic development is that reinforcing loop of capital grows faster than reinforcing loop of population growth, so that population is getting richer instead of poorer
 - while it may sound strange that these two systems are similar enough to be considered the same "zoo animal" (factories/production and babies being born and people dying), but what makes them similar is their feedback loop structures - they both have:
-	- reinforcing growth loop
+	- reinforcing growth loop (reproducing themselves out of themselves)
 	- balancing death loop
 	- aging process (steel mills age and die off just like people)
 - **systems with similar feedback structures will produce similar dynamic behavior**
-- 
-			
-				
+
+
+##### a system with delays - business inventory
+
+
+
