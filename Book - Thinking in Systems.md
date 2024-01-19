@@ -181,5 +181,5 @@ Status: #🛈/📖/♻️
 
 ##### a system with delays - business inventory
 
-
+- lets picture a car dealership, a system with inflow of deliveries fro
 
