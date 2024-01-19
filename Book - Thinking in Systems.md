@@ -159,5 +159,8 @@ Status: #🛈/📖/♻️
 			- balancing loop controlling depreciation is similar to mortality balancing loop
 			- the "mortality" of capital depends on average capital lifetime - the longer the lifetime, the smaller fraction of capital needs to be retired each year
 	- since the structure is the same, we expect to also see the same behaviors as in the system above
+		- as reinforcing loop dominated for population, so it did for economy as well, and over the last 10s of years it grew exponentially
+		- we also don't know which lop will dominate in the future, and whether capital will continue growing, stay the same or die off
+		- this depe
 			
 				
