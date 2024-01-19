@@ -171,6 +171,7 @@ Status: #🛈/📖/♻️
 	- these two should always be portrayed together to give a better picture because
 	- the richer the country, the better the healthcare and the lower the death rate
 	- but also, the richer the country, the lower the birth rate
-	- important thing for economic development is that reinforcing loop of capital grows more slowly than reinforcing loop of population growth, so that population is get
+	- important thing for economic development is that reinforcing loop of capital grows faster than reinforcing loop of population growth, so that population is getting richer instead of poorer
+- 
 			
 				
