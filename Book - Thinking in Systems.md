@@ -165,6 +165,10 @@ Status: #🛈/📖/♻️
 			- investment fraction (how much of what's earned is invested)
 			- efficiency (how much capital is required per unit of output)
 			- capital lifetime (how long before capital stops producing output)
-		- if investment fraction and efficiency are constant, the value of capital lifetime will determine whether the stock grows exponentially (e.g. 20 year l)
+		- if investment fraction and efficiency are constant, the value of capital lifetime will determine whether the stock grows exponentially (e.g. 20 year lifetime), stays in dynamic equlibrium (e.g. 15 year lifetime) or dies off (e.g. 10 year lifetime)
+			- one more example of how we can increase stock not only by having more inputs, but of having less outputs!
+- as there are many things influencing the population system (economic system included), so do many things influence economic system (population system included)
+	- these two should always be portrayed together to give a better picture because
+	- the richer the country, the better the healthcare and the lower the death
 			
 				
