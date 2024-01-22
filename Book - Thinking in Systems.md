@@ -187,4 +187,9 @@ Status: #🛈/📖/♻️
 	- they also need to monitor sales (perceived sales) so that if they seem to be rising, they can order more cars to compensate for that
 		- higher sales -> higher perceived sales -> higher discrepancy between current inventory and desired inventory -> bigger orders -> more deliveries -> increase in inventory
 - this system would be similar to thermostat system, one balancing loop keeping enough cars on the lot, and another one draining the inventory stock
+	- if this system behaved the same as the thermostat system, and we had a permanent increase in sales of 10%, the amount of cars in the lot would increase by 10%  and that would be it
+	- however this system behaves totally differently, and the reason for it is that it has delays
+- ![Two balancing loops maintaining the stock of car dealership](Public/assets/systems-stock-two-balancing-with-delays-dealership.png)
+- these delays (in yellow) are similar to what we'd expect to see in the real world:
+	- perception delay is intentional in this case, car dealer doesn't want to react to any blip in sales that happens - instead they'd average the sales over five days to see if any real trends are starting to pop up
 
