@@ -192,4 +192,27 @@ Status: #🛈/📖/♻️
 - ![Two balancing loops maintaining the stock of car dealership](Public/assets/systems-stock-two-balancing-with-delays-dealership.png)
 - these delays (in yellow) are similar to what we'd expect to see in the real world:
 	- perception delay is intentional in this case, car dealer doesn't want to react to any blip in sales that happens - instead they'd average the sales over five days to see if any real trends are starting to pop up
-
+	- response delay is also intentional - instead of ordering the whole batch at once, car dealer can make the desired order over 3 days - 1/3 of order each day
+- when delays are introduced into a balancing feedback loop, system starts to oscilate
+	- in this example:
+		- initial step up causes inventory to drop
+		- car dealer watches to see if the change is consistent before ordering more, and there is a delay before the shipment arrives
+		- during this time, inventory drops more, so more orders are needed to maintain the stock
+		- once the shipments start to arrive, inventory recovers, and more than recovers (because a lot was ordered during the time of uncertainty)
+		- once mistake is noticed, car dealer starts ordering less, but old orders are still arriving
+		- because of uncertainty of what's to happen next, it's almost inevitable that car dealer will start ordering too little, leading to inventory to drop again, creating the oscilation
+	- another example is when using hot/cold water mixer when the pipes are long, you try to get a bit hotter water, the water then becomes too hot, you try to reduce the heat a bit, but it becomes too cold
+- it's important to know that this is not a car dealer skill issue, this is a problem of working with a system in which you can't have timely information, and where the system doesn't immediately react to your actions
+	- you don't know what your customer will do, and once they do it, you don't know whether they'll keep doing it
+- this type of issue is common in inventory systems, and many other systems, but predicting how oscillations will act is no simple matter
+- lets see what can car dealer do about it, because "this is intolerable":
+	- since this happens because of delays, they can't do anything about delays from the factory, but they can reduce their time to act, e.g. by not averaging sales over 5 days but over 2 days
+		- turns out that doing this doesn't change much, and might even make the oscilations worse
+	- what if instead of changing perception delay, car dealer changes response delay, and orders the whole batch over two days instead of three?
+		- things get much worse in this case
+- something has to change, and since car dealer is a learning system, something will change
+	- the above is a good example of how someone tries to fix an unintuitive system, and ends up making things worse
+	- intuitive part is that you should reach for changing the delays you are in control of as it's obvious that that's the lever that has strong influence on the system, but the unintuitive part is that instead of speeding delays up, you should be slowing them down even further
+	- the problem above is not that the dealer was reacting too slow, but too quickly
+	- if instead of speeding up their response delay from 3 days to 2, they end up slowing it down to 6 days instead, oscillations are damped and the system finds equilibrium quite quickly
+	- 
