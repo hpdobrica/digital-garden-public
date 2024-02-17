@@ -4,7 +4,7 @@ notetype : feed
 date : 25-02-2022
 ---
 
-Axis-Aligned Bounding Box is one of the simplest collision detection methods in 2d [[Public/Game Development]], which only works on 2d rectangles that aren't rotated (their sides are parallel/perpendicular).
+Axis-Aligned Bounding Box is one of the simplest collision detection methods in 2d [[Game Development]], which only works on 2d rectangles that aren't rotated (their sides are parallel/perpendicular).
 
 AABB works by checking if sides of rectangle A are outside of the opposite sides of rectangle B. For example, if top side of rectangle A is below bottom side of rectangle B, we know the two rectangles aren't colliding no matter what.
 

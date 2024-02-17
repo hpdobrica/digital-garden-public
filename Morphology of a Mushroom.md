@@ -6,17 +6,17 @@ date : 26-02-2023
 
 From top to bottom:
 
-- [[Public/Mushroom]]:
-	- [[Public/Cap (Pileus)]]
-	- [[Public/Gills (Lamellae)]]
-		- [[Public/Hymenophore]]
-			- [[Public/Hymenium]]
+- [[Mushroom]]:
+	- [[Cap (Pileus)]]
+	- [[Gills (Lamellae)]]
+		- [[Hymenophore]]
+			- [[Hymenium]]
 				- [[Mushroom Spore]]
-	- [[Public/Stalk (Stipe)]]
-		- [[Public/Partial veil (Annulus)]]
-		- [[Public/Universal Veil (Volva)]]
-- [[Public/Mycelium]]
-	- [[Public/Hypha]]e
+	- [[Stalk (Stipe)]]
+		- [[Partial veil (Annulus)]]
+		- [[Universal Veil (Volva)]]
+- [[Mycelium]]
+	- [[Hypha]]e
 
 
 

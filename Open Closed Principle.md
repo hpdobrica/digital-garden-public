@@ -4,7 +4,7 @@ notetype : feed
 date : 09-08-2022
 ---
 
-Open/Closed Principle (OCP) is the second of [[Public/SOLID Principles]] which states:
+Open/Closed Principle (OCP) is the second of [[SOLID Principles]] which states:
 
 "**Software entities should be open for extension, but closed for modification**"
 

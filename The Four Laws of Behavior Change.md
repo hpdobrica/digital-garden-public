@@ -4,11 +4,11 @@ notetype : feed
 date : 04-10-2022
 ---
 
-Four laws of behavior change are principles for designing better [[Public/Habit]]s described by [[Public/Atomic Habits]]
+Four laws of behavior change are principles for designing better [[Habit]]s described by [[Atomic Habits]]
 
-Each law of behavior change is tied to one stage of [[Public/Habit Feedback Loop]], telling us how to optimize this part of the habit cycle to reduce the friction and increase the likelihood that a habit will be formed. Following through with all four laws is critical, as a failure at any stage breaks the habit loop. The four stages and their corresponding laws are:
-- `Cue` - [[Public/Make it obvious - First law of behavior change]]
-- `Craving` - [[Public/Make it attractive - Second law of behavior change]]
+Each law of behavior change is tied to one stage of [[Habit Feedback Loop]], telling us how to optimize this part of the habit cycle to reduce the friction and increase the likelihood that a habit will be formed. Following through with all four laws is critical, as a failure at any stage breaks the habit loop. The four stages and their corresponding laws are:
+- `Cue` - [[Make it obvious - First law of behavior change]]
+- `Craving` - [[Make it attractive - Second law of behavior change]]
 - `Response` - [[01 Inbox/Make it easy - Third law of behavior change]]
 - `Reward` - [[Make it satisfying - Fourth law of behavior change]]
 

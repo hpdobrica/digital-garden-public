@@ -40,4 +40,4 @@ References:
 - [The spread of obesity in a large social network over 32 years](https://pubmed.ncbi.nlm.nih.gov/17652652/)
 - [Solomon Asch - Conformity Experiment](https://www.simplypsychology.org/asch-conformity.html)
 
-Part of [[Public/Make it attractive - Second law of behavior change]]
+Part of [[Make it attractive - Second law of behavior change]]

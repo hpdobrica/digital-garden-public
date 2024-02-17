@@ -4,7 +4,7 @@ notetype : feed
 date : 16-08-2022
 ---
 
-Blue/Green is a [[Public/Deployment Strategy]] where version `B` is deployed alongside version `A`, after which the traffic is switched from `A` to `B`. 
+Blue/Green is a [[Deployment Strategy]] where version `B` is deployed alongside version `A`, after which the traffic is switched from `A` to `B`. 
 
 ## How it works
 - before we start, we have 2 instances of `A` running and serving traffic 

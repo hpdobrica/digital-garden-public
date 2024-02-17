@@ -4,7 +4,7 @@ notetype : feed
 date : 13-11-2021
 ---
 
-In order to enable encryption of data stored in [[Public/etcd cluster]], [[Public/K8S Apiserver]] needs to be configured with the `--encryption-provider-config` flag:
+In order to enable encryption of data stored in [[etcd cluster]], [[K8S Apiserver]] needs to be configured with the `--encryption-provider-config` flag:
 
 First, create a file `encryption-config.yaml`:
 

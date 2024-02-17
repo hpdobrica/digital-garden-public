@@ -4,7 +4,7 @@ notetype : feed
 date : 24-12-2021
 ---
 
-Parmenides was a [[Public/Pre-Socratic Philosophers]] who went against the grain and whose ideas were completely oposite to everyone else's at the time.
+Parmenides was a [[Pre-Socratic Philosophers]] who went against the grain and whose ideas were completely oposite to everyone else's at the time.
 
 While philosophers have started to view universe as an ever-changing system ([[Everything is in permanent state of flux]]), Parmenides proposed that this is not true, that nothing ever changes, and that reality is one big unchanging blob. We think we see the change in the universe with our senses, but [[Senses are deceptive]] and they create the illusion of change.
 

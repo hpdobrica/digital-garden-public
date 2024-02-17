@@ -4,7 +4,7 @@ notetype : feed
 date : 01-03-2023
 ---
 
-Kingdom of [[Public/Fungi]] has about 8 phyla ([[Public/Phylum - Taxonomy]]). They can be divided into 3 groups based on their similarities. All phyla in the fungal kingdom have a name suffix `-mycota` while subphyla have a suffix `-mycotina`.
+Kingdom of [[Fungi]] has about 8 phyla ([[Phylum - Taxonomy]]). They can be divided into 3 groups based on their similarities. All phyla in the fungal kingdom have a name suffix `-mycota` while subphyla have a suffix `-mycotina`.
 
 ### Fungi that are zoosporic, single-celled, flagellated
 
@@ -20,10 +20,10 @@ Kingdom of [[Public/Fungi]] has about 8 phyla ([[Public/Phylum - Taxonomy]]). Th
 
 ###  Subkingdom Dikarya - fungi that have two nuclei per cell
 
-These are also known as the "higher funghi" and are the only fungi to produce [[Public/Mushroom]]s.
+These are also known as the "higher funghi" and are the only fungi to produce [[Mushroom]]s.
 
-- [[Public/Basidiomycota]]
-- [[Public/Ascomycota]] 
+- [[Basidiomycota]]
+- [[Ascomycota]] 
 
 -----
 

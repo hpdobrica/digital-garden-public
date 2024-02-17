@@ -4,7 +4,7 @@ notetype : feed
 date : 02-11-2021
 ---
 
-DNS Server is a server who's primary purpose is the DNS resolution. It holds a [[Public/Database]] of IP addresses and Domain Names, and is able to communicate with other DNS Servers to help with the queries it doesn't know about. They use port 53 (thus [[Route53]]) and UDP protocol to communicate.
+DNS Server is a server who's primary purpose is the DNS resolution. It holds a [[Database]] of IP addresses and Domain Names, and is able to communicate with other DNS Servers to help with the queries it doesn't know about. They use port 53 (thus [[Route53]]) and UDP protocol to communicate.
 
 A machine can be pointed to use DNS Server for name resolution by specifying it's IP address in `/etc/resolv.conf` file like so:
 

@@ -46,5 +46,5 @@ It's possible to limit what syscalls a process can make for security reasons. Fo
 Status: #💡 
 
 References:
-- [[Public/Video - A Go Programmers guide to Syscalls]]
+- [[Video - A Go Programmers guide to Syscalls]]
 - [syscall man page](https://man7.org/linux/man-pages/man2/syscall.2.html)

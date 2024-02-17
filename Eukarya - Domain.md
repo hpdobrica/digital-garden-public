@@ -4,7 +4,7 @@ notetype : feed
 date : 01-03-2023
 ---
 
-Eukarya is one of three [[Public/Domain - Taxonomy]] of life in the [[Public/Taxonomy of Living Organisms]].
+Eukarya is one of three [[Domain - Taxonomy]] of life in the [[Taxonomy of Living Organisms]].
 
 The members of this domain are called eukaryotes. They stand out from the other domains of life by the fact that their cells have a nucleus.
 

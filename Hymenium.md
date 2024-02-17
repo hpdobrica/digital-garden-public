@@ -4,9 +4,9 @@ notetype : unfeed
 date : 26-02-2023
 ---
 
-In [[Public/Mushroom]]s, tissue that produces [[Mushroom Spore]]s is called **Hymenium**. Hymenium tissue forms a structure called [[Public/Hymenophore]].
+In [[Mushroom]]s, tissue that produces [[Mushroom Spore]]s is called **Hymenium**. Hymenium tissue forms a structure called [[Hymenophore]].
 
-See [[Public/Morphology of a Mushroom]]
+See [[Morphology of a Mushroom]]
 
 
 ---

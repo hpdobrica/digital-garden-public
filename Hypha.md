@@ -5,7 +5,7 @@ date : 28-02-2023
 ---
 
 
-Hypha (plural Hyphae) are thin, long filaments forming the [[Public/Mycelium]] of [[Public/Fungi]].
+Hypha (plural Hyphae) are thin, long filaments forming the [[Mycelium]] of [[Fungi]].
 
 
 

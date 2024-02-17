@@ -13,7 +13,7 @@ CAP stands for:
 
 ## Consistency
 
-In essence, in order for [[Public/Database]] to be consistent, it must always respond to requests with either latest data, or with errors.
+In essence, in order for [[Database]] to be consistent, it must always respond to requests with either latest data, or with errors.
 
 In order for strong consistency to happen in a [[Distributed System]], the update must be applied to all nodes at the same time (This means that read replicas are not strongly consistent - special logic is needed to handle replication lag).
 
@@ -23,20 +23,20 @@ It's understood that instant, global consistency is not possible, so the goal of
 
 Availability means that every received request is responded with the expected data (non-error response except when an error is expected). 
 
-As we know from [[Public/Service Availability Target]]s, 100% availability is very hard and expensive to reach - if you have the same data stored on 5 nodes, and all 5 nodes fail at the same time, your request won't be able to be served, and you are paying a lot for these 5 nodes.
+As we know from [[Service Availability Target]]s, 100% availability is very hard and expensive to reach - if you have the same data stored on 5 nodes, and all 5 nodes fail at the same time, your request won't be able to be served, and you are paying a lot for these 5 nodes.
 
 If we have nodes which are 99.9% available, the more nodes we have, the higher the chance some of them will fail (with 40 nodes this drops to about 96% if we ignore that the failures usually arent isolated and can cascade).
 
 ## Partition Tolerance
 
-Since [[Public/Network Partition]]s are pretty much unavoidable, especially in distributed systems, Partititon Tolerance means that a distributed system is able to continue operating even though some of its components can't communicate or are unavailable.
+Since [[Network Partition]]s are pretty much unavoidable, especially in distributed systems, Partititon Tolerance means that a distributed system is able to continue operating even though some of its components can't communicate or are unavailable.
 
 
 ## The Tradeoff
 
 So, in the inevitable event of failure, we need to ask ourselves if we are going to sacrifice consistency or availability.
 
-[[Public/Yield and Harvest]] are good metrics to consider in a system which makes trade-offs like this.
+[[Yield and Harvest]] are good metrics to consider in a system which makes trade-offs like this.
 
 ### Consistency over Availability
 

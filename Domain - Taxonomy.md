@@ -4,12 +4,12 @@ notetype : feed
 date : 01-03-2023
 ---
 
-Domain is the highest rank in [[Public/Taxonomy of Living Organisms]].
+Domain is the highest rank in [[Taxonomy of Living Organisms]].
 
 Based on the three-domain-system introduced in 1990, there are three domains of life:
 - [[Bacteria - Domain]]
 - [[Archaea - Domain]]
-- [[Public/Eukarya - Domain]]
+- [[Eukarya - Domain]]
 
 -----
 

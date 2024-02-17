@@ -4,10 +4,10 @@ notetype : unfeed
 date : 02-03-2023
 ---
 
-Family is the rank in [[Public/Taxonomy of Living Organisms]], that comes after [[Public/Order - Taxonomy]] and before [[Public/Genus - Taxonomy]].
+Family is the rank in [[Taxonomy of Living Organisms]], that comes after [[Order - Taxonomy]] and before [[Genus - Taxonomy]].
 
 See:
-- [[Public/Fungi family]]
+- [[Fungi family]]
 
 -----
 

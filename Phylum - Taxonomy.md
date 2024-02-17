@@ -4,12 +4,12 @@ notetype : feed
 date : 01-03-2023
 ---
 
-Phylum is the rank in [[Public/Taxonomy of Living Organisms]], that comes after [[Public/Kingdom - Taxonomy]] and before [[Public/Class - Taxonomy]].
+Phylum is the rank in [[Taxonomy of Living Organisms]], that comes after [[Kingdom - Taxonomy]] and before [[Class - Taxonomy]].
 
 Each kingdom contains a number of phyla:
 - Animalia: ~31
 - Plantae: ~14
-- [[Public/Fungi]]: ~8 (see [[Public/Fungi phylum]])
+- [[Fungi]]: ~8 (see [[Fungi phylum]])
 
 -----
 

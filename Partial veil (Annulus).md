@@ -4,9 +4,9 @@ notetype : unfeed
 date : 26-02-2023
 ---
 
-The ring located below the [[Public/Cap (Pileus)]] and [[Public/Gills (Lamellae)]] of a [[Public/Mushroom]] is called **Annulus (partial veil)**. It's used to cover the [[Public/Hymenium]] until the fruiting body matures.
+The ring located below the [[Cap (Pileus)]] and [[Gills (Lamellae)]] of a [[Mushroom]] is called **Annulus (partial veil)**. It's used to cover the [[Hymenium]] until the fruiting body matures.
 
-See [[Public/Morphology of a Mushroom]]
+See [[Morphology of a Mushroom]]
 
 
 ---

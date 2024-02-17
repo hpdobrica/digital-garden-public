@@ -13,7 +13,7 @@ He made the division of knowledge into true-born knowledge and bastard knowledge
 
 He is one of the first philosophers to dismiss the idea of afterlife. 
 
-He wrote more books in his lifetime than all other [[Public/Pre-Socratic Philosophers]] combined.
+He wrote more books in his lifetime than all other [[Pre-Socratic Philosophers]] combined.
 
 His ideas were largely dismissed until 17th century. [[@Plato]] was against them to the point that he said that he'd prefer to see all his books burned. Finally, [[@Epicurus]] saw the potential of his teachings, but that didn't lead to their wider recognition, as Christian thought started dominating the world at the time.
 

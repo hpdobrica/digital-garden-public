@@ -10,9 +10,9 @@ There's a story where he earned a lot of money by predicting how olive market wi
 
 Famous for idea that "everything is made of water".
 
-Founder of Milesian school of [[Public/Philosophy]]. His most notable student was Anaximander ("first people survived infancy because they developed in the belly of a fish" guy)
+Founder of Milesian school of [[Philosophy]]. His most notable student was Anaximander ("first people survived infancy because they developed in the belly of a fish" guy)
 
-[[Public/Pre-Socratic Philosophers]]
+[[Pre-Socratic Philosophers]]
 
 -----
 

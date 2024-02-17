@@ -7,7 +7,7 @@ date : 18-05-2022
 This note serves as a link to connect Linux Networking related notes.
 
 Get started on the topic by checking one of these out:
-- [[Public/How to make a Linux Host act as a Router]]
+- [[How to make a Linux Host act as a Router]]
 
 Some of the useful networking commands:
 ```bash

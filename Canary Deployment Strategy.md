@@ -4,7 +4,7 @@ notetype : feed
 date : 16-08-2022
 ---
 
-Canary is a [[Public/Deployment Strategy]] where we gradually shift traffic from version `A` to version `B`. This is usually done via weighted load balancing (e.g., 90% traffic to `A`, 10% traffic to `B`).
+Canary is a [[Deployment Strategy]] where we gradually shift traffic from version `A` to version `B`. This is usually done via weighted load balancing (e.g., 90% traffic to `A`, 10% traffic to `B`).
 
 
 

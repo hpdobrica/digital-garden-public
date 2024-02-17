@@ -4,7 +4,7 @@ notetype: feed
 date: 05-12-2023
 ---
 
-[[Public/K8S Secret]]s can't be accessed across different environments. If you want to use an existing secret in another environment, you'll have to copy it there. To copy a secret from one namespace to another, you can use this simple script:
+[[K8S Secret]]s can't be accessed across different environments. If you want to use an existing secret in another environment, you'll have to copy it there. To copy a secret from one namespace to another, you can use this simple script:
 
 {% raw %}
 ```bash

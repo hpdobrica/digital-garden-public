@@ -4,10 +4,10 @@ notetype : feed
 date : 21-01-2022
 ---
 
-Work performed by [[Public/SRE]] teams can be divided into a few types:
+Work performed by [[SRE]] teams can be divided into a few types:
 - Engineering work
 - Overhead
-- [[Public/Toil]]
+- [[Toil]]
 
 
 ### Engineering work
@@ -22,7 +22,7 @@ Any administrative tasks (meetings, OKRs, paperwork) that have to be performed, 
 
 ### Toil
 
-See [[Public/Toil]].
+See [[Toil]].
 
 ---
 

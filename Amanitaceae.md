@@ -4,10 +4,10 @@ notetype : feed
 date : 02-03-2023
 ---
 
-Amanitaceae is the name of [[Public/Fungi family]] belonging to [[Public/Agaricales]] [[Public/Fungi order]].
+Amanitaceae is the name of [[Fungi family]] belonging to [[Agaricales]] [[Fungi order]].
 
-It holds the following [[Public/Genus - Taxonomy]]:
-- [[Public/Amanita]]
+It holds the following [[Genus - Taxonomy]]:
+- [[Amanita]]
 
 -----
 

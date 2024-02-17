@@ -4,9 +4,9 @@ notetype : feed
 date : 24-12-2021
 ---
 
-Node Affinity is a feature which ensures that [[Public/K8S Pod]] end up running on specific [[Public/K8S Node]]. We are already able to do this with [[Public/K8S Node Selectors]], but with big limitations.
+Node Affinity is a feature which ensures that [[K8S Pod]] end up running on specific [[K8S Node]]. We are already able to do this with [[K8S Node Selectors]], but with big limitations.
 
-See also [[Public/K8S Anti-affinity]] if you need to set affinity based on running pods and their labels instead.
+See also [[K8S Anti-affinity]] if you need to set affinity based on running pods and their labels instead.
 
 If we take the node selector example of making a pod run on a specific node like this:
 

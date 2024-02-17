@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-Whenever a container is created, [[Public/Docker]] creates a [[01 Inbox/Network Namespaces]] for it. 
+Whenever a container is created, [[Docker]] creates a [[01 Inbox/Network Namespaces]] for it. 
 
 You wont be able to see it when running `ip netns` because [Docker doesn't create a symlink for it](https://stackoverflow.com/questions/31265993/docker-networking-namespace-not-visible-in-ip-netns-list). Let's assume you created the symlink as described in the link.
 
@@ -49,7 +49,7 @@ ip -n somenamespaceid link
 
 The two interfaces can be identified as paired by the same virtual cable bacause they have sequential odd-even `if` numbers in their names (`@if17` is pair with `@if18`, `@if1` is pair with `@if2`).
 
-In case you requested a port mapping while running a container, Docker executes some aditional steps to enable this, as described in [[Public/Docker Port Mapping]].
+In case you requested a port mapping while running a container, Docker executes some aditional steps to enable this, as described in [[Docker Port Mapping]].
 
 -----
 

@@ -12,7 +12,7 @@ POC: [github.com/hpdobrica/go-playground/strace](https://github.com/hpdobrica/go
 
 ------
 
-- [[Public/Syscall]] is a way for a program running in userspace to request sevices from the kernel of [[Linux]] OS
+- [[Syscall]] is a way for a program running in userspace to request sevices from the kernel of [[Linux]] OS
 - program can't touch these without kernel/syscalls:
 	- files
 	- devices

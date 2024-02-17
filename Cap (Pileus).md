@@ -4,9 +4,9 @@ notetype : unfeed
 date : 26-02-2023
 ---
 
-Top part of a [[Public/Mushroom]].
+Top part of a [[Mushroom]].
 
-See [[Public/Morphology of a Mushroom]].
+See [[Morphology of a Mushroom]].
 
 
 ---

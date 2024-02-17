@@ -4,7 +4,7 @@ notetype : feed
 date : 13-02-2023
 ---
 
-Habit Stacking is a strategy which is an expansion of the idea covered in [[Public/Implementation Intentions]], that relies on the fact that habits can be cues to other habits.
+Habit Stacking is a strategy which is an expansion of the idea covered in [[Implementation Intentions]], that relies on the fact that habits can be cues to other habits.
 
 Once we perform a habit, we can perform another one just after it, and use the momentum we gained from performing the first habit to make all the others much easier to do. 
 
@@ -32,4 +32,4 @@ Status: #💡
 References:
 - [[Private/Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
 
-Part of [[Public/Make it obvious - First law of behavior change]] 
+Part of [[Make it obvious - First law of behavior change]] 

@@ -4,7 +4,7 @@ notetype : feed
 date : 20-11-2021
 ---
 
-Linear interpolation (commonly refered to as **lerp**) is a useful function in the fields of [[Public/Game Development]] and [[Creative Coding]]. It's used to get a number on a specific point between two numbers. 
+Linear interpolation (commonly refered to as **lerp**) is a useful function in the fields of [[Game Development]] and [[Creative Coding]]. It's used to get a number on a specific point between two numbers. 
 
 The parameters are the `start` and `end` of the desired range, as well as `t` which represents a number between 0 and 1. Setting `t=0` would give you the start value you provided, setting `t=1` would give the end value you provided, while setting it `t=0.5` would give the value exactly in between the `start` and `end`.
 

@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-CoreDNS is one of many [[Public/DNS Server]] solutions, which is particuarily interesting because it's used for [[Public/DNS Resolution in Kubernetes]]. Most of its functionality is implemented through plugins, so it's very flexible and extensible by nature.
+CoreDNS is one of many [[DNS Server]] solutions, which is particuarily interesting because it's used for [[DNS Resolution in Kubernetes]]. Most of its functionality is implemented through plugins, so it's very flexible and extensible by nature.
 
 Let's see how we can configure a host to be a DNS Server.
 

@@ -28,7 +28,7 @@ mode(x) // 1
 ```
 
 
-Also see [[Public/Median]] and [[Public/Mean]].
+Also see [[Median]] and [[Mean]].
 
 -----
 

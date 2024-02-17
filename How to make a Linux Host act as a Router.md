@@ -22,7 +22,7 @@ ip route add 192.168.1.0/24 via 192.168.2.6
 
 ```
 
-Doing this is just half of the solution though. The problem now is that even though two networks are connected via host `B`, host `B` won't forward packets between it's `eth0` and `eth1` by default. is a security consideration in [[Public/Linux Networking]], because allowing packet forwarding from one interface to another can accidentally expose your private network to the public.
+Doing this is just half of the solution though. The problem now is that even though two networks are connected via host `B`, host `B` won't forward packets between it's `eth0` and `eth1` by default. is a security consideration in [[Linux Networking]], because allowing packet forwarding from one interface to another can accidentally expose your private network to the public.
 
 In order to allow packet forwarding like this, you need to manually enable it. Whether a host can forward packets between interfaces is governed by the file `/proc/sys/net/ipv4/ip_forward`:
 
@@ -31,7 +31,7 @@ cat /proc/sys/net/ipv4/ip_forward
 #> 0
 ```
 
-Having `0` in there means forwarding is not enabled. you can enable it by simply doing `echo 1 > /proc/sys/net/ipv4/ip_forward`. From this point on, host `A` will be able to ping host `C` by using host `B` as a [[Public/Network Router]].
+Having `0` in there means forwarding is not enabled. you can enable it by simply doing `echo 1 > /proc/sys/net/ipv4/ip_forward`. From this point on, host `A` will be able to ping host `C` by using host `B` as a [[Network Router]].
 
 Last thing to note is that the change above won't persist across restarts. In order to persist it, you need to set the value `net.ipv4.ip_forward` in `/etc/sysctl.conf` to `1`.
 

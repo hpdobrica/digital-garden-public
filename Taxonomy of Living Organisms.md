@@ -6,14 +6,14 @@ date : 01-03-2023
 
 In Biology, Taxonomy is the study of naming and classifying living organisms based on shared characteristics. Organisms are grouped into ranks called taxa (singular taxon), each with increasing specificity:
 
-- [[Public/Domain - Taxonomy]]
-- [[Public/Kingdom - Taxonomy]]
-- [[Public/Phylum - Taxonomy]]
-- [[Public/Class - Taxonomy]]
-- [[Public/Order - Taxonomy]]
-- [[Public/Family - Taxonomy]]
-- [[Public/Genus - Taxonomy]]
-- [[Public/Species - Taxonomy]]
+- [[Domain - Taxonomy]]
+- [[Kingdom - Taxonomy]]
+- [[Phylum - Taxonomy]]
+- [[Class - Taxonomy]]
+- [[Order - Taxonomy]]
+- [[Family - Taxonomy]]
+- [[Genus - Taxonomy]]
+- [[Species - Taxonomy]]
 
 
 -----

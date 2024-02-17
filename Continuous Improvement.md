@@ -30,7 +30,7 @@ It states that if you change your course by just 1 degree, for every 60 miles (~
 
 1 degree difference == 145 kilometers difference, let that sink in.
 
-The same idea is behind how small changes make a big impact on our big goals. A small positive [[Public/Habit]] that brings you closer to your goals, will compound over a large amount of time to bring astonishing results.
+The same idea is behind how small changes make a big impact on our big goals. A small positive [[Habit]] that brings you closer to your goals, will compound over a large amount of time to bring astonishing results.
 
 ## Laziness
 

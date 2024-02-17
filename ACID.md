@@ -4,7 +4,7 @@ notetype : feed
 date : 10-08-2022
 ---
 
-ACID is a set of properties of [[Public/Database]] systems that talks about how a database transaction should behave in order for it to be considered reliable. It stands for:
+ACID is a set of properties of [[Database]] systems that talks about how a database transaction should behave in order for it to be considered reliable. It stands for:
 
 - `A`tomicity
 - `C`onsistency
@@ -30,7 +30,7 @@ Consistency just says that when we write into a database, any constraints we hav
 
 Isolation states that if we have two concurrently-running transactions, database guarantees us that neither of them will be influenced by one another - they will both be executed in total isolation.
 
-Any concurrent transactions touching the same data must be resolved in a sequential-like manner. If this is not possible, databases resolve this either through [[Public/Optimistic Locking]] or [[Public/Pessimistic Locking]].
+Any concurrent transactions touching the same data must be resolved in a sequential-like manner. If this is not possible, databases resolve this either through [[Optimistic Locking]] or [[Pessimistic Locking]].
 
 ## Durability
 

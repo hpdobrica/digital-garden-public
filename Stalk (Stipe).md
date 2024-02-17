@@ -4,9 +4,9 @@ notetype : unfeed
 date : 26-02-2023
 ---
 
-Stalk (Stipe) is the long part of the mushroom, on top of which sits the [[Public/Cap (Pileus)]].
+Stalk (Stipe) is the long part of the mushroom, on top of which sits the [[Cap (Pileus)]].
 
-See [[Public/Morphology of a Mushroom]]
+See [[Morphology of a Mushroom]]
 
 
 ---

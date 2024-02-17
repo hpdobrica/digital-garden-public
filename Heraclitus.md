@@ -18,7 +18,7 @@ He wasn't really popular amongst philosophers, Plato and Aristotle completely wr
 
 He spent a fair share of his life playing dice for money. There is a story that he died covered in manure while trying to cure edema on his own, as he was intelectually superior to medical doctors.
 
-[[Public/Pre-Socratic Philosophers]]
+[[Pre-Socratic Philosophers]]
 
 -----
 

@@ -5,9 +5,9 @@ date : 03-11-2021
 ---
 
 Kubernetes is a container orchestration platform. This note serves as a Map of Content for this topic. Start your exploration on one of these notes:
-- [[Public/K8S Node]]
-- [[Public/K8S Object]]
-- [[Public/What happens when you create a Pod in Kubernetes]]
+- [[K8S Node]]
+- [[K8S Object]]
+- [[What happens when you create a Pod in Kubernetes]]
 
 
 

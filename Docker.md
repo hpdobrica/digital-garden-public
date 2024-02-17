@@ -8,7 +8,7 @@ Docker is a [[Container Engine]] that helps people easily develop and ship their
 
 This note serves as a link to connect Docker-related notes.
 
-- [[Public/Docker Networking]]
+- [[Docker Networking]]
 
 -----
 

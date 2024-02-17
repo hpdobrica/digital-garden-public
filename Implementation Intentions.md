@@ -4,7 +4,7 @@ notetype : feed
 date : 13-02-2023
 ---
 
-Implementation Intention is a strategy that can be used in forming [[Public/Habit]]s, and talks about having a concrete plan on how you will implement a certain habit into your life. 
+Implementation Intention is a strategy that can be used in forming [[Habit]]s, and talks about having a concrete plan on how you will implement a certain habit into your life. 
 
 Our habits always start with a cue, and the idea behind implementation intentions is to leverage common cues like time and location, in order to trigger some desired habits. Implementation intention is an agreement we write with ourselves, which we then try to follow.
 
@@ -35,9 +35,9 @@ I will do 10 minutes of yoga next to my desk when i close my laptop lid at the b
 
 There, we removed all doubts and questions from our Implementation intention - next time you close that laptop lid, you'll know exactly what to do.
 
-We can tie in the idea of [[Public/Designing Environments for Habits]] and place the mat right next to our working desk, because we want to lower that friction as much as possible.
+We can tie in the idea of [[Designing Environments for Habits]] and place the mat right next to our working desk, because we want to lower that friction as much as possible.
 
-Once you do a habit, you might realize that the end of a habit might be a pretty good cue for starting a new habit, which is covered in more detail in [[Public/Habit Stacking]].
+Once you do a habit, you might realize that the end of a habit might be a pretty good cue for starting a new habit, which is covered in more detail in [[Habit Stacking]].
 
 -----
 
@@ -46,4 +46,4 @@ Status: #💡
 References:
 - [[Private/Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
 
-Part of [[Public/Make it obvious - First law of behavior change]]
+Part of [[Make it obvious - First law of behavior change]]

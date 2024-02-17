@@ -18,7 +18,7 @@ Since it's very critical whether that second happened during peak time or when n
 
 ## Harvest
 
-Harvest is a metric which shows which portion of the total requested data available was served with a request. It's a very significant metric when considering consistency/availability tradeoff in [[Public/CAP Theorem]].
+Harvest is a metric which shows which portion of the total requested data available was served with a request. It's a very significant metric when considering consistency/availability tradeoff in [[CAP Theorem]].
 
 If we have 3 nodes, each holding 3 pieces of requested data, and one of the nodes was unavailable during request time - we could only respond with two pieces of data, so the harvest for this request would be 66%.
 

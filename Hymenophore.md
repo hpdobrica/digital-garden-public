@@ -4,12 +4,12 @@ notetype : unfeed
 date : 26-02-2023
 ---
 
-In [[Public/Mushroom]]s, Hymenophore is a spore-bearing structure, and its tissue is called [[Public/Hymenium]].
+In [[Mushroom]]s, Hymenophore is a spore-bearing structure, and its tissue is called [[Hymenium]].
 
-Hymenophores can come in many shapes like smooth surfaces, [[Public/Gills (Lamellae)]], tubes...
+Hymenophores can come in many shapes like smooth surfaces, [[Gills (Lamellae)]], tubes...
 
 
-See [[Public/Morphology of a Mushroom]]
+See [[Morphology of a Mushroom]]
 
 
 ---

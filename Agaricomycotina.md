@@ -4,9 +4,9 @@ notetype : feed
 date : 12-03-2023
 ---
 
-Agaricomycotina is a subphylum of [[Public/Basidiomycota]] which holds over 30000 species over 4 classes:
+Agaricomycotina is a subphylum of [[Basidiomycota]] which holds over 30000 species over 4 classes:
 
-- [[Public/Agaricomycetes]]
+- [[Agaricomycetes]]
 - Bartheletiomycetes
 - Dacrymycetes
 - Tremellomycetes

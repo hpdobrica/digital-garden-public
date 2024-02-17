@@ -5,11 +5,11 @@ date : 26-02-2023
 ---
 
 
-A structure made of papery ribbons below the [[Public/Cap (Pileus)]] of a [[Public/Mushroom]].
+A structure made of papery ribbons below the [[Cap (Pileus)]] of a [[Mushroom]].
 
-In some mushrooms, gills are [[Public/Hymenium]].
+In some mushrooms, gills are [[Hymenium]].
 
-See [[Public/Morphology of a Mushroom]].
+See [[Morphology of a Mushroom]].
 
 
 ---

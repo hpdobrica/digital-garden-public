@@ -18,7 +18,7 @@ availability = successfull requests / total requests
 
 It's also good to take other aspects of the system into consideration together with success rate. For example, instead of just looking at successful requests, you could look into successful requests that completed in less than two seconds. 
 
-Measuring service availability is one of the most common [[Public/SLI]]s.
+Measuring service availability is one of the most common [[SLI]]s.
 
 
 -----
