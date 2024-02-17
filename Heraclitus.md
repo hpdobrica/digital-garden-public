@@ -10,7 +10,7 @@ Grumpy guy going around the street insulting everyone. Due to his behavior, he d
 His teachings talk about a universal cosmic law which governs everything. Some of his main ideas are
 - opposites (like day and night) are one same thing, just on opposite ends of the spectrum
 - Universe is kept in a state of unity by its battling opposites
-- One of the opposites always gives the other it's significance - you can't appreciate heat until you've felt cold (You can't have nice things without [[Private/Suffering]])
+- One of the opposites always gives the other it's significance - you can't appreciate heat until you've felt cold (You can't have nice things without [[Suffering]])
 - [[Everything is in permanent state of flux]]
 - since everything is changing, you can never precisely define what something is (standing in the same river twice)
 

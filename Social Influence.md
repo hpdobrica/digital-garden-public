@@ -36,7 +36,7 @@ One of the best things you can do to implement a behavior is join a community wh
 Status: #💡 
 
 References:
-- [[Private/Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
+- [[Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
 - [The spread of obesity in a large social network over 32 years](https://pubmed.ncbi.nlm.nih.gov/17652652/)
 - [Solomon Asch - Conformity Experiment](https://www.simplypsychology.org/asch-conformity.html)
 

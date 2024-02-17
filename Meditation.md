@@ -21,4 +21,4 @@ Meditation has helped shape my life for the better, and I haven't even properly 
 Status: #💡 
 
 References:
-- [[Private/Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))
+- [[Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))

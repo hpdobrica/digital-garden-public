@@ -23,4 +23,4 @@ It's critical to note that Saturation almost always falls under [[Cause Based Mo
 Status: #💡 
 
 References:
-- [[Private/Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
+- [[Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))

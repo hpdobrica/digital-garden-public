@@ -16,4 +16,4 @@ Based on this, we can see that Prometheus is a pull-based system, as the service
 Status: #🌱 
 
 References:
-- [[Private/Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))
+- [[Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))

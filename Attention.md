@@ -15,4 +15,4 @@ Together with [[Peripheral Awareness]], Attention works to form the [[Model of C
 Status: #💡 
 
 References:
-- [[Private/Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))
+- [[Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))

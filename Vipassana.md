@@ -13,7 +13,7 @@ Vipassanas are not intelectual, but deeply intuitive in nature
 Five most important Vipassanas are insights into:
 - impermanence
 - emptiness
-- nature of [[Private/Suffering]]
+- nature of [[Suffering]]
 - interdependence
 - illusion of separate self
 
@@ -22,4 +22,4 @@ Five most important Vipassanas are insights into:
 Status: #💡 
 
 References:
-- [[Private/Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))
+- [[Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))

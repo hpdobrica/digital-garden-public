@@ -142,6 +142,6 @@ In a similar example, if `Legs` are instead a method (and not a property) which 
 Status: #💡 
 
 References:
-- [[Private/Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK))
-- [[Private/Blog - Golang SOLID - Open Closed Principle]] ([Source](https://levelup.gitconnected.com/practical-solid-in-golang-open-closed-principle-1dd361565452))
+- [[Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK))
+- [[Blog - Golang SOLID - Open Closed Principle]] ([Source](https://levelup.gitconnected.com/practical-solid-in-golang-open-closed-principle-1dd361565452))
 - [Dave Cheney - SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)

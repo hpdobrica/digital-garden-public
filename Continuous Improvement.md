@@ -54,5 +54,5 @@ If we instead realize that how hard our goal is doesn't really matter that much 
 Status: #💡 
 
 References:
-- [[Private/Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
+- [[Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
 - [The 1 in 60 Rule](https://www.inc.com/jeff-haden/the-1-in-60-rule-how-remarkably-successful-people-stay-on-track-to-accomplish-their-biggest-goals.html)

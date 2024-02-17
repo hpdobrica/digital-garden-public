@@ -35,4 +35,4 @@ Many philosophers that came after him agreed with him on many things, but couldn
 Status: #💡 
 
 References:
-- [[Private/Podcast - Philozophize This 002]]
+- [[Podcast - Philozophize This 002]]

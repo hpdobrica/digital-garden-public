@@ -31,6 +31,6 @@ By naming our things properly, we ensure that we are sticking to the intended pu
 Status: #💡 
 
 References:
-- [[Private/Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK
+- [[Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK
 - [Dave Cheney - SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 

@@ -31,6 +31,6 @@ Habits form because they are easy, canned responses to specific situations. Next
 Status: #💡 
 
 References:
-- [[Private/Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
+- [[Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
 
 Part of [[Make it obvious - First law of behavior change]]

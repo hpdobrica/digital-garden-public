@@ -33,4 +33,4 @@ An exporter is a piece of software running next to the application you want to i
 Status: #🌱 
 
 References:
-- [[Private/Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))
+- [[Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))

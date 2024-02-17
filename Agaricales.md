@@ -17,6 +17,6 @@ Status: #🌱
 
 References:
 - [Wikipedia - Agaricales](https://en.wikipedia.org/wiki/Agaricales)
-- [[Private/Video - Professor Dave Explains - Mycology]]
+- [[Video - Professor Dave Explains - Mycology]]
 - 
 

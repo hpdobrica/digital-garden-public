@@ -22,4 +22,4 @@ The inverse first law talks about breaking bad habits and is titled "Make it Inv
 Status: #💡 
 
 References:
-- [[Private/Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
+- [[Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))

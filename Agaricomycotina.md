@@ -19,5 +19,5 @@ Agaricomycotina is a subphylum of [[Basidiomycota]] which holds over 30000 speci
 Status: #🌱 
 
 References:
-- [[Private/Video - Professor Dave Explains - Mycology]]
+- [[Video - Professor Dave Explains - Mycology]]
 - [Wikipedia](https://en.m.wikipedia.org/wiki/Agaricomycotina)

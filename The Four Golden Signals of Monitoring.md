@@ -16,4 +16,4 @@ The four golden signals of [[Monitoring]] are:
 Status: #🌲 
 
 References:
--  [[Private/Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
+-  [[Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))

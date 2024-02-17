@@ -18,4 +18,4 @@ Error rates can look at requests that failed:
 Status: #🌱 
 
 References:
-- [[Private/Book - Why Buddhism Is True]]
+- [[Book - Why Buddhism Is True]]

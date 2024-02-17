@@ -15,5 +15,5 @@ For [[Alerting]], Black Box Monitoring has a key benefit of being able to warn u
 Status: #💡 
 
 References:
-- [[Private/Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
+- [[Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
 - [[Video - Practices for Creating Effective Customer SLOs]] ([Source](https://www.infoq.com/presentations/slo-pitfalls-2019/))

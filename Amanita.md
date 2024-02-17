@@ -18,4 +18,4 @@ Some [[Species - Taxonomy]] in this genus are:
 Status: #🌱 
 
 References:
-- [[Private/Video - Professor Dave Explains - Mycology]]
+- [[Video - Professor Dave Explains - Mycology]]
