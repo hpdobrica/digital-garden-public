@@ -4,7 +4,7 @@ notetype : feed
 date : 28-06-2022
 ---
 
-Logging is a form of [[Monitoring]] which looks at a limited set of events (e.g. all http requests, all db queries) and records part of their contexts
+Logging is a form of [[Public/Monitoring]] which looks at a limited set of events (e.g. all http requests, all db queries) and records part of their contexts
 
 Logging sacrifices the amount of context provided for each event, but avoids sampling, so it's a perfect tool to investigate a particular request that went wrong.
 
@@ -39,7 +39,7 @@ Application logs can be kept for some time to aid debugging, but are generally s
 
 #### Debug Logs
 
-These are very detailed logs produced by the application on demand, which are expensive to store. Debug logs are threading the line between logging and [[Profiling]], and should be only enabled in specific debugging situations.
+These are very detailed logs produced by the application on demand, which are expensive to store. Debug logs are threading the line between logging and [[Public/Profiling]], and should be only enabled in specific debugging situations.
 
 Ideally, we should have a "switch" to turn them on or off on demand.
 

@@ -4,7 +4,7 @@ notetype : feed
 date : 18-01-2022
 ---
 
-To get the value of a [[K8S Secret]], all you need to know is the secret name and the name of the key that you want to read.
+To get the value of a [[Public/K8S Secret]], all you need to know is the secret name and the name of the key that you want to read.
 
 What I would normally do before is:
 - `kubectl get secret mysecret -o yaml`

@@ -4,7 +4,7 @@ notetype : feed
 date : 09-08-2022
 ---
 
-Open/Closed Principle (OCP) is the second of [[SOLID Principles]] which states:
+Open/Closed Principle (OCP) is the second of [[Public/SOLID Principles]] which states:
 
 "**Software entities should be open for extension, but closed for modification**"
 
@@ -142,6 +142,6 @@ In a similar example, if `Legs` are instead a method (and not a property) which 
 Status: #💡 
 
 References:
-- [[Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK))
-- [[Blog - Golang SOLID - Open Closed Principle]] ([Source](https://levelup.gitconnected.com/practical-solid-in-golang-open-closed-principle-1dd361565452))
+- [[Private/Video - SOLID Go Design]] ([Source](https://www.youtube.com/watch?v=zzAdEt3xZ1M&ab_channel=GopherConUK))
+- [[Private/Blog - Golang SOLID - Open Closed Principle]] ([Source](https://levelup.gitconnected.com/practical-solid-in-golang-open-closed-principle-1dd361565452))
 - [Dave Cheney - SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)

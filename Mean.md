@@ -16,7 +16,7 @@ mean(x) // 3
 
 ```
 
-Also see [[Median]] and [[Mode]].
+Also see [[Public/Median]] and [[Public/Mode]].
 
 -----
 

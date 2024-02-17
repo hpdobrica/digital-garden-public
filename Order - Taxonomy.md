@@ -4,10 +4,10 @@ notetype : unfeed
 date : 02-03-2023
 ---
 
-Order is the rank in [[Taxonomy of Living Organisms]], that comes after [[Class - Taxonomy]] and before [[Family - Taxonomy]].
+Order is the rank in [[Public/Taxonomy of Living Organisms]], that comes after [[Public/Class - Taxonomy]] and before [[Public/Family - Taxonomy]].
 
 See:
-- [[Fungi order]]
+- [[Public/Fungi order]]
 
 -----
 

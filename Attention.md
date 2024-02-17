@@ -4,15 +4,15 @@ notetype : feed
 date : 05-04-2022
 ---
 
-Whenever Attention is focused on some object, that object dominates our [[Consciousness]].
+Whenever Attention is focused on some object, that object dominates our [[Public/Consciousness]].
 
-Attention singles out a small part of the field of [[Consciousness]], and deeply analyzes and interprets it.
+Attention singles out a small part of the field of [[Public/Consciousness]], and deeply analyzes and interprets it.
 
-Together with [[Peripheral Awareness]], Attention works to form the [[Model of Conscious Experience]].
+Together with [[Public/Peripheral Awareness]], Attention works to form the [[Public/Model of Conscious Experience]].
 
 -----
 
 Status: #💡 
 
 References:
-- [[Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))
+- [[Private/Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))

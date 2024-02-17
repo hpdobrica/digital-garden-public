@@ -4,7 +4,7 @@ notetype : feed
 date : 16-08-2022
 ---
 
-Recreate [[Deployment Strategy]] is a very simple strategy to set up. Here is how it works:
+Recreate [[Public/Deployment Strategy]] is a very simple strategy to set up. Here is how it works:
 - you first terminate version `A`
 - once that is done, you roll out version `B`
 

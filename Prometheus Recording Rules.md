@@ -13,4 +13,4 @@ This is especially useful for dashboards, as they re-compute all the queries eve
 Status: #🌱 
 
 References:
-- [[Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))
+- [[Private/Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))

@@ -10,13 +10,13 @@ This is a quick walkthrough of how I manage and publish my notes.
 
 The goal of this whole project is for me to have a good way to manage my knowledge base and easily publish some subset of it.
 
-The notes should be stored in markdown format in [[Git]], and published by Github Pages. It's important that I can easily publish or unpublish notes from the website as needed.
+The notes should be stored in markdown format in [[Public/Git]], and published by Github Pages. It's important that I can easily publish or unpublish notes from the website as needed.
 
-Note taking itself is inspired by [[Evergreen Notes]] method. 
+Note taking itself is inspired by [[01 Inbox/Evergreen Notes]] method. 
 
 ## Implementation
 
-The setup consists of three github repositories which are interconnected by [[Git Submodules]]:
+The setup consists of three github repositories which are interconnected by [[01 Inbox/Git Submodules]]:
 - `Main` repository
 - `Public` repository - https://github.com/hpdobrica/digital-garden-public
 - `Website` repository - https://github.com/hpdobrica/hpdobrica.github.io

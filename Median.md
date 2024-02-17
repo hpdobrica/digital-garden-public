@@ -18,9 +18,9 @@ median(x) // 3
 
 ```
 
-Median ~= 50th [[Percentile]]
+Median ~= 50th [[Public/Percentile]]
 
-Also see [[Mean]] and [[Mode]].
+Also see [[Public/Mean]] and [[Public/Mode]].
 
 -----
 

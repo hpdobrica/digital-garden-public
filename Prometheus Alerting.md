@@ -4,7 +4,7 @@ notetype : feed
 date : 28-06-2022
 ---
 
-Prometheus can create alert based on Alerting Rules. Alerting rules are another form of [[Prometheus Recording Rules]], which turn the results of the PromQL expressions into alerts that are sent to Alertmanager.
+Prometheus can create alert based on Alerting Rules. Alerting rules are another form of [[Public/Prometheus Recording Rules]], which turn the results of the PromQL expressions into alerts that are sent to Alertmanager.
 
 Alertmanager receives alerts from Prometheus and turns them into notifications (slack, email, pagerduty...) - note that **alerts are configured in prometheus, not in alertmanager**!
 
@@ -16,4 +16,4 @@ Alertmanager can aggregate related alerts, throttle alerts to reduce pager storm
 Status: #🌱  
 
 References:
-- [[Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))
+- [[Private/Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))

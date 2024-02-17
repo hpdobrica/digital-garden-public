@@ -4,7 +4,7 @@ notetype : feed
 date : 07-11-2021
 ---
 
-To see a list of available [[Kubernetes]] objects on your cluster, you can run:
+To see a list of available [[Public/Kubernetes]] objects on your cluster, you can run:
 
 ```bash
 
@@ -20,10 +20,10 @@ kubectl api-resources --namespaced=false
 ```
 
 Links to some of the objects:
-- [[K8S Pod]]
-- [[K8S Secret]]
-- [[K8S Replicaset]]
-- [[K8S Service Account]]
+- [[Public/K8S Pod]]
+- [[Public/K8S Secret]]
+- [[Public/K8S Replicaset]]
+- [[Public/K8S Service Account]]
 
 -----
 

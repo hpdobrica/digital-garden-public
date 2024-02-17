@@ -4,11 +4,11 @@ notetype : feed
 date : 28-06-2022
 ---
 
-Depending on which software you are trying to expose [[Prometheus]] metrics for, there are three options to achieve this.
+Depending on which software you are trying to expose [[Public/Prometheus]] metrics for, there are three options to achieve this.
 
 ### Pre-instrumented software
 
-Many applications are already exposing metrics in Prometheus format. In case you are monitoring an application like this, you can just start using already existing metrics. Some examples are [[Docker]] and [[Kubernetes]].
+Many applications are already exposing metrics in Prometheus format. In case you are monitoring an application like this, you can just start using already existing metrics. Some examples are [[Public/Docker]] and [[Public/Kubernetes]].
 
 ### Client libraries
 
@@ -33,4 +33,4 @@ An exporter is a piece of software running next to the application you want to i
 Status: #🌱 
 
 References:
-- [[Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))
+- [[Private/Book - Prometheus Up And Running]] ([Source](https://www.oreilly.com/library/view/prometheus-up/9781492034131/))

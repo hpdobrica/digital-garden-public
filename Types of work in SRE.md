@@ -4,10 +4,10 @@ notetype : feed
 date : 21-01-2022
 ---
 
-Work performed by [[SRE]] teams can be divided into a few types:
+Work performed by [[Public/SRE]] teams can be divided into a few types:
 - Engineering work
 - Overhead
-- [[Toil]]
+- [[Public/Toil]]
 
 
 ### Engineering work
@@ -22,7 +22,7 @@ Any administrative tasks (meetings, OKRs, paperwork) that have to be performed, 
 
 ### Toil
 
-See [[Toil]].
+See [[Public/Toil]].
 
 ---
 
@@ -34,4 +34,4 @@ At Google they have a rule that every SRE should try to spend at least 50% time 
 Status: #💡 
 
 References:
-- [[Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
+- [[Private/Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))

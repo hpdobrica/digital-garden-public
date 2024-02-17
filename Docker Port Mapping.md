@@ -4,7 +4,7 @@ notetype : feed
 date : 07-11-2021
 ---
 
-[[Docker]] provides us a way to map ports of a container to ports of the host (`docker run -p 9000:80 nginx`) . This will make sure that any traffic that reaches host on the port 8080, will be forwarded to our container on port 80.
+[[Public/Docker]] provides us a way to map ports of a container to ports of the host (`docker run -p 9000:80 nginx`) . This will make sure that any traffic that reaches host on the port 8080, will be forwarded to our container on port 80.
 
 Docker accomplishes this with iptables, by setting a rule like this:
 

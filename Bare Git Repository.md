@@ -4,7 +4,7 @@ notetype : feed
 date : 18-12-2021
 ---
 
-A bare [[Git]] repository is a repository without a working tree. If you create a bare repository, you'll get just the contents that you'd normally find within `.git` directory.
+A bare [[Public/Git]] repository is a repository without a working tree. If you create a bare repository, you'll get just the contents that you'd normally find within `.git` directory.
 
 Since it doesn't have a working tree, the bare repository does not hold your files directly as you'd expect from a normal repository. If you add a file like `main.go` to a non-bare repo, the file will exist within the repository itself and will be visible to you like you'd expect.
 

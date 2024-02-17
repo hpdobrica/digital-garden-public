@@ -4,16 +4,16 @@ notetype : feed
 date : 17-05-2022
 ---
 
- Insights gained through [[Meditation]] practice is one of the main things which leads to [[Awakening]].  Insight into the true nature of reality that radically transforms our understanding of ourselves and our relationship to the world is called Vipassana.
+ Insights gained through [[Public/Meditation]] practice is one of the main things which leads to [[Awakening]].  Insight into the true nature of reality that radically transforms our understanding of ourselves and our relationship to the world is called Vipassana.
 
-In addition to vipassana, meditation also produces many other useful [[Mundane Insights]].
+In addition to vipassana, meditation also produces many other useful [[Public/Mundane Insights]].
 
 Vipassanas are not intelectual, but deeply intuitive in nature
 
 Five most important Vipassanas are insights into:
 - impermanence
 - emptiness
-- nature of [[Suffering]]
+- nature of [[Private/Suffering]]
 - interdependence
 - illusion of separate self
 
@@ -22,4 +22,4 @@ Five most important Vipassanas are insights into:
 Status: #💡 
 
 References:
-- [[Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))
+- [[Private/Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))

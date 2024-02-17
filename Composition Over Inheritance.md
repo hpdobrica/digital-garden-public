@@ -5,7 +5,7 @@ date : 28-11-2021
 ---
 
 
-Composition is a method of writing [[OOP]] code. It attempts to solve the same [[Software Design]] problem as [[Inheritance]], but instead of relying on inheriting features from the parent class, composition focuses on embedding objects inside of objects to allow the sharing of functionality.
+Composition is a method of writing [[OOP]] code. It attempts to solve the same [[Public/Software Design]] problem as [[Inheritance]], but instead of relying on inheriting features from the parent class, composition focuses on embedding objects inside of objects to allow the sharing of functionality.
 
 While designing with Inheritance in mind, we are constantly trying to answer the question `what objects are?`. Composition on the other hand focuses on a different question - `What objects do?`. 
 

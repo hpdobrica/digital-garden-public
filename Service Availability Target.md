@@ -31,5 +31,5 @@ The table below represents availability targets, together with how much downtime
 
 Status: #🌲 
 References:
-- [[Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
+- [[Private/Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
 - [Availability Table](https://sre.google/sre-book/availability-table/)

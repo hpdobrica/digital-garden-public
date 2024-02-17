@@ -13,11 +13,11 @@ I needed a solution which would address the following topics:
 
 In short, I should be able to use one machine for days, make config changes on it, and then when i move to another machine, all of my config changes should be applied to the other machine as well.
 
-To accomplish this, I found a pretty nice solution using a [[Bare Git Repository]].
+To accomplish this, I found a pretty nice solution using a [[Public/Bare Git Repository]].
 
 ## Initial setup
 
-Lets create a new [[Git]] repo to store our config:
+Lets create a new [[Public/Git]] repo to store our config:
 
 ```bash
 
@@ -107,4 +107,4 @@ Status: #🌲
 References:
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
 
-Part of [[Git Runbooks]]
+Part of [[Public/Git Runbooks]]

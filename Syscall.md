@@ -17,7 +17,7 @@ it can't do so on its own - it must ask Linux Kernel to do it instead.
 
 As many key functions are impossible without kernel, many of the programming language features rely on `syscall` under the hood.
 
-For example in [[Golang]]:
+For example in [[01 Inbox/Golang]]:
 - `fmt.Println` calls `Fprintln` with `os.Stdout` as an argument.
 - `Fprintln` calls `write` function on `os.Stdout`
 - `os.Stdout` is a `File` under the hood
@@ -46,5 +46,5 @@ It's possible to limit what syscalls a process can make for security reasons. Fo
 Status: #💡 
 
 References:
-- [[Video - A Go Programmers guide to Syscalls]]
+- [[Public/Video - A Go Programmers guide to Syscalls]]
 - [syscall man page](https://man7.org/linux/man-pages/man2/syscall.2.html)

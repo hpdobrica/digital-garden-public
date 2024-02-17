@@ -4,7 +4,7 @@ notetype : feed
 date : 23-12-2021
 ---
 
-While [[K8S Node Affinity]] works like an extended [[K8S Node Selectors]], Inter-pod affinity and Anti-affinity focus on labels of the pods rather than labels of the [[K8S Node]].
+While [[Public/K8S Node Affinity]] works like an extended [[Public/K8S Node Selectors]], Inter-pod affinity and Anti-affinity focus on labels of the pods rather than labels of the [[Public/K8S Node]].
 
 This allows us to dictate which pods can or can't be deployed together on the same node.
 
@@ -29,7 +29,7 @@ Setting `topologyKey` to something like `topology.kubernetes.io/zone` will turn 
 
 The full example below demonstrates both the anti affinity (`podAntiAffinity` key) and the inter-pod affinity (`podAffinity` key).
 
-First rule says that our [[K8S Deployment]] should run on any given node (`topologyKey: "kubernetes.io/hostname"`) only if there are no other [[K8S Pod]]s with label `app: web-store` already running on it. This stops our deployment's pods to be co-located on a single node (in a way similar to [[K8S DaemonSet]], just with specific number of replicas).
+First rule says that our [[K8S Deployment]] should run on any given node (`topologyKey: "kubernetes.io/hostname"`) only if there are no other [[Public/K8S Pod]]s with label `app: web-store` already running on it. This stops our deployment's pods to be co-located on a single node (in a way similar to [[K8S DaemonSet]], just with specific number of replicas).
 
 Second rule says that our deployment's pods should run only on nodes where pods with label `app: store` are already running.
 

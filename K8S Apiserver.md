@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-Kube Apiserver is the primary component of a [[Kubernetes]] cluster. It runs on a [[K8S Master Node]], and is the only component which is talking directly to the [[etcd cluster]]. It exposes a REST API through which all K8S components interact with the cluster / with each other.
+Kube Apiserver is the primary component of a [[Public/Kubernetes]] cluster. It runs on a [[Public/K8S Master Node]], and is the only component which is talking directly to the [[Public/etcd cluster]]. It exposes a REST API through which all K8S components interact with the cluster / with each other.
 
 Whenever you execute a `kubectl` command, your client is sending a request to the Kube Apiserver.
 
@@ -18,9 +18,9 @@ Instead of using `kubectl` it would be possible to invoke the APIs directly. F
 - authenticate user (see [[K8S RBAC]])
 - validate request
 - update etcd
-- inform the user that the [[K8S Pod]] has been created
+- inform the user that the [[Public/K8S Pod]] has been created
 
-From here, other components start acting to make sure pod starts running. This process is described in more detail in [[What happens when you create a Pod in Kubernetes]].
+From here, other components start acting to make sure pod starts running. This process is described in more detail in [[Public/What happens when you create a Pod in Kubernetes]].
 
 -----
 

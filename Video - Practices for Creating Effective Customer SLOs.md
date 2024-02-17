@@ -13,7 +13,7 @@ Status: #🛈/📹/✅
 
 
 - sre workbook chapter 3 has case studies on implementing slos
-- [[Cause Based Monitoring]]  / [[Symptom Based Monitoring]]
+- [[Public/Cause Based Monitoring]]  / [[Public/Symptom Based Monitoring]]
 	- full disk, CPU usage  
 	- you assume high CPU == slow service  
 	- what if service is slow and CPU is fine?  

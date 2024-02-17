@@ -8,7 +8,7 @@ A router helps connect two networks together. It can be thought of as another ho
 
 In order for a system to reach a system in another network, it will need to go through a router. Since router is just another device in the network, a system will need a way to find it. This is where **Gateway** comes in.
 
-If a network was a room, the Gateway would be a door to the outside world - to the other networks or to the internet. The systems need to know where the door is in order to be able to go through it. To see the existing routing configuration on a system, you can run the [[Linux Networking]] `route` command, which displays kernel's routing table:
+If a network was a room, the Gateway would be a door to the outside world - to the other networks or to the internet. The systems need to know where the door is in order to be able to go through it. To see the existing routing configuration on a system, you can run the [[Public/Linux Networking]] `route` command, which displays kernel's routing table:
 
 ```bash
 route
@@ -32,7 +32,7 @@ You can configure the router to forward traffic to IP addresses on the internet.
 
 You can configure your host so that requests to any network outside of this one go through this particular router. So in a setup like this, all you would need to do is execute `ip route add default via 192.168.1.1` which will add a default row to the `route` table. 
 
-In the beginning, we said that router can be thought of just as another server in the network. To learn more about this, check out [[How to make a Linux Host act as a Router]].
+In the beginning, we said that router can be thought of just as another server in the network. To learn more about this, check out [[Public/How to make a Linux Host act as a Router]].
 
 
 

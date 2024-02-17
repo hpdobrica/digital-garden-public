@@ -4,7 +4,7 @@ notetype : feed
 date : 03-10-2022
 ---
 
-[[Habit]] feedback loop is a model of the mental process that allows habits to be formed and maintained.
+[[Public/Habit]] feedback loop is a model of the mental process that allows habits to be formed and maintained.
 
 The habit feedback loop consists of four stages:
 - `Cue`
@@ -30,7 +30,7 @@ If any of the four stages are insufficient, the habit will not happen:
 - if response is too difficult, you will not do it
 - if the reward fails to satisfy the craving, the loop will be less likely to start on the next cue
 
-The rule above is in the essence of [[The Four Laws of Behavior Change]].
+The rule above is in the essence of [[Public/The Four Laws of Behavior Change]].
 
 ## Examples
 
@@ -61,4 +61,4 @@ Any habit - good, neutral, or bad follows these four stages. Think of some habit
 Status: #💡 
 
 References:
-- [[Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
+- [[Private/Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))

@@ -4,7 +4,7 @@ notetype : feed
 date : 13-02-2023
 ---
 
-Design of our environment is a key component in influencing things we do. Let's see how we can utilize this to form good [[Habit]]s and break bad ones, using one positive and one negative habit as an example:
+Design of our environment is a key component in influencing things we do. Let's see how we can utilize this to form good [[Public/Habit]]s and break bad ones, using one positive and one negative habit as an example:
 
 Let's use taking supplements as a positive habit. A cue for this habit might be randomly remembering or seeing the bottle with supplements. Negative habit can be scrolling the social media, cue here being a chain of boredom/anxiety, phone in hand, seeing the Reddit app icon.
 
@@ -31,6 +31,6 @@ Habits form because they are easy, canned responses to specific situations. Next
 Status: #💡 
 
 References:
-- [[Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
+- [[Private/Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
 
-Part of [[Make it obvious - First law of behavior change]]
+Part of [[Public/Make it obvious - First law of behavior change]]

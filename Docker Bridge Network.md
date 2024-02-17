@@ -4,7 +4,7 @@ notetype : feed
 date : 03-11-2021
 ---
 
-When [[Docker]] is installed, it creates an internal private network which is by default called `bridge` . You can see this network like this:
+When [[Public/Docker]] is installed, it creates an internal private network which is by default called `bridge` . You can see this network like this:
 
 ```bash
 docker network ls
@@ -26,7 +26,7 @@ Docker accomplishes this by creating a [[Linux Bridge]] like so:
 ip link add docker0 type bridge
 ```
 
-Linux Bridge, while acting like a [[Network Switch]] to the [[Network Namespaces]], it acts as an interface to the host. Therefore the interface `docker0` on the host is assigned an IP address.
+Linux Bridge, while acting like a [[Public/Network Switch]] to the [[01 Inbox/Network Namespaces]], it acts as an interface to the host. Therefore the interface `docker0` on the host is assigned an IP address.
 
 ```bash
 ip addr
@@ -35,7 +35,7 @@ ip addr
 #> ...
 ```
 
-Once this is set up, every time container is created with `--network bridge`, Docker attaches it to this bridge. See [[Docker Container Network Setup]] for more details.
+Once this is set up, every time container is created with `--network bridge`, Docker attaches it to this bridge. See [[Public/Docker Container Network Setup]] for more details.
 
 
 

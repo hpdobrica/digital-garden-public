@@ -6,7 +6,7 @@ date : 05-04-2022
 
 "The beauty and significance of life well lived consists not in the works we leave behind, or in what history has to say about us. It comes from the quality of concious experience that infuses our every waking moment, and from the impact we have on others." 
 
-Meditation is a mental exercise which gives us tools to examine and better understand our minds, our [[Model of Conscious Experience]] and the world around us.
+Meditation is a mental exercise which gives us tools to examine and better understand our minds, our [[Public/Model of Conscious Experience]] and the world around us.
 
 It works by training our minds to enable us to live more conciously than we normally do.
 
@@ -21,4 +21,4 @@ Meditation has helped shape my life for the better, and I haven't even properly 
 Status: #💡 
 
 References:
-- [[Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))
+- [[Private/Book - The Mind Illuminated]] ([Source](https://www.goodreads.com/en/book/show/25942786-the-mind-illuminated))

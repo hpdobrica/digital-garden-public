@@ -15,7 +15,7 @@ Numbers have their representation everywhere in the universe, and figuring out t
 
 "Understanding of eternal facts is the closest man can get to being immortal."
 
-He was also big on the idea that Reason > Senses ([[Senses are deceptive]]), and his thinking was probably one of the biggeer influences on Deductive Reasoning, later concretized by [[Parmenides]]
+He was also big on the idea that Reason > Senses ([[Senses are deceptive]]), and his thinking was probably one of the biggeer influences on Deductive Reasoning, later concretized by [[Public/Parmenides]]
 
 
 
@@ -24,4 +24,4 @@ He was also big on the idea that Reason > Senses ([[Senses are deceptive]]), and
 Status: #💡 
 
 References:
-- [[Podcast - Philozophize This 002]]
+- [[Private/Podcast - Philozophize This 002]]

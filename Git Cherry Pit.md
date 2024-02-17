@@ -4,7 +4,7 @@ notetype : feed
 date : 18-12-2021
 ---
 
-To completely delete a commit from a [[Git]] branch you can use the following command:
+To completely delete a commit from a [[Public/Git]] branch you can use the following command:
 
 ```bash
 
@@ -35,5 +35,5 @@ git-cherry-pit 8b5515fdf49feea83ad6fe9c0ad4a9e81abe9f86
 
 Status: #🌲 
 
-Part of [[Git Runbooks]]
+Part of [[Public/Git Runbooks]]
 

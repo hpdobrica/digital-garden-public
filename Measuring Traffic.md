@@ -4,7 +4,7 @@ notetype : feed
 date : 29-05-2022
 ---
 
-Traffic shows us how much demand is placed on the system, and is one of the [[The Four Golden Signals of Monitoring]].
+Traffic shows us how much demand is placed on the system, and is one of the [[Public/The Four Golden Signals of Monitoring]].
 
 How you track traffic, largely depends on what type of service you are running.
 
@@ -19,4 +19,4 @@ For worker services, we could track the number of jobs injected into the system.
 Status: #💡 
 
 References:
-- [[Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
+- [[Private/Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))

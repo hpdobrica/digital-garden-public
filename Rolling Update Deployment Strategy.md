@@ -4,7 +4,7 @@ notetype : feed
 date : 16-08-2022
 ---
 
-Rolling Update is a [[Deployment Strategy]] (also known as Ramped or Incremental), where we slowly replace version `A` with version `B`. 
+Rolling Update is a [[Public/Deployment Strategy]] (also known as Ramped or Incremental), where we slowly replace version `A` with version `B`. 
 
 ## How it works
 - before we start, we have 2 instances of `A` running and serving traffic (let's call this `starting point` stage)

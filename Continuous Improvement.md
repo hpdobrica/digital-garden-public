@@ -4,7 +4,7 @@ notetype : feed
 date : 21-10-2022
 ---
 
-Continuous Improvement is a mindset of applying small, consistent changes in order to achieve big results. For how similar ideas apply to business world, also see [[Kaizen]].
+Continuous Improvement is a mindset of applying small, consistent changes in order to achieve big results. For how similar ideas apply to business world, also see [[01 Inbox/Kaizen]].
 
 It can be a little unintuitive to see why this approach is so effective, so let's try to lay down some ideas and examples to make it clearer.
 
@@ -30,7 +30,7 @@ It states that if you change your course by just 1 degree, for every 60 miles (~
 
 1 degree difference == 145 kilometers difference, let that sink in.
 
-The same idea is behind how small changes make a big impact on our big goals. A small positive [[Habit]] that brings you closer to your goals, will compound over a large amount of time to bring astonishing results.
+The same idea is behind how small changes make a big impact on our big goals. A small positive [[Public/Habit]] that brings you closer to your goals, will compound over a large amount of time to bring astonishing results.
 
 ## Laziness
 
@@ -54,5 +54,5 @@ If we instead realize that how hard our goal is doesn't really matter that much 
 Status: #💡 
 
 References:
-- [[Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
+- [[Private/Book - Atomic Habits]] ([source](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl))
 - [The 1 in 60 Rule](https://www.inc.com/jeff-haden/the-1-in-60-rule-how-remarkably-successful-people-stay-on-track-to-accomplish-their-biggest-goals.html)

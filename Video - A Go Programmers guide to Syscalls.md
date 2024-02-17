@@ -12,7 +12,7 @@ POC: [github.com/hpdobrica/go-playground/strace](https://github.com/hpdobrica/go
 
 ------
 
-- [[Syscall]] is a way for a program running in userspace to request sevices from the kernel of [[Linux]] OS
+- [[Public/Syscall]] is a way for a program running in userspace to request sevices from the kernel of [[Linux]] OS
 - program can't touch these without kernel/syscalls:
 	- files
 	- devices
@@ -27,7 +27,7 @@ POC: [github.com/hpdobrica/go-playground/strace](https://github.com/hpdobrica/go
 	- `Fprintln` calls `write` on `os.Stdout`
 	- `Stdout` is created with `NewFile`  (at `/dev/stdout`) which creates a `File`
 	- inside of `File` there is finally a call to `syscall.Write`
-- [[Golang]] `syscall` package is a low level package that makes it easier to create syscalls
+- [[01 Inbox/Golang]] `syscall` package is a low level package that makes it easier to create syscalls
 	- implementation varies by os/hardware
 	- shouldn't be used if there is a high-level alternative
 	- its pretty much a wrapper around the OS, so for details on how to use it and what each syscall does, you'd have to look up the manual for your platform

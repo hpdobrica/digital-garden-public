@@ -4,11 +4,11 @@ notetype : feed
 date : 29-05-2022
 ---
 
-Different layers of infrastructure and application are exposing the same [[Monitoring]] metrics. For example, your [[Database]] reports the query duration, and so does your application. These two are sure to have similar results – on application side, add a couple of milliseconds for latency and that's it.
+Different layers of infrastructure and application are exposing the same [[Public/Monitoring]] metrics. For example, your [[Public/Database]] reports the query duration, and so does your application. These two are sure to have similar results – on application side, add a couple of milliseconds for latency and that's it.
 
 Why the hell then would anyone want to collect some metric on application side if it's already provided by the database? The simplest answer is – if we don't have both, there is no way for us to tell if we are having a database issue, or a network issue.
 
-As with everything else in engineering, [[Everything is a trade-off]], so let's look at some different places where you can measure something, and what are the pros and cons of each approach. For this example, let's say we are looking at [[Measuring Request Latency]].
+As with everything else in engineering, [[Everything is a trade-off]], so let's look at some different places where you can measure something, and what are the pros and cons of each approach. For this example, let's say we are looking at [[Public/Measuring Request Latency]].
 
 #### Logs Processing
 
@@ -20,7 +20,7 @@ However, the downside of this approach is coupling logs and metrics, as well as 
 
 #### Application-exported Metrics
 
-Using a tool like [[Prometheus]], we can export our request latency as a metric. 
+Using a tool like [[Public/Prometheus]], we can export our request latency as a metric. 
 
 The good side of this approach it's very fast and cheap to add metrics in this fashion, and it gives us good flexibility of what our metrics will look like.
 
@@ -57,4 +57,4 @@ Downside of this approach is that the measures taken on the client will take int
 Status: #💡 
 
 References:
-- [[Video - Practices for Creating Effective Customer SLOs]] ([Source](https://www.infoq.com/presentations/slo-pitfalls-2019/))
+- [[Public/Video - Practices for Creating Effective Customer SLOs]] ([Source](https://www.infoq.com/presentations/slo-pitfalls-2019/))

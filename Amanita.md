@@ -4,13 +4,13 @@ notetype : feed
 date : 26-02-2023
 ---
 
-Amanita is a [[Genus - Taxonomy]] of [[Fungi]] belonging to [[Amanitaceae]] family that is characterized by having:
-- [[Gills (Lamellae)]]
-- [[Partial veil (Annulus)]]
-- [[Universal Veil (Volva)]]
+Amanita is a [[Public/Genus - Taxonomy]] of [[Public/Fungi]] belonging to [[Public/Amanitaceae]] family that is characterized by having:
+- [[Public/Gills (Lamellae)]]
+- [[Public/Partial veil (Annulus)]]
+- [[Public/Universal Veil (Volva)]]
 
 
-Some [[Species - Taxonomy]] in this genus are:
+Some [[Public/Species - Taxonomy]] in this genus are:
 - Amanita muscaria
 
 -----
@@ -18,4 +18,4 @@ Some [[Species - Taxonomy]] in this genus are:
 Status: #🌱 
 
 References:
-- [[Video - Professor Dave Explains - Mycology]]
+- [[Private/Video - Professor Dave Explains - Mycology]]

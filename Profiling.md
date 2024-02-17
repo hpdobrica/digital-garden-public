@@ -4,7 +4,7 @@ notetype : feed
 date : 28-06-2022
 ---
 
-Profiling is a type of [[Monitoring]] where we collect a lot of data for a short period of time, which we can use to debug an issue.
+Profiling is a type of [[Public/Monitoring]] where we collect a lot of data for a short period of time, which we can use to debug an issue.
 
 Profiling allows us to have **all the events** with **most of the context** for a **limited period of time**. It can generate a ridiculous amount of data so we only want to run it for a short amount of time to help us with a concrete issue.
 
