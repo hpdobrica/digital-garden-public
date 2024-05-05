@@ -215,4 +215,18 @@ Status: #🛈/📖/♻️
 	- intuitive part is that you should reach for changing the delays you are in control of as it's obvious that that's the lever that has strong influence on the system, but the unintuitive part is that instead of speeding delays up, you should be slowing them down even further
 	- the problem above is not that the dealer was reacting too slow, but too quickly
 	- if instead of speeding up their response delay from 3 days to 2, they end up slowing it down to 6 days instead, oscillations are damped and the system finds equilibrium quite quickly
+- delays are strong determinants of behaviors of systems which have them
+	- changing the delay might make a large change in behavior of a system, and make the system much easier or harder to manage
+- the car dealership system affects other systems - car production, industries it depends on, number of jobs, the ability to buy cars and back to car dealership, making this a big reinforcing loop
+	- this large system of different industries responding to each other through delays is the cause of business cycles
+	- economy is full of such balancing feedback loops with delays, which are by their nature oscillatory
+##### two-stock systems
+
+- renewable stick constrained by non-renewable stock (oil industry)
+	- systems we've seen so far were free if constraints (production didn't consume resources, population didn't have to eat)
+	- any growing physical system will eventually meet constraints which will act as a balancing loop that shifts the balance of reinforcing loop by either strengthening the otflow or weakening the inflow
+	- the growing system facing limits is so common it's an archetype in systems thinking called limits-to-growth
+	- when we see a system that's growing (population, corporation, bank account, rumor), we always look for a reinforcing loop that drives it, and a balancing loop that will ultimately constrain it
+		- even if balancing loop is not apparent, we logically know it's there because no physical system can grow forever in a finite environment
+- like resource constraints that limit supply inflow, there exists a pollution constraint, which can be renewable or non-renewable
 	- 
