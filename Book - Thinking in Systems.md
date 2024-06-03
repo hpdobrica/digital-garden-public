@@ -229,4 +229,8 @@ Status: #🛈/📖/♻️
 	- when we see a system that's growing (population, corporation, bank account, rumor), we always look for a reinforcing loop that drives it, and a balancing loop that will ultimately constrain it
 		- even if balancing loop is not apparent, we logically know it's there because no physical system can grow forever in a finite environment
 - like resource constraints that limit supply inflow, there exists a pollution constraint, which can be renewable or non-renewable
-	- 
+	- non renewable is when environment can't absorb the pollutant and make it harmless
+	- renewable is when environment has the capacity to remove the pollutants
+	- everything said about resource constrained systems applies to pollutant constrained systems too, but in a opposite direction
+- limits can be temporary or permanent, but eventually system needs to adjust to the constraint, or the constraint needs to adjust to the system, or both to each other
+- 
