@@ -233,4 +233,4 @@ Status: #🛈/📖/♻️
 	- renewable is when environment has the capacity to remove the pollutants
 	- everything said about resource constrained systems applies to pollutant constrained systems too, but in a opposite direction
 - limits can be temporary or permanent, but eventually system needs to adjust to the constraint, or the constraint needs to adjust to the system, or both to each other
-- 
+	- capital system that makes money by extracting a non renewable resource (oil company)
