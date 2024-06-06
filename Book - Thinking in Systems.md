@@ -234,3 +234,10 @@ Status: #🛈/📖/♻️
 	- everything said about resource constrained systems applies to pollutant constrained systems too, but in a opposite direction
 - limits can be temporary or permanent, but eventually system needs to adjust to the constraint, or the constraint needs to adjust to the system, or both to each other
 	- capital system that makes money by extracting a non renewable resource (oil company)
+		- more capital more investment, higher extraction rate
+		- higher extraction rate, lower the resource stock
+		- lower stock means lower yield, so lower profit
+		- oil reserve could support 200 years of extraction with starting rate, but if extraction rate grows 5% per year it will double in 14 years
+		- after 28 years capital stock has quadrupled, but extraction starts to lag
+		- after 50 years, cost of extraction is higher than yield so the operation shuts down, and the last amount of unextracted oil stays in the ground
+		- 
