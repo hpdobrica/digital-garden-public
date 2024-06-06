@@ -240,4 +240,9 @@ Status: #🛈/📖/♻️
 		- oil reserve could support 200 years of extraction with starting rate, but if extraction rate grows 5% per year it will double in 14 years
 		- after 28 years capital stock has quadrupled, but extraction starts to lag
 		- after 50 years, cost of extraction is higher than yield so the operation shuts down, and the last amount of unextracted oil stays in the ground
-		- 
+		- since doubling happens every 14 years, if there were double the amount of oil in the ground, it would take 14 more years to deplete - if the amount of oil quadrupled, that's just 28 more years
+			- whenever something grows exponentially towards a limit, it will reach it in surprisingly short time
+		- if you want to make most money in as little time, then the most important factor is amount of resources, but if you are a miner concerned with longevity of their job, you also care about desired growth rate of capital - it's a choice of getting rich very fast, and get less rich but maintain the operation longer
+		- the bigger percent of profit reinvested, the faster peak is reached
+- what if price is not constant?
+	- 
