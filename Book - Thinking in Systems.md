@@ -245,4 +245,6 @@ Status: #🛈/📖/♻️
 		- if you want to make most money in as little time, then the most important factor is amount of resources, but if you are a miner concerned with longevity of their job, you also care about desired growth rate of capital - it's a choice of getting rich very fast, and get less rich but maintain the operation longer
 		- the bigger percent of profit reinvested, the faster peak is reached
 - what if price is not constant?
-	- 
+	- if demand stays even if price rises because of scarcity, it will mean more profits, more capital and more motivation for more costly resources to be extracted
+		- the capital rises higher before it collapses
+	- same would happen if prices don't go up but technology makes costs of extraction lower
