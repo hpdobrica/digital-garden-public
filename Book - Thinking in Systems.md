@@ -248,3 +248,9 @@ Status: #🛈/📖/♻️
 	- if demand stays even if price rises because of scarcity, it will mean more profits, more capital and more motivation for more costly resources to be extracted
 		- the capital rises higher before it collapses
 	- same would happen if prices don't go up but technology makes costs of extraction lower
+- this happens when resources deplete locally, will the same thing happen globally?
+- in these systems peak is always followed by crash, and that could happen to our economy if we don't focus on using renewable sources
+
+renewable stick constrained by a renewable stick - a fishing economy
+
+- 
