@@ -251,6 +251,7 @@ Status: #🛈/📖/♻️
 - this happens when resources deplete locally, will the same thing happen globally?
 - in these systems peak is always followed by crash, and that could happen to our economy if we don't focus on using renewable sources
 
-renewable stick constrained by a renewable stick - a fishing economy
+renewable stock constrained by a renewable stock - a fishing economy
 
-- 
+- non-renewable resources are stock limited, their lifespan depends on the speed of extraction
+- renewable resources are flow limited, they can be extracted forever, as long as it's not faster than they regenerate
