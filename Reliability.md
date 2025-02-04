@@ -21,3 +21,4 @@ Status: #💡
 
 References:
 - [[Book - Site Reliability Engineering]] ([Source](https://sre.google/sre-book/table-of-contents/))
+- [[Book - Designing Data Intensive Applications]] ([Source](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321))
