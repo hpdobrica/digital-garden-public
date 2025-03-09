@@ -4,7 +4,7 @@ notetype : feed
 date : 21-10-2022
 ---
 
-Continuous Improvement is a mindset of applying small, consistent changes in order to achieve big results. For how similar ideas apply to business world, also see [[01 Inbox/Kaizen]].
+Continuous Improvement is a mindset of applying small, consistent changes in order to achieve big results. For how similar ideas apply to business world, also see [[Kaizen]].
 
 It can be a little unintuitive to see why this approach is so effective, so let's try to lay down some ideas and examples to make it clearer.
 
