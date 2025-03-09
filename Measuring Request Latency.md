@@ -5,7 +5,7 @@ date : 29-05-2022
 ---
 
 
-Response time is the time taken to serve a request, and is one of [[The Four Golden Signals of Monitoring]]. It's often synonymously used with the term Request Latency (also in this note), but it's good to note that response time is what the client sees, while latency is just part of it,
+Response time is the time taken to serve a request, and is one of [[The Four Golden Signals of Monitoring]]. It's often synonymously used with the term Request Latency, but it's good to note that response time is what the client sees, while latency is just part of it, and signifies the time request is waiting to be processed. As this is a nitpick and conflicts with how terms are represented in some literature i'm going through, so as far as rest of this note is concerned `Response time == Latency`.
 
 The most common metric looked at here is usually the [[Mean]] latency, but this can easily become misleading – imagine serving 99 requests in 10ms and serving one in 20000ms gives you an average latency of ~210ms which is not a good representative of what's actually happening.
 
