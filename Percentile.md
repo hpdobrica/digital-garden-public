@@ -12,6 +12,8 @@ For example, if we talk about [[Measuring Request Latency]], 95th percentile is 
 
 Looking at the 99th percentile will give us a time in which all of our requests would be completed, excluding the slowest 1%.
 
+Beware of averaging percentiles (e.g. to combine data from different sources), as this is a meaningless operation. Instead, this should be approached by adding the histograms together.
+
 
 
 -----
