@@ -4,9 +4,9 @@ notetype: feed
 date: 04-02-2025
 ---
 
-Software failure happens when a system as a whole stops providing expected service to its user. For [[Reliability]], it's important to distinguish between failures and [[Software Fault|faults]]. 
+Software failure happens when a system as a whole stops providing expected service to its user. For [[Reliability]], it's important to distinguish between failures and faults ([[Software Fault]]). 
 
-Failures happen as a consequence of [[Software Fault|faults]] that haven't been dealt with.
+Failures happen as a consequence of faults that haven't been dealt with.
 
 -----
 
