@@ -1,7 +1,7 @@
 ---
-title : Service Reliability
-notetype : feed
-date : 08-01-2022
+title: Reliability
+notetype: feed
+date: 08-01-2022
 ---
 
 A reliable system is a system that continues to work correctly at the desired level of performance even when faced with issues like [[Software Fault|hardware and software faults]] or human errors.

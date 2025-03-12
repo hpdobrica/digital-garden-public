@@ -1,5 +1,5 @@
 ---
-title: Fault
+title: Software Fault
 notetype: feed
 date: 04-02-2025
 ---
