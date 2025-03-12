@@ -4,9 +4,9 @@ notetype: feed
 date: 08-01-2022
 ---
 
-A reliable system is a system that continues to work correctly at the desired level of performance even when faced with issues like [[Software Fault|hardware and software faults]] or human errors.
+A reliable system is a system that continues to work correctly at the desired level of performance even when faced with issues like hardware and [[Software Fault]]s or human errors.
 
-A unreliable system on the other hand, does not tolerate faults, and lets them turn into [[Software Failure|failures]].
+A unreliable system on the other hand, does not tolerate faults, and lets them turn into [[Software Failure]]s.
 
 Reliability of services is crucial in most applications, and everyone should aim for their services to be reliable. However, reliability can be very expensive, so we should know how to manage it properly. 
 
