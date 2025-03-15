@@ -22,6 +22,10 @@ Each vertex is given a symbolic name like USA or Idaho. Other parts of the query
 
 implemented by Datomic, AllegroGraph...
 
+The triple-store model is mostly equivalent to the property graph model, using different words to describe the same ideas. 
+
+The data is stored as tripets containing subject, predicate a
+
 -----
 
 Status: #📥
