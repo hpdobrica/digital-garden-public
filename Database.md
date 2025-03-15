@@ -10,7 +10,7 @@ This note serves as a link to connect database-related notes.
 
 - [[ACID]]
 - [[Optimistic Locking]]/[[Pessimistic Locking]]
-- [[Database Indexing]]
+- [[Database Index]]
 
 -----
 
