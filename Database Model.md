@@ -9,7 +9,7 @@ It’s not possible to say in general which data model leads to simpler applicat
 - If the data in your application has a document-like structure (i.e., a tree of one-to-many relationships, where typically the entire tree is loaded at once), then it’s probably a good idea to use a [[Document Database Model]].
 - If your application does use many-to-many relationships, the document model becomes less appealing and [[Relational Database Model]] might be a better fit.
 - For highly interconnected data, the document model is awkward, the relational model is acceptable, and [[Graph Database Model]]s are the most natural.
-- There are also use-cases like genome sequencing where special implementations are needed as standard
+- There are also use-cases like genome sequencing where special implementations are needed (e.g. GenBank)
 
 See also:
 - [[Hierarchical Database Model]]
