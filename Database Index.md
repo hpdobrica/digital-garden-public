@@ -34,6 +34,8 @@ When compaction cleans up and merges the segments, it also modifies the hash map
 
 In order to find a value for a key, we would check the hash map of the latest segment, if we don't find it, we check the hash map of the next youngest segment, and so on. Since compaction process keeps the number of segments small, we don't have to check too many hash maps to find our value.
 
+To speed up recovery on database restart, we could save a snapshot of hash map in memory, and restore it on startup. In case of crash (which can happen halfway through log write), we could keep the checksums to verify the legitimacy of the current version, and remove any corrupted half-writes.
+
 -----
 
 Status: #📥
