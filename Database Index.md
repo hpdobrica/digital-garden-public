@@ -10,8 +10,9 @@ Indexes are derived from the primary data, and in many databases you can safely 
 
 Indexes optimize the speed of read queries, usually at the cost of speed of write queries. It's difficult to use a secondary data structure to improve write speeds, as the fastest way to write something is to write it only once - while indexes are active, in addition to writing the data to the database, you also need to update the indexes, which slows the writes down.
 
-Some index types:
+Some ways of organizing and indexing data:
 - [[In Memory Hash Map Index]]
+- [[LSM Tree]]
 
 -----
 
