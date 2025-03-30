@@ -25,6 +25,7 @@ Next, we calculate Average Variance by averaging all the square deviations: `(29
 
 Finally, taking the square root of average variance gives us the standard deviation: `sqrt(185.36) = 13.6146979401`
 
+If we add 2 people to the group, who are the shortest and tallest persons in the world, our standard deviation would rise to `50.68`. If all the people in the group had the same height, standard deviation would be `0`.
 
 -----
 
