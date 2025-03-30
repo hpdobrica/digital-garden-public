@@ -14,6 +14,13 @@ If you have a group of people with the following heights:
 
 The [[Mean]] height of the group is `(160+170+175+180+201)/5 = 177.2`
 
+To calculate standard deviation, we take each height and calculate the sqare of it's difference from the mean:
+- `(177.2-160)^2=295.84`
+- `(177.2-170)^2=51.84`
+- `(177.2-175)^2=4.84`
+- `(177.2-180)^2=7.84`
+- `(177.2-201)^2=566.44`
+
 
 
 -----
