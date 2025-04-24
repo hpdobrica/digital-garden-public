@@ -17,6 +17,10 @@ To keep the process more efficient, in the background we will merge and compact 
 
 Memtable and SSTable terms originate from [Google's Bigtable paper](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf).
 
+## Non-existent keys
+
+LSM-Tree algorithm can be slow when looking up keys that don't exist in the database, as you have to check the memtable, 
+
 -----
 
 Status: #📥
