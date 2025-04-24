@@ -5,7 +5,7 @@ date : 26-03-2025
 ---
 
 
-Log-Structured Merge Tree is a [[Data Structure]] optimized for write-heavy workloads, used by storage engines like [[Cassandra]]. 
+Log-Structured Merge Tree is a [[Data Structure]] optimized for write-heavy workloads, used by storage engines like [[Cassandra]] and HBase. 
 
 When a write comes in, we add it to an in-memory balanced tree data structure (for example, a red-black tree), often called a memtable.
 
@@ -15,7 +15,7 @@ When a read request comes in, we first check the memtable, then if we don't find
 
 To keep the process more efficient, in the background we will merge and compact (discard overwritten or deleted values) older SSTables into new ones, so there is less places to check.
 
-Memtable and SSTable terms originate from Google's 
+Memtable and SSTable terms originate from [Google's Bigtable paper](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf).
 
 -----
 
