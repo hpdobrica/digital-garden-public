@@ -15,6 +15,8 @@ When a read request comes in, we first check the memtable, then if we don't find
 
 To keep the process more efficient, in the background we will merge and compact (discard overwritten or deleted values) older SSTables into new ones, so there is less places to check.
 
+Memtable and SSTable terms originate from Google's 
+
 -----
 
 Status: #📥
