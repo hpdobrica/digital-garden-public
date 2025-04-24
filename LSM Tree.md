@@ -19,7 +19,7 @@ Memtable and SSTable terms originate from [Google's Bigtable paper](https://stat
 
 ## Non-existent keys
 
-LSM-Tree algorithm can be slow when looking up keys that don't exist in the database, as you have to check the memtable, 
+LSM-Tree algorithm can be slow when looking up keys that don't exist in the database, as you have to check the memtable, and then all sstables from youngest to oldest, before you are sure that the key doesn't exist. Datastores often use an aditional data structure called [[Bloom Filter]] to combat this.
 
 -----
 
