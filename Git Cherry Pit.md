@@ -4,6 +4,8 @@ notetype : feed
 date : 18-12-2021
 ---
 
+ALWAYS CHECK GIT LOG BEFORE FORCE PUSHING!
+
 To completely delete a commit from a [[Git]] branch you can use the following command:
 
 ```bash
